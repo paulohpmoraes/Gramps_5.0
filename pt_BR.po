@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: GRAMPS 4.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-29 23:03-0700\n"
-"PO-Revision-Date: 2016-08-22 14:08-0300\n"
+"PO-Revision-Date: 2016-08-22 20:33-0300\n"
 "Last-Translator: Paulo Henrique Paiva de Moraes <paulohpmoraes@gmail.com>\n"
 "Language-Team: \n"
 "Language: pt_BR\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 1.8.7.1\n"
+"X-Generator: Poedit 1.8.8\n"
 
 #: ../data/gramps.appdata.xml.in.h:1
 msgid "Gramps is a genealogy program that is both intuitive for hobbyists and feature-complete for professional genealogists."
@@ -273,7 +273,7 @@ msgstr "<b>Trabalhando com datas</b><br/>Um intervalo de datas pode ser fornecid
 
 #: ../data/tips.xml.in.h:2
 msgid "<b>Editing Objects</b><br/>In most cases double clicking on a name, source, place or media entry will bring up a window to allow you to edit the object. Note that the result can be dependent on context. For example, in the Family View clicking on a parent or child will bring up the Relationship Editor."
-msgstr "<b>Edição de objetos</b><br/>Na maioria dos casos ao se clicar duas vezes em um item de nome, fonte de referência, local ou objeto de mídia será aberta uma janela que permitirá a edição do objeto. Observe que o resultado pode depender do contexto. Por exemplo, ao se clicar em um pai/mãe na exibição de famílias, o editor de parentesco será aberto."
+msgstr "<b>Edição de objetos</b><br/>Na maioria dos casos ao se clicar duas vezes em um item de nome, fonte de referência, lugar ou objeto de mídia será aberta uma janela que permitirá a edição do objeto. Observe que o resultado pode depender do contexto. Por exemplo, ao se clicar em um pai/mãe na exibição de famílias, o editor de parentesco será aberto."
 
 #: ../data/tips.xml.in.h:3
 msgid "<b>Adding Images</b><br/>An image can be added to any gallery or the Media View by dragging and dropping it from a file manager or a web browser. Actually you can add any type of file like this, useful for scans of documents and other digital sources."
@@ -349,7 +349,7 @@ msgstr "<b>Itens duplicados</b><br/>&quot;Ferramentas &gt; Processando a base de
 
 #: ../data/tips.xml.in.h:21
 msgid "<b>Merging Entries</b><br/>The function &quot;Edit &gt; Compare and Merge...&quot; allows you to combine separately listed people into one. Select the second entry by holding the Control key as you click. This is very useful for combining two databases with overlapping people, or combining erroneously entered differing names for one individual. This also works for the Places, Sources and Repositories views."
-msgstr "<b>Mesclando itens</b><br/>A função &quot;Editar &gt; Comparar e mesclar...&quot; permite-lhe combinar pessoas listadas separadamente em uma única. Selecione o segundo item mantendo a tecla Ctrl pressionada enquanto clica. Isto é muito útil ao se combinar dois bancos de dados que tenham pessoas que se sobrepõem, ou para se combinar nomes divergentes que foram erroneamente vinculados a um indivíduo. Isto também funciona para a exibição de locais, fontes de referência e repositórios."
+msgstr "<b>Mesclando itens</b><br/>A função &quot;Editar &gt; Comparar e mesclar...&quot; permite-lhe combinar pessoas listadas separadamente em uma única. Selecione o segundo item mantendo a tecla Ctrl pressionada enquanto clica. Isto é muito útil ao se combinar dois bancos de dados que tenham pessoas que se sobrepõem, ou para se combinar nomes divergentes que foram erroneamente vinculados a um indivíduo. Isto também funciona para a exibição de lugares, fontes de referência e repositórios."
 
 #: ../data/tips.xml.in.h:22
 msgid "<b>Organising the Views</b><br/>Many of the views can present your data as either a hierarchical tree or as a simple list. Each view can also be configured to the way you like it. Have a look to the right of the top toolbar or under the &quot;View&quot; menu."
@@ -421,7 +421,7 @@ msgstr "<b>Gerenciando fontes de referência</b><br/>A exibição de fontes de r
 
 #: ../data/tips.xml.in.h:39
 msgid "<b>Managing Places</b><br/>The Places View shows a list of all places in the database. The list can be sorted by a number of different criteria, such as City, County or State."
-msgstr "<b>Gerenciando locais</b><br/>A exibição de locais mostra uma lista de todos os locais existentes na base de dados. A lista pode ser ordenada por critérios diferentes, tais como por Cidade, Condado ou Estado."
+msgstr "<b>Gerenciando lugares</b><br/>A exibição de lugares mostra uma lista de todos os lugares existentes na base de dados. A lista pode ser ordenada por critérios diferentes, tais como por Cidade, Condado ou Estado."
 
 #: ../data/tips.xml.in.h:40
 msgid "<b>Media View</b><br/>The Media View shows a list of all media entered in the database. These can be graphic images, videos, sound clips, spreadsheets, documents, and more."
@@ -602,7 +602,7 @@ msgstr "Árvores genealógicas do Gramps:"
 #. -------------------------------------------------------------------------
 #: ../gramps/cli/arghandler.py:434 ../gramps/cli/arghandler.py:436 ../gramps/cli/arghandler.py:441 ../gramps/cli/arghandler.py:442 ../gramps/cli/arghandler.py:444 ../gramps/cli/clidbman.py:68 ../gramps/cli/clidbman.py:171 ../gramps/cli/clidbman.py:192 ../gramps/gui/clipboard.py:970 ../gramps/gui/configure.py:1455
 msgid "Family Tree"
-msgstr "Árvore Genealógica"
+msgstr "Árvore genealógica"
 
 #. translators: used in French+Russian, ignore otherwise
 #: ../gramps/cli/arghandler.py:442 ../gramps/cli/arghandler.py:446 ../gramps/gen/plug/report/endnotes.py:199
@@ -2775,7 +2775,7 @@ msgstr "Tipo de evento:"
 
 #: ../gramps/gen/filters/rules/event/_hasdata.py:47 ../gramps/gen/filters/rules/family/_hasevent.py:49 ../gramps/gen/filters/rules/person/_hasbirth.py:48 ../gramps/gen/filters/rules/person/_hasdeath.py:48 ../gramps/gen/filters/rules/person/_hasevent.py:50 ../gramps/gen/filters/rules/person/_hasfamilyevent.py:50 ../gramps/gui/editors/filtereditor.py:506 ../gramps/gui/glade/mergeevent.glade:279 ../gramps/gui/glade/mergeevent.glade:295
 msgid "Place:"
-msgstr "Local:"
+msgstr "Lugar:"
 
 #: ../gramps/gen/filters/rules/event/_hasdata.py:48 ../gramps/gen/filters/rules/family/_hasevent.py:50 ../gramps/gen/filters/rules/person/_hasbirth.py:48 ../gramps/gen/filters/rules/person/_hasdeath.py:48 ../gramps/gen/filters/rules/person/_hasevent.py:51 ../gramps/gen/filters/rules/person/_hasfamilyevent.py:51 ../gramps/gui/glade/mergeevent.glade:312 ../gramps/gui/glade/mergeevent.glade:328
 msgid "Description:"
@@ -2900,15 +2900,15 @@ msgstr "Localiza os eventos de pessoas que foram encontradas pelo filtro especif
 
 #: ../gramps/gen/filters/rules/event/_matchesplacefilter.py:49 ../gramps/gui/editors/filtereditor.py:535
 msgid "Place filter name:"
-msgstr "Nome do filtro de locais:"
+msgstr "Nome do filtro de lugares:"
 
 #: ../gramps/gen/filters/rules/event/_matchesplacefilter.py:50
 msgid "Events of places matching the <place filter>"
-msgstr "Eventos de locais que coincidem com o <filtro de locais>"
+msgstr "Eventos de lugares que coincidem com <place filter>"
 
 #: ../gramps/gen/filters/rules/event/_matchesplacefilter.py:51
 msgid "Matches events that occurred at places that match the specified place filter name"
-msgstr "Localiza os eventos que ocorreram em lugares que correspondem ao filtro de locais com o nome especificado"
+msgstr "Localiza os eventos que ocorreram em lugares que correspondem ao filtro de lugares com o nome especificado"
 
 #: ../gramps/gen/filters/rules/event/_matchessourceconfidence.py:45
 msgid "Events with at least one direct source >= <confidence level>"
@@ -3548,7 +3548,7 @@ msgstr "Famílias com eventos incompletos"
 
 #: ../gramps/gen/filters/rules/person/_familywithincompleteevent.py:43
 msgid "Matches people with missing date or place in an event of the family"
-msgstr "Encontra as pessoas que faltam uma data ou local em um evento familiar"
+msgstr "Encontra pessoas com uma data ou lugar faltando em um evento familiar"
 
 #: ../gramps/gen/filters/rules/person/_hasaddress.py:49
 msgid "People with <count> addresses"
@@ -4169,7 +4169,7 @@ msgstr "Pessoas com eventos incompletos"
 
 #: ../gramps/gen/filters/rules/person/_personwithincompleteevent.py:43
 msgid "Matches people with missing date or place in an event"
-msgstr "Localiza as pessoas que faltam uma data ou local em um evento"
+msgstr "Localiza pessoas com uma data ou lugar faltando em um evento"
 
 #: ../gramps/gen/filters/rules/person/_probablyalive.py:44
 msgid "On date:"
@@ -4221,27 +4221,27 @@ msgstr "Pessoas que coincidem com <name>"
 
 #: ../gramps/gen/filters/rules/place/_allplaces.py:44
 msgid "Every place"
-msgstr "Todos os locais"
+msgstr "Todos os lugares"
 
 #: ../gramps/gen/filters/rules/place/_allplaces.py:45
 msgid "Matches every place in the database"
-msgstr "Localiza todos os locais na base de dados"
+msgstr "Localiza todos os lugares da base de dados"
 
 #: ../gramps/gen/filters/rules/place/_changedsince.py:47
 msgid "Places changed after <date time>"
-msgstr "Locais alterados após <date time>"
+msgstr "Lugares alterados após <date time>"
 
 #: ../gramps/gen/filters/rules/place/_changedsince.py:48
 msgid "Matches place records changed after a specified date-time (yyyy-mm-dd hh:mm:ss) or in the range, if a second date-time is given."
-msgstr "Localiza os registros do locais alterados após uma data/hora especificada (aaaa-mm-dd hh:mm:ss) ou no intervalo, caso uma segunda data/hora for fornecida."
+msgstr "Localiza os registros do lugares alterados após uma data/hora especificada (aaaa-mm-dd hh:mm:ss) ou no intervalo, caso uma segunda data/hora for fornecida."
 
 #: ../gramps/gen/filters/rules/place/_hascitation.py:51
 msgid "Place with the <citation>"
-msgstr "Local com a <citation>"
+msgstr "Lugar com <citation>"
 
 #: ../gramps/gen/filters/rules/place/_hascitation.py:52
 msgid "Matches places with a citation of a particular value"
-msgstr "Encontra locais com uma citação que possui um valor específico"
+msgstr "Encontra lugares com uma citação que possui um valor específico"
 
 #: ../gramps/gen/filters/rules/place/_hasdata.py:48 ../gramps/gui/glade/editfamily.glade:118 ../gramps/gui/glade/editfamily.glade:372 ../gramps/gui/glade/editplacename.glade:183 ../gramps/gui/glade/editplaceref.glade:214 ../gramps/gui/glade/mergeperson.glade:224 ../gramps/gui/glade/mergeperson.glade:240 ../gramps/gui/glade/mergeplace.glade:426 ../gramps/gui/glade/mergeplace.glade:443 ../gramps/plugins/gramplet/soundgen.py:65
 msgid "Name:"
@@ -4257,11 +4257,11 @@ msgstr "Código:"
 
 #: ../gramps/gen/filters/rules/place/_hasdata.py:52 ../gramps/gen/filters/rules/place/_hasplace.py:58
 msgid "Places matching parameters"
-msgstr "Locais que correspondem aos parâmetros"
+msgstr "Lugares que correspondem aos parâmetros"
 
 #: ../gramps/gen/filters/rules/place/_hasdata.py:53 ../gramps/gen/filters/rules/place/_hasplace.py:59
 msgid "Matches places with particular parameters"
-msgstr "Localiza os locais com parâmetros específicos"
+msgstr "Localiza os lugares com parâmetros específicos"
 
 #: ../gramps/gen/filters/rules/place/_hasgallery.py:45
 msgid "Places with <count> media"
@@ -4269,23 +4269,23 @@ msgstr "Eventos com <count> mídias"
 
 #: ../gramps/gen/filters/rules/place/_hasgallery.py:46
 msgid "Matches places with a certain number of items in the gallery"
-msgstr "Localiza os locais com um determinado número de itens na galeria"
+msgstr "Localiza os lugares com um determinado número de itens na galeria"
 
 #: ../gramps/gen/filters/rules/place/_hasidof.py:44
 msgid "Place with <Id>"
-msgstr "Locais com <Id>"
+msgstr "Lugares com <Id>"
 
 #: ../gramps/gen/filters/rules/place/_hasidof.py:45
 msgid "Matches a place with a specified Gramps ID"
-msgstr "Localiza um local com um ID Gramps especificado"
+msgstr "Localiza um lugar com um ID Gramps especificado"
 
 #: ../gramps/gen/filters/rules/place/_hasnolatorlon.py:48
 msgid "Places with no latitude or longitude given"
-msgstr "Locais sem latitude ou longitude fornecidas"
+msgstr "Lugares sem latitude ou longitude fornecidas"
 
 #: ../gramps/gen/filters/rules/place/_hasnolatorlon.py:49
 msgid "Matches places with empty latitude or longitude"
-msgstr "Localiza os locais com latitude ou longitude em branco"
+msgstr "Localiza os lugares com latitude ou longitude em branco"
 
 #: ../gramps/gen/filters/rules/place/_hasnolatorlon.py:50 ../gramps/gen/filters/rules/place/_inlatlonneighborhood.py:56
 msgid "Position filters"
@@ -4293,27 +4293,27 @@ msgstr "Filtros de posição"
 
 #: ../gramps/gen/filters/rules/place/_hasnote.py:45
 msgid "Places having <count> notes"
-msgstr "Locais que possuem <count> anotações"
+msgstr "Lugares que possuem <count> anotações"
 
 #: ../gramps/gen/filters/rules/place/_hasnote.py:46
 msgid "Matches places having a certain number of notes"
-msgstr "Localiza os locais que possuem um determinado número anotações"
+msgstr "Localiza os lugares que possuem um determinado número anotações"
 
 #: ../gramps/gen/filters/rules/place/_hasnotematchingsubstringof.py:42
 msgid "Places having notes containing <substring>"
-msgstr "Locais que possuem anotações contendo <substring>"
+msgstr "Lugares que possuem anotações contendo <substring>"
 
 #: ../gramps/gen/filters/rules/place/_hasnotematchingsubstringof.py:43
 msgid "Matches places whose notes contain text matching a substring"
-msgstr "Localiza locais cujas anotações contenham texto que coincide com uma cadeia de caracteres"
+msgstr "Localiza lugares cujas anotações contenham texto que coincide com uma cadeia de caracteres"
 
 #: ../gramps/gen/filters/rules/place/_hasnoteregexp.py:41
 msgid "Places having notes containing <text>"
-msgstr "Locais que possuem anotações contendo <texto>"
+msgstr "Lugares que possuem anotações contendo <texto>"
 
 #: ../gramps/gen/filters/rules/place/_hasnoteregexp.py:42
 msgid "Matches places whose notes contain text matching a regular expression"
-msgstr "Localiza os locais cujas anotações contenham texto que coincide com uma expressão regular"
+msgstr "Localiza os lugares cujas anotações contenham texto que coincide com uma expressão regular"
 
 #: ../gramps/gen/filters/rules/place/_hasplace.py:49
 msgid "Street:"
@@ -4349,27 +4349,27 @@ msgstr "Paróquia:"
 
 #: ../gramps/gen/filters/rules/place/_hasreferencecountof.py:42
 msgid "Places with a reference count of <count>"
-msgstr "Locais com um número de referências <count>"
+msgstr "Lugares com um número de referências <count>"
 
 #: ../gramps/gen/filters/rules/place/_hasreferencecountof.py:43
 msgid "Matches places with a certain reference count"
-msgstr "Localiza os locais com um determinado número de referências"
+msgstr "Localiza os lugares com um determinado número de referências"
 
 #: ../gramps/gen/filters/rules/place/_hassourcecount.py:45
 msgid "Place with <count> sources"
-msgstr "Local com <count> de fontes de referência"
+msgstr "Lugare com <count> de fontes de referência"
 
 #: ../gramps/gen/filters/rules/place/_hassourcecount.py:46
 msgid "Matches places with a certain number of sources connected to it"
-msgstr "Encontra locais com um determinado número de fontes de referência a eles ligadas"
+msgstr "Encontra lugares com um determinado número de fontes de referência a eles ligadas"
 
 #: ../gramps/gen/filters/rules/place/_hassourceof.py:46
 msgid "Places with the <source>"
-msgstr "Locais com a <source>"
+msgstr "Lugares com a <source>"
 
 #: ../gramps/gen/filters/rules/place/_hassourceof.py:48
 msgid "Matches places who have a particular source"
-msgstr "Encontra locais que possuem uma fonte de referência específica"
+msgstr "Encontra lugares que possuem uma fonte de referência específica"
 
 #: ../gramps/gen/filters/rules/place/_hastag.py:49
 msgid "Places with the <tag>"
@@ -4381,11 +4381,11 @@ msgstr "Encontra lugares com uma etiqueta específica"
 
 #: ../gramps/gen/filters/rules/place/_hastitle.py:49
 msgid "Places matching a title"
-msgstr "Locais que coincidem com o título"
+msgstr "Lugares que coincidem com o título"
 
 #: ../gramps/gen/filters/rules/place/_hastitle.py:50
 msgid "Matches places with a particular title"
-msgstr "Encontra lugares com uma título específico"
+msgstr "Encontra lugares com um título específico"
 
 #: ../gramps/gen/filters/rules/place/_inlatlonneighborhood.py:49 ../gramps/gui/glade/editplaceref.glade:244 ../gramps/gui/glade/mergeplace.glade:237 ../gramps/gui/glade/mergeplace.glade:252
 msgid "Latitude:"
@@ -4405,11 +4405,11 @@ msgstr "Largura do retângulo:"
 
 #: ../gramps/gen/filters/rules/place/_inlatlonneighborhood.py:51
 msgid "Places in neighborhood of given position"
-msgstr "Locais próximos à posição indicada"
+msgstr "Lugares próximos à posição indicada"
 
 #: ../gramps/gen/filters/rules/place/_inlatlonneighborhood.py:52
 msgid "Matches places with latitude or longitude positioned in a rectangle of given height and width (in degrees), and with middlepoint the given latitude and longitude."
-msgstr "Localiza os locais com latitude ou longitude posicionados entre a largura e altura do retângulo indicado (em graus), e com a latitude e longitude como ponto central."
+msgstr "Localiza os lugares com latitude ou longitude posicionados entre a largura e altura do retângulo indicado (em graus), e com a latitude e longitude como ponto central."
 
 #: ../gramps/gen/filters/rules/place/_isenclosedby.py:49
 msgid "Places enclosed by another place"
@@ -4421,35 +4421,35 @@ msgstr "Encontra lugares circundados por um lugar específico"
 
 #: ../gramps/gen/filters/rules/place/_matcheseventfilter.py:50
 msgid "Places of events matching the <event filter>"
-msgstr "Locais dos eventos que coincidem com o <event filter>"
+msgstr "Lugares dos eventos que coincidem com o <event filter>"
 
 #: ../gramps/gen/filters/rules/place/_matcheseventfilter.py:51
 msgid "Matches places where events happened that match the specified event filter name"
-msgstr "Localiza os locais onde os eventos aconteceram que foram encontrados pelo filtro especificado"
+msgstr "Localiza os lugares onde os eventos aconteceram que foram encontrados pelo filtro especificado"
 
 #: ../gramps/gen/filters/rules/place/_matchesfilter.py:44
 msgid "Places matching the <filter>"
-msgstr "Locais que coincidem com o <filter>"
+msgstr "Lugares que coincidem com o <filter>"
 
 #: ../gramps/gen/filters/rules/place/_matchesfilter.py:45
 msgid "Matches places matched by the specified filter name"
-msgstr "Localiza os locais que foram encontrados pelo filtro especificado"
+msgstr "Localiza os lugares que foram encontrados pelo filtro especificado"
 
 #: ../gramps/gen/filters/rules/place/_matchessourceconfidence.py:44
 msgid "Place with a direct source >= <confidence level>"
-msgstr "Locais com uma fonte de referência direta >= <confidence level>"
+msgstr "Lugares com uma fonte de referência direta >= <confidence level>"
 
 #: ../gramps/gen/filters/rules/place/_matchessourceconfidence.py:45
 msgid "Matches places with at least one direct source with confidence level(s)"
-msgstr "Encontra locais com pelo menos uma fonte de referência direta com que correspondem ao(s) nível(is) de confidencialidade"
+msgstr "Encontra lugares com pelo menos uma fonte de referência direta com que correspondem ao(s) nível(is) de confidencialidade"
 
 #: ../gramps/gen/filters/rules/place/_placeprivate.py:42
 msgid "Places marked private"
-msgstr "Locais marcados como privados"
+msgstr "Lugares marcados como privados"
 
 #: ../gramps/gen/filters/rules/place/_placeprivate.py:43
 msgid "Matches places that are indicated as private"
-msgstr "Localiza os locais que estão indicados como privados"
+msgstr "Localiza os lugares que estão indicados como privados"
 
 #: ../gramps/gen/filters/rules/place/_regexpidof.py:47
 msgid "Places with Id containing <text>"
@@ -4457,7 +4457,7 @@ msgstr "Pessoas com Id contendo <texto>"
 
 #: ../gramps/gen/filters/rules/place/_regexpidof.py:48
 msgid "Matches places whose Gramps ID matches the regular expression"
-msgstr "Localiza os locais cujo ID Gramps coincide com a expressão regular"
+msgstr "Localiza os lugares cujo ID Gramps coincide com a expressão regular"
 
 #: ../gramps/gen/filters/rules/repository/_allrepos.py:44
 msgid "Every repository"
@@ -4997,11 +4997,11 @@ msgstr "Batismo"
 
 #: ../gramps/gen/lib/eventtype.py:169
 msgid "Bar Mitzvah"
-msgstr "Bar Mitzvah"
+msgstr "Bar Mitzvá"
 
 #: ../gramps/gen/lib/eventtype.py:170
 msgid "Bat Mitzvah"
-msgstr "Bat Mitzvah"
+msgstr "Bat Mitzvá"
 
 #: ../gramps/gen/lib/eventtype.py:171
 msgid "Blessing"
@@ -5013,7 +5013,7 @@ msgstr "Sepultamento"
 
 #: ../gramps/gen/lib/eventtype.py:173
 msgid "Cause Of Death"
-msgstr "Causa do falecimento"
+msgstr "Causa mortis"
 
 #: ../gramps/gen/lib/eventtype.py:174
 msgid "Census"
@@ -5089,7 +5089,7 @@ msgstr "Ordenação"
 
 #: ../gramps/gen/lib/eventtype.py:192
 msgid "Probate"
-msgstr "Homologa (um testamento)"
+msgstr "Homologação de testamento"
 
 #: ../gramps/gen/lib/eventtype.py:193
 msgid "Property"
@@ -5191,7 +5191,7 @@ msgstr "bar."
 
 #: ../gramps/gen/lib/eventtype.py:220
 msgid "Bat Mitzvah abbreviation|bat."
-msgstr "bas."
+msgstr "bam."
 
 #: ../gramps/gen/lib/eventtype.py:221
 msgid "Blessing abbreviation|bles."
@@ -5339,7 +5339,7 @@ msgstr "anul."
 
 #: ../gramps/gen/lib/familyreltype.py:49
 msgid "Civil Union"
-msgstr "União estável"
+msgstr "União civil"
 
 #: ../gramps/gen/lib/familyreltype.py:50
 msgid "Unmarried"
@@ -6019,7 +6019,7 @@ msgstr "FTP"
 
 #: ../gramps/gen/merge/diff.py:188
 msgid "Family Tree Differences"
-msgstr "Differenças das Árvores Genealógicas"
+msgstr "Differenças das árvores genealógicas"
 
 #: ../gramps/gen/merge/diff.py:189
 msgid "Searching..."
@@ -6071,7 +6071,7 @@ msgstr "Diversas família foram mescladas. Isto não é normal e será cancelado
 
 #: ../gramps/gen/merge/mergeplacequery.py:60 ../gramps/gui/merge/mergeplace.py:77
 msgid "Merge Places"
-msgstr "Mesclar locais"
+msgstr "Mesclar lugares"
 
 #: ../gramps/gen/merge/mergerepositoryquery.py:59 ../gramps/gui/merge/mergerepository.py:67
 msgid "Merge Repositories"
@@ -6641,7 +6641,7 @@ msgstr "PESSOA"
 
 #: ../gramps/gen/plug/report/utils.py:288 ../gramps/plugins/textreport/notelinkreport.py:156 ../gramps/plugins/textreport/summary.py:281 ../gramps/plugins/tool/eventcmp.py:156
 msgid "Entire Database"
-msgstr "Todo a base de dados"
+msgstr "Toda a base de dados"
 
 #. feature request 2356: avoid genitive form
 #: ../gramps/gen/plug/report/utils.py:292 ../gramps/gui/plug/export/_exportoptions.py:442 ../gramps/plugins/textreport/descendreport.py:472
@@ -7189,7 +7189,7 @@ msgstr "a família"
 
 #: ../gramps/gen/utils/grampslocale.py:835
 msgid "the place"
-msgstr "o local"
+msgstr "o lugar"
 
 #: ../gramps/gen/utils/grampslocale.py:837
 msgid "the event"
@@ -7544,7 +7544,7 @@ msgstr "Evento"
 #: ../gramps/plugins/gramplet/quickviewgramplet.py:112 ../gramps/plugins/importer/importcsv.py:230 ../gramps/plugins/quickview/filterbyname.py:185 ../gramps/plugins/quickview/filterbyname.py:252 ../gramps/plugins/quickview/onthisday.py:80 ../gramps/plugins/quickview/onthisday.py:81 ../gramps/plugins/quickview/onthisday.py:82 ../gramps/plugins/quickview/quickview.gpr.py:203 ../gramps/plugins/quickview/references.py:92 ../gramps/plugins/textreport/indivcomplete.py:461 ../gramps/plugins/textreport/indivcomplete.py:656 ../gramps/plugins/tool/sortevents.py:58 ../gramps/plugins/view/eventview.py:86 ../gramps/plugins/webreport/narrativeweb.py:342 ../gramps/plugins/webreport/narrativeweb.py:997
 #: ../gramps/plugins/webreport/narrativeweb.py:1283 ../gramps/plugins/webreport/narrativeweb.py:1313
 msgid "Place"
-msgstr "Local"
+msgstr "Lugar"
 
 #: ../gramps/gui/clipboard.py:427 ../gramps/gui/filters/sidebar/_familysidebarfilter.py:116
 msgid "Family Event"
@@ -7585,7 +7585,7 @@ msgstr "Ref de lugar"
 
 #: ../gramps/gui/clipboard.py:605 ../gramps/gui/editors/editplacename.py:134
 msgid "Place Name"
-msgstr "Nome do local"
+msgstr "Nome do lugar"
 
 #: ../gramps/gui/clipboard.py:686
 msgid "Media ref"
@@ -8001,7 +8001,7 @@ msgstr "Idioma"
 
 #: ../gramps/gui/configure.py:1157 ../gramps/plugins/quickview/filterbyname.py:100 ../gramps/plugins/quickview/filterbyname.py:125 ../gramps/plugins/textreport/tagreport.py:403 ../gramps/plugins/view/view.gpr.py:204 ../gramps/plugins/view/view.gpr.py:212 ../gramps/plugins/view/view.gpr.py:227 ../gramps/plugins/webreport/narrativeweb.py:1861 ../gramps/plugins/webreport/narrativeweb.py:1922 ../gramps/plugins/webreport/narrativeweb.py:1980 ../gramps/plugins/webreport/narrativeweb.py:3745 ../gramps/plugins/webreport/narrativeweb.py:3895
 msgid "Places"
-msgstr "Locais"
+msgstr "Lugares"
 
 #: ../gramps/gui/configure.py:1173
 msgid "Missing surname"
@@ -8391,7 +8391,7 @@ msgstr "Status"
 
 #: ../gramps/gui/dbman.py:388
 msgid "Database Type"
-msgstr "Tipo de Base de Dados"
+msgstr "Tipo de base de dados"
 
 #: ../gramps/gui/dbman.py:494
 #, python-format
@@ -8400,7 +8400,7 @@ msgstr "Quebrar o bloqueio da base de dados '%s'?"
 
 #: ../gramps/gui/dbman.py:495
 msgid "Gramps believes that someone else is actively editing this database. You cannot edit this database while it is locked. If no one is editing the database you may safely break the lock. However, if someone else is editing the database and you break the lock, you may corrupt the database."
-msgstr "O Gramps acredita que alguém está ativamente editando esta base de dados. Você não pode editar essa base de dados enquanto estiver bloqueado. Caso ninguém esteja editando a base de dados, você pode quebrar o bloqueio com segurança. Entretanto, caso outra pessoa esteja editando a base de dados e você quebre o bloqueio, a base de dados pode ficar corrompida."
+msgstr "O Gramps acredita que alguém está ativamente editando esta base de dados. Você não podrá editá-la enquanto ela estiver bloqueada. Caso ninguém a esteja editando-a, você pode quebrar o bloqueio com segurança. Caso haja outra pessoa editando a base de dados e você quebar o bloqueio, ela poderá ser corrompida."
 
 #: ../gramps/gui/dbman.py:501
 msgid "Break lock"
@@ -8448,7 +8448,7 @@ msgstr "Remover esta árvore genealógica irá destruir os dados permanentemente
 
 #: ../gramps/gui/dbman.py:680
 msgid "Remove Family Tree"
-msgstr "Remover árvore genealógica"
+msgstr "Remover a árvore genealógica"
 
 #: ../gramps/gui/dbman.py:686
 #, python-format
@@ -8659,7 +8659,7 @@ msgstr "Não há evento ativo"
 
 #: ../gramps/gui/displaystate.py:381
 msgid "No active place"
-msgstr "Não há local ativo"
+msgstr "Não há lugar ativo"
 
 #: ../gramps/gui/displaystate.py:382
 msgid "No active source"
@@ -9006,7 +9006,7 @@ msgstr "_SUD"
 
 #: ../gramps/gui/editors/displaytabs/locationembedlist.py:65
 msgid "Alternate _Locations"
-msgstr "_Locais alternativos"
+msgstr "_Lugares alternativos"
 
 #: ../gramps/gui/editors/displaytabs/nameembedlist.py:63
 msgid "Create and add a new name"
@@ -9560,11 +9560,11 @@ msgstr "Data de falecimento"
 
 #: ../gramps/gui/editors/editfamily.py:129 ../gramps/gui/selectors/selectperson.py:98 ../gramps/plugins/lib/libpersonview.py:102
 msgid "Birth Place"
-msgstr "Local do nascimento"
+msgstr "Lugar de nascimento"
 
 #: ../gramps/gui/editors/editfamily.py:130 ../gramps/gui/selectors/selectperson.py:100 ../gramps/plugins/lib/libpersonview.py:104
 msgid "Death Place"
-msgstr "Local do falecimento"
+msgstr "Lugar do falecimento"
 
 #: ../gramps/gui/editors/editfamily.py:142 ../gramps/plugins/export/exportcsv.glade:188
 msgid "Chil_dren"
@@ -9744,7 +9744,7 @@ msgstr "Editor de endereço de Internet"
 
 #: ../gramps/gui/editors/editlocation.py:50
 msgid "Location Editor"
-msgstr "Editor de local"
+msgstr "Editor de lugar"
 
 #: ../gramps/gui/editors/editmedia.py:68
 msgid "manual|New_Media_dialog"
@@ -10031,11 +10031,11 @@ msgstr "Nome:"
 #: ../gramps/gui/editors/editplace.py:98 ../gramps/gui/editors/editplaceref.py:95
 #, python-format
 msgid "Place: %s"
-msgstr "Local: %s"
+msgstr "Lugar: %s"
 
 #: ../gramps/gui/editors/editplace.py:100 ../gramps/gui/editors/editplaceref.py:97
 msgid "New Place"
-msgstr "Novo local"
+msgstr "Novo lugar"
 
 #: ../gramps/gui/editors/editplace.py:181 ../gramps/gui/editors/editplaceref.py:171
 msgid "Invalid latitude (syntax: 18\\u00b09'"
@@ -10055,7 +10055,7 @@ msgstr "48.21\"E, -18.2412 ou -18:9:48.21)"
 
 #: ../gramps/gui/editors/editplace.py:195 ../gramps/plugins/lib/maps/geography.py:887 ../gramps/plugins/view/geoplaces.py:355 ../gramps/plugins/view/geoplaces.py:381
 msgid "Edit Place"
-msgstr "Editar local"
+msgstr "Editar lugar"
 
 #: ../gramps/gui/editors/editplace.py:286 ../gramps/gui/editors/editplaceref.py:277
 msgid "Cannot save place. Name not entered."
@@ -10067,22 +10067,22 @@ msgstr "Forneça um nome antes de salvar."
 
 #: ../gramps/gui/editors/editplace.py:296
 msgid "Cannot save place. ID already exists."
-msgstr "Não foi possível salvar o local. O ID já existe."
+msgstr "Não foi possível salvar o lugar. O ID já existe."
 
 #: ../gramps/gui/editors/editplace.py:310
 #, python-format
 msgid "Add Place (%s)"
-msgstr "Adicionar local (%s)"
+msgstr "Adicionar lugar (%s)"
 
 #: ../gramps/gui/editors/editplace.py:315
 #, python-format
 msgid "Edit Place (%s)"
-msgstr "Editar local (%s)"
+msgstr "Editar lugar (%s)"
 
 #: ../gramps/gui/editors/editplace.py:340
 #, python-format
 msgid "Delete Place (%s)"
-msgstr "Excluir local (%s)"
+msgstr "Excluir lugar (%s)"
 
 #: ../gramps/gui/editors/editplacename.py:49
 msgid "manual|Place_Name_Editor_dialog"
@@ -10098,7 +10098,7 @@ msgstr "Código ISO inválido"
 
 #: ../gramps/gui/editors/editplacename.py:138
 msgid "Cannot save place name"
-msgstr "Não foi possível salvar o nome do local"
+msgstr "Não foi possível salvar o nome do lugar"
 
 #: ../gramps/gui/editors/editplacename.py:139
 msgid "The place name cannot be empty"
@@ -10290,7 +10290,7 @@ msgstr "Filtros de Eventos"
 
 #: ../gramps/gui/editors/filtereditor.py:92
 msgid "Place Filters"
-msgstr "Filtros de Local"
+msgstr "Filtros de lugar"
 
 #: ../gramps/gui/editors/filtereditor.py:93
 msgid "Source Filters"
@@ -10440,19 +10440,19 @@ msgstr "Não foi indicado local, selecione um utilizando o botão"
 
 #: ../gramps/gui/editors/objectentries.py:297
 msgid "Edit place"
-msgstr "Editar local"
+msgstr "Editar lugar"
 
 #: ../gramps/gui/editors/objectentries.py:298
 msgid "Select an existing place"
-msgstr "Selecionar um local existente"
+msgstr "Selecionar um lugar existente"
 
 #: ../gramps/gui/editors/objectentries.py:299 ../gramps/plugins/lib/libplaceview.py:102
 msgid "Add a new place"
-msgstr "Adicionar um novo local"
+msgstr "Adicionar um novo lugar"
 
 #: ../gramps/gui/editors/objectentries.py:300
 msgid "Remove place"
-msgstr "Remover local"
+msgstr "Remover lugar"
 
 #: ../gramps/gui/editors/objectentries.py:341
 msgid "To select a source, use drag-and-drop or use the buttons"
@@ -10586,9 +10586,10 @@ msgstr "Filtro personalizado"
 msgid "Participants"
 msgstr "Participantes"
 
+# Tipo de relacionamento de um casal. Visualização "Famílias".
 #: ../gramps/gui/filters/sidebar/_familysidebarfilter.py:115 ../gramps/gui/widgets/reorderfam.py:90 ../gramps/plugins/textreport/tagreport.py:260 ../gramps/plugins/view/familyview.py:82 ../gramps/plugins/webreport/narrativeweb.py:6964
 msgid "Relationship"
-msgstr "Parentesco"
+msgstr "Relacionamento"
 
 #: ../gramps/gui/filters/sidebar/_personsidebarfilter.py:89
 msgid "any"
@@ -10729,7 +10730,7 @@ msgstr "Descrição da versão"
 
 #: ../gramps/gui/glade/dbman.glade:107
 msgid "Family Trees - Gramps"
-msgstr "Árvores Genealógicas - Gramps"
+msgstr "Árvores genealógicas - Gramps"
 
 #: ../gramps/gui/glade/dbman.glade:125
 msgid "_Close Window"
@@ -10741,7 +10742,7 @@ msgstr "_Carregar árvore genealógica"
 
 #: ../gramps/gui/glade/dbman.glade:241 ../gramps/gui/glade/editlink.glade:209
 msgid "_New"
-msgstr "_Novo"
+msgstr "_Nova"
 
 #: ../gramps/gui/glade/dbman.glade:257
 msgid "_Info"
@@ -11095,7 +11096,7 @@ msgstr "Descrição do evento. Deixe em branco se você deseja que a ferramenta 
 
 #: ../gramps/gui/glade/editevent.glade:194 ../gramps/gui/glade/editeventref.glade:270 ../gramps/gui/glade/editldsord.glade:131
 msgid "_Place:"
-msgstr "_Local:"
+msgstr "_Lugar:"
 
 #: ../gramps/gui/glade/editevent.glade:260 ../gramps/gui/glade/editfamily.glade:185 ../gramps/gui/glade/editfamily.glade:463 ../gramps/gui/glade/editldsord.glade:257 ../gramps/gui/glade/editlink.glade:165 ../gramps/gui/glade/editpersonref.glade:201
 msgid "Selector"
@@ -11219,7 +11220,7 @@ msgstr "_Paróquia:"
 
 #: ../gramps/gui/glade/editlocation.glade:151
 msgid "Lowest clergical division of this place. Typically used for church sources that only mention the parish."
-msgstr "Menor divisão clerical deste local. Normalmente utilizados para fontes de referência de igrejas que só mencionam a paróquia."
+msgstr "Menor divisão clerical deste lugar. Normalmente utilizados para fontes de referência de igrejas que só mencionam a paróquia."
 
 #: ../gramps/gui/glade/editlocation.glade:165
 msgid "Co_unty:"
@@ -11227,7 +11228,7 @@ msgstr "Co_ndado:"
 
 #: ../gramps/gui/glade/editlocation.glade:179
 msgid "Third level of place division. Eg., in the USA a county."
-msgstr "O terceiro nível da divisão do local. Por exemplo, um condado nos EUA."
+msgstr "O terceiro nível da divisão do lugar. Por exemplo, um condado nos EUA."
 
 #: ../gramps/gui/glade/editlocation.glade:193
 msgid "_State:"
@@ -11235,7 +11236,7 @@ msgstr "_Estado:"
 
 #: ../gramps/gui/glade/editlocation.glade:207
 msgid "Second level of place division, eg., in the USA a state, in Germany a Bundesland."
-msgstr "Segundo nível de divisão do local. Por exemplo, um Estado nos EUA."
+msgstr "Segundo nível de divisão do lugar. Por exemplo, um Estado nos EUA."
 
 #: ../gramps/gui/glade/editlocation.glade:235
 msgid "The country where the place is."
@@ -11243,7 +11244,7 @@ msgstr "O país onde está localizado."
 
 #: ../gramps/gui/glade/editlocation.glade:300
 msgid "Lowest level of a place division: eg the street name."
-msgstr "Nível mais baixo da divisão de um local: Por exemplo, nome da rua."
+msgstr "Nível mais baixo da divisão de um lugar: Por exemplo, nome da rua."
 
 #: ../gramps/gui/glade/editlocation.glade:328
 msgid "A district within, or a settlement near to, a town or city."
@@ -11379,7 +11380,7 @@ msgstr "Um sufixo opcional para o nome, tais como \"Jr.\" ou \"III\""
 
 #: ../gramps/gui/glade/editname.glade:318 ../gramps/gui/glade/editperson.glade:260
 msgid "A descriptive name given in place of or in addition to the official given name."
-msgstr "Uma descrição do nome fornecido no local ou em adição ao nome próprio oficial."
+msgstr "Uma descrição do nome fornecido no lugar ou em adição ao nome próprio oficial."
 
 #: ../gramps/gui/glade/editname.glade:334
 msgid "Given Name(s) "
@@ -11575,9 +11576,9 @@ msgid ""
 "Eg, valid values are 12.0154, 50°52′21.92″N, N50°52′21.92″ or 50:52:21.92\n"
 "You can set these values via the Geography View by searching the place, or via a map service in the place view."
 msgstr ""
-"A latitude (posição acima do Equador) de um local em notação decimal ou em graus. \n"
+"A latitude (posição acima do Equador) de um lugar em notação decimal ou em graus. \n"
 "Exemplo de valores válidos são: 12.0154, 50°52′21.92″N, N50°52′21.92″ ou 50:52:21.92\n"
-"Você pode definir estes valores através de pesquisa do local na opção Geografia ou por meio de um serviço de mapas na opção Locais."
+"Você pode definir estes valores através de pesquisa do lugar na opção Geografia ou por meio de um serviço de mapas na opção Lugares."
 
 #: ../gramps/gui/glade/editplace.glade:177 ../gramps/gui/glade/editplaceref.glade:408
 msgid ""
@@ -11585,13 +11586,13 @@ msgid ""
 "Eg, valid values are -124.3647, 124°52′21.92″E, E124°52′21.92″ or 124:52:21.92\n"
 "You can set these values via the Geography View by searching the place, or via a map service in the place view."
 msgstr ""
-"A longitude (posição relativa ao Meridiano de Greenwich ou 'Prime') de um local em notação decimal ou em graus. \n"
+"A longitude (posição relativa ao Meridiano de Greenwich ou 'Prime') de um lugar em notação decimal ou em graus. \n"
 "Exemplo de valores válidos são: -124.3647, 124°52′21.92″E, E124°52′21.92″ ou 124:52:21.92\n"
-"Você pode definir estes valores através de pesquisa do local na opção Geografia ou por meio de um serviço de mapas na opção Locais."
+"Você pode definir estes valores através de pesquisa do lugar na opção Geografia ou por meio de um serviço de mapas na opção Lugares."
 
 #: ../gramps/gui/glade/editplace.glade:198 ../gramps/gui/glade/editplaceref.glade:429
 msgid "A unique ID to identify the place"
-msgstr "Um ID único para identificar o local"
+msgstr "Um ID único para identificar o lugar"
 
 #: ../gramps/gui/glade/editplace.glade:226 ../gramps/gui/glade/editplaceref.glade:457
 msgid "Code associated with this place. Eg Country Code or Postal Code."
@@ -11627,7 +11628,7 @@ msgstr "Idioma em que o nome está escrito. Os valores válidos são códigos IS
 
 #: ../gramps/gui/glade/editplaceref.glade:280
 msgid "<b>Note:</b> Any changes in the enclosing place information will be reflected in the place itself, for places that it encloses."
-msgstr "<b>Observação:</b> Quaisquer alterações nas informações do lugar circundante será refletido no próprio local, para os lugares que ele circunda."
+msgstr "<b>Observação:</b> Quaisquer alterações nas informações do lugar circundante será refletido no próprio lugar, para os lugares que ele circunda."
 
 #: ../gramps/gui/glade/editreporef.glade:127
 msgid "_Media Type:"
@@ -11719,7 +11720,7 @@ msgstr "Abrir o endereço de Internet no navegador padrão."
 
 #: ../gramps/gui/glade/editurl.glade:218
 msgid "A descriptive caption of the Internet location you are storing."
-msgstr "Uma legenda descritiva do local da Internet onde você está armazenando."
+msgstr "Uma legenda descritiva do lugar da Internet onde você está armazenando."
 
 #: ../gramps/gui/glade/grampletpane.glade:63
 msgid "Drag to move; click to detach"
@@ -11797,11 +11798,11 @@ msgstr "Seleção de título"
 
 #: ../gramps/gui/glade/mergedata.glade:576 ../gramps/gui/glade/mergeplace.glade:180
 msgid "Place 1"
-msgstr "Local 1"
+msgstr "Lugar 1"
 
 #: ../gramps/gui/glade/mergedata.glade:593 ../gramps/gui/glade/mergeplace.glade:194
 msgid "Place 2"
-msgstr "Local 2"
+msgstr "Lugar 2"
 
 #: ../gramps/gui/glade/mergeevent.glade:98
 msgid ""
@@ -11928,8 +11929,8 @@ msgid ""
 "Select the place that will provide the\n"
 "primary data for the merged place."
 msgstr ""
-"Selecione o local que proverá os dados\n"
-"primários para o local mesclado."
+"Selecione o lugar que proverá os dados\n"
+"primários para o lugar mesclado."
 
 #: ../gramps/gui/glade/mergeplace.glade:620
 msgid "Alternative names, sources, urls, media objects and notes of both places will be combined."
@@ -12093,7 +12094,7 @@ msgstr "Excluir o filtro selecionado"
 
 #: ../gramps/gui/glade/rule.glade:258
 msgid "Note: changes take effect only after this window is closed"
-msgstr "Observação: as modificações somente terão efeito após o fechamento desta janela"
+msgstr "Observação: as modificações somente terão efeito após o fechamento desta janela."
 
 #: ../gramps/gui/glade/rule.glade:290 gtklist.h:6
 msgid "All rules must apply"
@@ -12137,7 +12138,7 @@ msgstr "Co_mentário:"
 
 #: ../gramps/gui/glade/rule.glade:606
 msgid "Return values that do no_t match the filter rules"
-msgstr "Re_torna valores que não coincidem com as regras de filtragem"
+msgstr "Re_tornar valores que não coincidem com as regras de filtragem"
 
 #: ../gramps/gui/glade/rule.glade:898
 msgid "Selected Rule"
@@ -12619,7 +12620,7 @@ msgstr "O Gramps sofreu um erro inesperado"
 
 #: ../gramps/gui/logger/_errorview.py:110
 msgid "Your data will be safe but it would be advisable to restart Gramps immediately. If you would like to report the problem to the Gramps team please click Report and the Error Reporting Wizard will help you to make a bug report."
-msgstr "Seus dados estarão a salvo, mas é aconselhável que reinicie o Gramps imediatamente. Se você quiser preencher um relatório de erro para a equipe do Gramps, então por favor, clique em Relatório e o Assistente de Relatório de Erros irá ajudá-lo a produzir um relatório."
+msgstr "Seus dados estarão a salvo, mas é aconselhável que você reinicie o Gramps imediatamente. Se você quiser preencher um relatório de erro para a equipe do Gramps, por favor, clique em Relatório, e o Assistente de Relatório de Erros irá ajudá-lo a produzir um relatório."
 
 #: ../gramps/gui/logger/_errorview.py:119 ../gramps/gui/logger/_errorview.py:134
 msgid "Error Detail"
@@ -13714,7 +13715,7 @@ msgstr ""
 
 #: ../gramps/gui/selectors/selectplace.py:64
 msgid "Select Place"
-msgstr "Selecionar local"
+msgstr "Selecionar lugar"
 
 #: ../gramps/gui/selectors/selectrepository.py:46
 msgid "manual|Repositories"
@@ -13864,7 +13865,7 @@ msgstr "Conectar a uma base de dados recente"
 
 #: ../gramps/gui/viewmanager.py:470
 msgid "_Family Trees"
-msgstr "_Árvores Genealógicas"
+msgstr "_Árvores genealógicas"
 
 #: ../gramps/gui/viewmanager.py:471
 msgid "_Manage Family Trees..."
@@ -15944,15 +15945,15 @@ msgstr "Mês de falecimento"
 
 #: ../gramps/plugins/drawreport/statisticschart.py:348 ../gramps/plugins/export/exportcsv.py:356 ../gramps/plugins/importer/importcsv.py:171
 msgid "Birth place"
-msgstr "Local de nascimento"
+msgstr "Lugar de nascimento"
 
 #: ../gramps/plugins/drawreport/statisticschart.py:350 ../gramps/plugins/export/exportcsv.py:358 ../gramps/plugins/importer/importcsv.py:203
 msgid "Death place"
-msgstr "Local de falecimento"
+msgstr "Lugar do falecimento"
 
 #: ../gramps/plugins/drawreport/statisticschart.py:352
 msgid "Marriage place"
-msgstr "Local de casamento"
+msgstr "Lugar de casamento"
 
 #: ../gramps/plugins/drawreport/statisticschart.py:355
 msgid "Number of relationships"
@@ -16005,7 +16006,7 @@ msgstr "Data(s) ausente(s)"
 
 #: ../gramps/plugins/drawreport/statisticschart.py:443 ../gramps/plugins/drawreport/statisticschart.py:457
 msgid "Place missing"
-msgstr "Local ausente"
+msgstr "Lugar ausente"
 
 #: ../gramps/plugins/drawreport/statisticschart.py:465
 msgid "Already dead"
@@ -16376,7 +16377,7 @@ msgstr "Incluir filhos"
 
 #: ../gramps/plugins/export/exportcsv.py:138 ../gramps/plugins/graph/gvfamilylines.py:212
 msgid "Include places"
-msgstr "Incluir locais"
+msgstr "Incluir lugares"
 
 #: ../gramps/plugins/export/exportcsv.py:139
 msgid "Translate headers"
@@ -16409,7 +16410,7 @@ msgstr "Data do batismo"
 
 #: ../gramps/plugins/export/exportcsv.py:357 ../gramps/plugins/importer/importcsv.py:182
 msgid "Baptism place"
-msgstr "Local do batismo"
+msgstr "Lugar do batismo"
 
 #: ../gramps/plugins/export/exportcsv.py:357 ../gramps/plugins/importer/importcsv.py:191
 msgid "Baptism source"
@@ -16425,7 +16426,7 @@ msgstr "Data de sepultamento"
 
 #: ../gramps/plugins/export/exportcsv.py:359 ../gramps/plugins/importer/importcsv.py:193
 msgid "Burial place"
-msgstr "Local de sepultamento"
+msgstr "Lugar do sepultamento"
 
 #: ../gramps/plugins/export/exportcsv.py:359 ../gramps/plugins/importer/importcsv.py:201
 msgid "Burial source"
@@ -16861,7 +16862,7 @@ msgstr "Gramplet que mostra as perguntas feitas frequentemente"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:165 ../gramps/plugins/gramplet/gramplet.gpr.py:172
 msgid "Given Name Cloud"
-msgstr "Nuvem de primeiros nomes"
+msgstr "Nuvem de nomes"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:166
 msgid "Gramplet showing all given names as a text cloud"
@@ -16931,9 +16932,10 @@ msgstr "Gramplet que mostra uma mensagem de boas-vindas"
 msgid "Welcome to Gramps!"
 msgstr "Bem-vindo ao Gramps!"
 
+# Gramplet
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:312
 msgid "What's Next"
-msgstr "Qual é o próximo?"
+msgstr "E agora?"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:313
 msgid "Gramplet suggesting items to research"
@@ -16965,15 +16967,15 @@ msgstr "Gramplet que mostra os detalhes de um repositório"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:357
 msgid "Place Details"
-msgstr "Detalhes do local"
+msgstr "Detalhes do lugar"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:358
 msgid "Gramplet showing details of a place"
-msgstr "Gramplet que mostra os detalhes de um local"
+msgstr "Gramplet que mostra os detalhes de um lugar"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:371 ../gramps/plugins/gramplet/gramplet.gpr.py:379
 msgid "Media Preview"
-msgstr "Visualização de de mídia"
+msgstr "Visualização de mídia"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:372
 msgid "Gramplet showing a preview of a media object"
@@ -17054,11 +17056,11 @@ msgstr "Gramplet que mostra os objetos de mídia de um evento"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:513
 msgid "Place Gallery"
-msgstr "Galeria de locais"
+msgstr "Galeria de lugares"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:514
 msgid "Gramplet showing media objects for a place"
-msgstr "Gramplet que mostra os objetos de mídia de um local"
+msgstr "Gramplet que mostra os objetos de mídia de um lugar"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:527
 msgid "Source Gallery"
@@ -17154,7 +17156,7 @@ msgstr "Aotações de Lugar"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:682
 msgid "Gramplet showing the notes for a place"
-msgstr "Gramplet que mostra as anotações de um local"
+msgstr "Gramplet que mostra as anotações de um lugar"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:695
 msgid "Source Notes"
@@ -17214,11 +17216,11 @@ msgstr "Gramplet que mostra as citações de uma família"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:793
 msgid "Place Citations"
-msgstr "Citações de local"
+msgstr "Citações de lugar"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:794
 msgid "Gramplet showing the citations for a place"
-msgstr "Gramplet que mostra as citações de um local"
+msgstr "Gramplet que mostra as citações de um lugar"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:807
 msgid "Media Citations"
@@ -17362,11 +17364,11 @@ msgstr "Gramplet que fornece um filtro de citação"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:1045
 msgid "Place Filter"
-msgstr "Filtro de local"
+msgstr "Filtro de lugar"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:1046
 msgid "Gramplet providing a place filter"
-msgstr "Gramplet que fornece um filtro de local"
+msgstr "Gramplet que fornece um filtro de lugar"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:1059
 msgid "Media Filter"
@@ -17426,11 +17428,11 @@ msgstr "Gramplet que mostra as notas de tarefas para uma família"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:1159
 msgid "Place To Do"
-msgstr "Tarefas de locais"
+msgstr "Tarefas de lugares"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:1160
 msgid "Gramplet showing the To Do notes for a place"
-msgstr "Gramplet que mostra as notas de tarefas para um local"
+msgstr "Gramplet que mostra as notas de tarefas para um lugar"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:1173
 msgid "Source To Do"
@@ -17835,7 +17837,7 @@ msgstr "Página inicial"
 
 #: ../gramps/plugins/gramplet/welcomegramplet.py:107
 msgid "Start with Genealogy and Gramps"
-msgstr "Iniciar com genealogia e Gramps"
+msgstr "Introdução à  genealogia e ao Gramps"
 
 #: ../gramps/plugins/gramplet/welcomegramplet.py:110
 msgid "Gramps online manual"
@@ -17870,7 +17872,7 @@ msgid ""
 "The first thing you must do is to create a new Family Tree. To create a new Family Tree (sometimes called 'database') select \"Family Trees\" from the menu, pick \"Manage Family Trees\", press \"New\" and name your Family Tree. For more details, please read the information at the links above\n"
 "\n"
 msgstr ""
-"A primeira coisa que você precisa fazer é criar uma nova árvore genealógica. Para criar uma (às vezes é chamada de 'base de dados') selecione \"Árvores genealógicas\" a partir do menu, escolha \"Gerenciar árvores genealógicas\", clique em \"Novo\" e dê um nome para a sua árvore genealógica. Para mais detalhes, por favor leia as informações nos links acima\n"
+"A primeira coisa que você precisa fazer é criar uma nova árvore genealógica. Para criar uma (às vezes chamada de 'base de dados') selecione \"Árvores genealógicas\" a partir do menu, escolha \"Gerenciar árvores genealógicas...\", clique em \"Nova\" e dê um nome para a sua árvore genealógica. Para mais detalhes, leia as informações nos links acima.\n"
 "\n"
 
 #: ../gramps/plugins/gramplet/welcomegramplet.py:130
@@ -17883,9 +17885,9 @@ msgid ""
 "\n"
 "You can click the configuration icon in the toolbar to add additional columns, while right-click on the background allows to add gramplets. You can also drag the Properties button to reposition the gramplet on this page, and detach the gramplet to float above Gramps."
 msgstr ""
-"Você está lendo a partir da visualização \"Painel\", onde você pode adicionar os seus próprios gramplets. Você pode também adicionar gramplets em quaisquer visualizações adicionando uma barra lateral e/ou inferior, e clicando com o botão direito à direita da aba.\n"
+"Você está lendo este texto a partir da visualização \"Painel\", onde você pode adicionar os seus próprios gramplets. Você pode também adicionar gramplets em qualquer visualização adicionando uma barra lateral e/ou inferior, e clicando com o botão direito à direita da aba.\n"
 "\n"
-"Você pode clicar no ícone de configuração na barra de ferramentas para adicionar colunas adicionais. Clicar com o botão direito no plano de fundo permite adicionar gramplets. Você também pode arrastar o botão de propriedades para reposicionar o gramplet na página, e desanexá-lo para que flutue sobre o Gramps."
+"Você pode clicar no ícone de configuração na barra de ferramentas para adicionar colunas adicionais. Clicar com o botão direito no plano de fundo permite adicionar gramplets. Você também pode arrastar o botão de propriedades para reposicionar o gramplet na página ou desanexá-lo para que flutue sobre o Gramps."
 
 #. Minimum number of lines we want to see. Further lines with the same
 #. distance to the main person will be added on top of this.
@@ -17985,7 +17987,7 @@ msgstr "data incompleta"
 
 #: ../gramps/plugins/gramplet/whatsnext.py:489
 msgid "place unknown"
-msgstr "local desconhecido"
+msgstr "lugar desconhecido"
 
 #: ../gramps/plugins/gramplet/whatsnext.py:492
 #, python-format
@@ -18172,7 +18174,7 @@ msgstr "Imprime apenas os anos das datas. O mês e o dia, assim como as datas ap
 
 #: ../gramps/plugins/graph/gvfamilylines.py:213
 msgid "Whether to include placenames for people and families."
-msgstr "Se devem ser incluídos os nomes dos locais das pessoas e famílias."
+msgstr "Se devem ser incluídos os nomes dos lugares das pessoas e famílias."
 
 #: ../gramps/plugins/graph/gvfamilylines.py:217
 msgid "Include the number of children"
@@ -18424,7 +18426,7 @@ msgstr "Incluir a descrição da ocupação mais recente"
 
 #: ../gramps/plugins/graph/gvrelgraph.py:754
 msgid "Include date, description and place of all occupations"
-msgstr "Incluir data, descrição e local de todas as ocupações"
+msgstr "Incluir data, descrição e lugar de todas as ocupações"
 
 #: ../gramps/plugins/graph/gvrelgraph.py:756
 msgid "Whether to include the last occupation"
@@ -18549,15 +18551,15 @@ msgstr "anotação"
 
 #: ../gramps/plugins/importer/importcsv.py:172
 msgid "birth place"
-msgstr "local do nascimento"
+msgstr "lugar do nascimento"
 
 #: ../gramps/plugins/importer/importcsv.py:173
 msgid "Birth place id"
-msgstr "Id do local de nascimento"
+msgstr "Id do lugar de nascimento"
 
 #: ../gramps/plugins/importer/importcsv.py:174
 msgid "birth place id"
-msgstr "id do local do nascimento"
+msgstr "id do lugar do nascimento"
 
 #: ../gramps/plugins/importer/importcsv.py:180
 msgid "birth source"
@@ -18565,15 +18567,15 @@ msgstr "fonte de nascimento"
 
 #: ../gramps/plugins/importer/importcsv.py:183
 msgid "baptism place"
-msgstr "local do batismo"
+msgstr "lugar do batismo"
 
 #: ../gramps/plugins/importer/importcsv.py:185
 msgid "Baptism place id"
-msgstr "Id do local do batismo"
+msgstr "Id do lugar do batismo"
 
 #: ../gramps/plugins/importer/importcsv.py:186
 msgid "baptism place id"
-msgstr "id do local do batismo"
+msgstr "id do lugar do batismo"
 
 #: ../gramps/plugins/importer/importcsv.py:189
 msgid "baptism date"
@@ -18585,15 +18587,15 @@ msgstr "fonte do batismo"
 
 #: ../gramps/plugins/importer/importcsv.py:194
 msgid "burial place"
-msgstr "local de sepultamento"
+msgstr "lugar de sepultamento"
 
 #: ../gramps/plugins/importer/importcsv.py:195
 msgid "Burial place id"
-msgstr "Id do local de sepultamento"
+msgstr "Id do lugar de sepultamento"
 
 #: ../gramps/plugins/importer/importcsv.py:196
 msgid "burial place id"
-msgstr "id do local de sepultamento"
+msgstr "id do lugar de sepultamento"
 
 #: ../gramps/plugins/importer/importcsv.py:199
 msgid "burial date"
@@ -18605,15 +18607,15 @@ msgstr "fonte do sepultamento"
 
 #: ../gramps/plugins/importer/importcsv.py:204
 msgid "death place"
-msgstr "local do falecimento"
+msgstr "lugar do falecimento"
 
 #: ../gramps/plugins/importer/importcsv.py:205
 msgid "Death place id"
-msgstr "Id do local de falecimento"
+msgstr "Id do lugar de falecimento"
 
 #: ../gramps/plugins/importer/importcsv.py:206
 msgid "death place id"
-msgstr "id do local do falecimento"
+msgstr "id do lugar do falecimento"
 
 #: ../gramps/plugins/importer/importcsv.py:212
 msgid "death source"
@@ -18673,7 +18675,7 @@ msgstr "data"
 
 #: ../gramps/plugins/importer/importcsv.py:230
 msgid "place"
-msgstr "local"
+msgstr "lugar"
 
 #: ../gramps/plugins/importer/importcsv.py:232
 msgid "name"
@@ -19075,7 +19077,7 @@ msgstr "  Objeto de mídia %(id)s com %(id2)s\n"
 #: ../gramps/plugins/importer/importxml.py:263
 #, python-format
 msgid "  Place %(id)s with %(id2)s\n"
-msgstr "  Local %(id)s com %(id2)s\n"
+msgstr "  Lugar %(id)s com %(id2)s\n"
 
 #: ../gramps/plugins/importer/importxml.py:266
 #, python-format
@@ -19120,7 +19122,7 @@ msgstr "  Objetos de mídia: %d\n"
 #: ../gramps/plugins/importer/importxml.py:287
 #, python-format
 msgid "  Places: %d\n"
-msgstr "  Locais: %d\n"
+msgstr "  Lugares: %d\n"
 
 #: ../gramps/plugins/importer/importxml.py:288
 #, python-format
@@ -19488,7 +19490,7 @@ msgstr "Detalhes"
 #. from PLAC title
 #: ../gramps/plugins/lib/libgedcom.py:5632
 msgid "Location already populated; ADDR ignored"
-msgstr "Local já preenchido; ADDR ignorado"
+msgstr "Lugar já preenchido; ADDR ignorado"
 
 #. empty: discard, with warning and skip subs
 #. Note: level+2
@@ -22554,15 +22556,15 @@ msgstr "Obrigatoriamente duas pessoas precisam ser selecionadas para se realizar
 
 #: ../gramps/plugins/lib/libplaceview.py:103
 msgid "Edit the selected place"
-msgstr "Editar o local selecionado"
+msgstr "Editar o lugar selecionado"
 
 #: ../gramps/plugins/lib/libplaceview.py:104
 msgid "Delete the selected place"
-msgstr "Excluir o local selecionado"
+msgstr "Excluir o lugar selecionado"
 
 #: ../gramps/plugins/lib/libplaceview.py:105
 msgid "Merge the selected places"
-msgstr "Mesclar os locais selecionados"
+msgstr "Mesclar os lugares selecionados"
 
 #: ../gramps/plugins/lib/libplaceview.py:140
 msgid "Loading..."
@@ -22570,7 +22572,7 @@ msgstr "Carregando..."
 
 #: ../gramps/plugins/lib/libplaceview.py:141 ../gramps/plugins/lib/libplaceview.py:199
 msgid "Attempt to see selected locations with a Map Service (OpenstreetMap, Google Maps, ...)"
-msgstr "Tentar visualizar os locais selecionados com um serviço de mapas (OpenstreetMap, Google Maps, ...)"
+msgstr "Tentar visualizar os lugares selecionados com um serviço de mapas (OpenstreetMap, Google Maps, ...)"
 
 #: ../gramps/plugins/lib/libplaceview.py:144 ../gramps/plugins/lib/libplaceview.py:197
 msgid "Select a Map Service"
@@ -22582,11 +22584,11 @@ msgstr "_Localizar com um serviço de mapas"
 
 #: ../gramps/plugins/lib/libplaceview.py:148
 msgid "Attempt to see this location with a Map Service (OpenstreetMap, Google Maps, ...)"
-msgstr "Tentar visualizar este local com um serviço de mapas (OpenstreetMap, Google Maps, ...)"
+msgstr "Tentar visualizar este lugar com um serviço de mapas (OpenstreetMap, Google Maps, ...)"
 
 #: ../gramps/plugins/lib/libplaceview.py:150
 msgid "Place Filter Editor"
-msgstr "Editor de filtro de local"
+msgstr "Editor de filtro de lugar"
 
 #: ../gramps/plugins/lib/libplaceview.py:259
 msgid "No map service is available."
@@ -22598,11 +22600,11 @@ msgstr "Verifique a sua instalação."
 
 #: ../gramps/plugins/lib/libplaceview.py:268
 msgid "No place selected."
-msgstr "Nenhum local selecionado."
+msgstr "Nenhum lugar selecionado."
 
 #: ../gramps/plugins/lib/libplaceview.py:269
 msgid "You need to select a place to be able to view it on a map. Some Map Services might support multiple selections."
-msgstr "Você precisa selecionar um local para poder visualizá-lo no mapa. Alguns serviços de mapas permitem selecionar múltiplos locais."
+msgstr "Você precisa selecionar um lugar para poder visualizá-lo no mapa. Alguns serviços de mapas permitem selecionar múltiplos lugares."
 
 #: ../gramps/plugins/lib/libplaceview.py:363
 msgid "Cannot delete place."
@@ -22614,11 +22616,11 @@ msgstr "Este lugar é referenciado por outro lugar. Primeiro remova os lugares q
 
 #: ../gramps/plugins/lib/libplaceview.py:405 ../gramps/plugins/lib/libplaceview.py:413
 msgid "Cannot merge places."
-msgstr "Não é possível mesclar locais."
+msgstr "Não é possível mesclar lugares."
 
 #: ../gramps/plugins/lib/libplaceview.py:406
 msgid "Exactly two places must be selected to perform a merge. A second place can be selected by holding down the control key while clicking on the desired place."
-msgstr "Obrigatoriamente dois locais precisam ser selecionados para se realizar uma fusão. Um segundo local pode ser selecionado mantendo-se pressionada a tecla Ctrl e clicando sobre o local desejado."
+msgstr "Obrigatoriamente dois lugares precisam ser selecionados para se realizar uma fusão. Um segundo lugar pode ser selecionado mantendo-se pressionada a tecla Ctrl e clicando sobre o lugar desejado."
 
 #: ../gramps/plugins/lib/libplaceview.py:414
 msgid "Merging these places would create a cycle in the place hierarchy."
@@ -22674,7 +22676,7 @@ msgstr "Fornece a base necessária para visualizar a lista de pessoas."
 
 #: ../gramps/plugins/lib/libplugins.gpr.py:243
 msgid "Provides the Base needed for the List Place views."
-msgstr "Fornece a base necessária para visualizar a lista de locais."
+msgstr "Fornece a base necessária para visualizar a lista de lugares."
 
 #: ../gramps/plugins/lib/libplugins.gpr.py:260
 msgid "Provides variable substitution on display lines."
@@ -22813,11 +22815,11 @@ msgstr "Bloquear zoom e posição"
 
 #: ../gramps/plugins/lib/maps/geography.py:358
 msgid "Add place"
-msgstr "Adicionar local"
+msgstr "Adicionar lugar"
 
 #: ../gramps/plugins/lib/maps/geography.py:363
 msgid "Link place"
-msgstr "Ligação de local"
+msgstr "Vincular lugar"
 
 #: ../gramps/plugins/lib/maps/geography.py:368
 msgid "Add place from kml"
@@ -22847,7 +22849,7 @@ msgstr "A versão do Gtk é muito antiga."
 
 #: ../gramps/plugins/lib/maps/geography.py:891 ../gramps/plugins/view/geoclose.py:550 ../gramps/plugins/view/geoevents.py:343 ../gramps/plugins/view/geoevents.py:376 ../gramps/plugins/view/geofamclose.py:740 ../gramps/plugins/view/geofamily.py:434 ../gramps/plugins/view/geomoves.py:625 ../gramps/plugins/view/geoperson.py:445 ../gramps/plugins/view/geoperson.py:466 ../gramps/plugins/view/geoperson.py:506 ../gramps/plugins/view/geoplaces.py:360 ../gramps/plugins/view/geoplaces.py:385
 msgid "Center on this place"
-msgstr "Centralizar neste local"
+msgstr "Centralizar neste lugar"
 
 #: ../gramps/plugins/lib/maps/geography.py:970
 msgid "Select a kml file used to add places"
@@ -22855,7 +22857,7 @@ msgstr "Selecionar arquivo kml usado para adicionar lugares"
 
 #: ../gramps/plugins/lib/maps/geography.py:1035
 msgid "You have at least two places with the same title."
-msgstr "Você possui pelo menos dois locais com o mesmo título."
+msgstr "Você possui pelo menos dois lugares com o mesmo título."
 
 #: ../gramps/plugins/lib/maps/geography.py:1036
 #, python-format
@@ -22870,7 +22872,7 @@ msgstr ""
 "O título dos lugares são:\n"
 "%(title)s\n"
 "Os lugares a seguir são similares: %(gid)s\n"
-"Você pode renomear ou mesclar os locais.\n"
+"Você pode renomear ou mesclar os lugares.\n"
 "\n"
 "%(bold_start)sNão é possível prosseguir com a sua solicitação%(bold_end)s.\n"
 
@@ -22891,7 +22893,7 @@ msgid ""
 "If you have no more space in your file system. You can remove all tiles placed in the above path.\n"
 "Be careful! If you have no internet, you'll get no map."
 msgstr ""
-"Se não tiver mais espaço no seu sistema de arquivos, você pode remover todos os 'tiles' de local da localização acima.\n"
+"Se não tiver mais espaço no seu sistema de arquivos, você pode remover todos os 'tiles' de lugar da localização acima.\n"
 "Tome cuidado! Se não tiver acesso à Internet, você não obterá o mapa."
 
 #: ../gramps/plugins/lib/maps/geography.py:1193
@@ -22900,7 +22902,7 @@ msgstr "Nível de zoom usado na centralização"
 
 #: ../gramps/plugins/lib/maps/geography.py:1197
 msgid "The maximum number of places to show"
-msgstr "Número máximo de locais para mostrar"
+msgstr "Número máximo de lugares para mostrar"
 
 #: ../gramps/plugins/lib/maps/geography.py:1201
 msgid ""
@@ -22932,7 +22934,7 @@ msgstr "Não foi possível criar a pasta de cache de 'tiles' para '%s'."
 
 #: ../gramps/plugins/lib/maps/placeselection.py:106 ../gramps/plugins/lib/maps/placeselection.py:108
 msgid "Place Selection in a region"
-msgstr "Seleção de local em uma região"
+msgstr "Seleção do lugar em uma região"
 
 #: ../gramps/plugins/lib/maps/placeselection.py:109
 msgid ""
@@ -22944,13 +22946,13 @@ msgstr ""
 
 #: ../gramps/plugins/lib/maps/placeselection.py:147
 msgid "The green values in the row correspond to the current place values."
-msgstr "Os valores em verde na linha correspondem aos valores do local atual."
+msgstr "Os valores em verde na linha correspondem aos valores do lugar atual."
 
 #. here, we could add value from geography names services ...
 #. if we found no place, we must create a default place.
 #: ../gramps/plugins/lib/maps/placeselection.py:197
 msgid "New place with empty fields"
-msgstr "Novo local com campos vazios"
+msgstr "Novo lugar com campos vazios"
 
 #: ../gramps/plugins/mapservices/eniroswedenmap.py:53
 msgid "Denmark"
@@ -23054,7 +23056,7 @@ msgstr "Data do evento"
 
 #: ../gramps/plugins/quickview/all_events.py:60 ../gramps/plugins/quickview/all_events.py:106 ../gramps/plugins/quickview/all_events.py:118
 msgid "Event Place"
-msgstr "Local do evento"
+msgstr "Lugar do evento"
 
 #: ../gramps/plugins/quickview/all_events.py:60 ../gramps/plugins/quickview/all_events.py:105 ../gramps/plugins/quickview/all_events.py:117 ../gramps/plugins/webreport/narrativeweb.py:6680
 msgid "Event Type"
@@ -23169,7 +23171,7 @@ msgstr "Evento inverso"
 
 #: ../gramps/plugins/quickview/filterbyname.py:45
 msgid "Filtering_on|Inverse Place"
-msgstr "Local inverso"
+msgstr "Lugar inverso"
 
 #: ../gramps/plugins/quickview/filterbyname.py:46
 msgid "Filtering_on|Inverse Source"
@@ -23201,7 +23203,7 @@ msgstr "todos os eventos"
 
 #: ../gramps/plugins/quickview/filterbyname.py:53
 msgid "Filtering_on|all places"
-msgstr "todos os locais"
+msgstr "todos os lugares"
 
 #: ../gramps/plugins/quickview/filterbyname.py:54
 msgid "Filtering_on|all sources"
@@ -24273,11 +24275,11 @@ msgstr "Informação faltando"
 
 #: ../gramps/plugins/textreport/detancestralreport.py:897 ../gramps/plugins/textreport/detdescendantreport.py:1108
 msgid "Replace missing places with ______"
-msgstr "Troca locais que estão faltando por ______"
+msgstr "Troca lugares que estão faltando por ______"
 
 #: ../gramps/plugins/textreport/detancestralreport.py:898 ../gramps/plugins/textreport/detdescendantreport.py:1110
 msgid "Whether to replace missing Places with blanks."
-msgstr "Se os locais ausentes devem ser substituídos por espaços."
+msgstr "Se os lugares ausentes devem ser substituídos por espaços."
 
 #: ../gramps/plugins/textreport/detancestralreport.py:901 ../gramps/plugins/textreport/detdescendantreport.py:1113
 msgid "Replace missing dates with ______"
@@ -24733,7 +24735,7 @@ msgstr "Número total de ascendentes entre as gerações %(second_generation)d e
 #. identified as a major category if this is included in a Book report.
 #: ../gramps/plugins/textreport/placereport.py:123 ../gramps/plugins/textreport/placereport.py:137 ../gramps/plugins/textreport/placereport.py:154 ../gramps/plugins/textreport/textplugins.gpr.py:300
 msgid "Place Report"
-msgstr "Relatório de locais"
+msgstr "Relatório de lugares"
 
 #: ../gramps/plugins/textreport/placereport.py:124
 msgid "Please select at least one place before running this."
@@ -24755,7 +24757,7 @@ msgstr "Todos os Nomes: %s"
 
 #: ../gramps/plugins/textreport/placereport.py:216
 msgid "Events that happened at this place"
-msgstr "Eventos que ocorreram neste local"
+msgstr "Eventos que ocorreram neste lugar"
 
 #: ../gramps/plugins/textreport/placereport.py:220 ../gramps/plugins/textreport/placereport.py:297
 msgid "Type of Event"
@@ -24768,7 +24770,7 @@ msgstr "%(persons)s e %(name)s (%(id)s)"
 
 #: ../gramps/plugins/textreport/placereport.py:293
 msgid "People associated with this place"
-msgstr "Pessoas associadas a este local"
+msgstr "Pessoas associadas a este lugar"
 
 #: ../gramps/plugins/textreport/placereport.py:328
 #, python-format
@@ -24781,15 +24783,15 @@ msgstr "Selecionar usando um filtro"
 
 #: ../gramps/plugins/textreport/placereport.py:439
 msgid "Select places using a filter"
-msgstr "Seleciona locais usando um filtro"
+msgstr "Seleciona lugares usando um filtro"
 
 #: ../gramps/plugins/textreport/placereport.py:446
 msgid "Select places individually"
-msgstr "Selecionar locais individualmente"
+msgstr "Selecionar lugares individualmente"
 
 #: ../gramps/plugins/textreport/placereport.py:447
 msgid "List of places to report on"
-msgstr "Lista de locais para incluir no relatório"
+msgstr "Lista de lugares para incluir no relatório"
 
 #: ../gramps/plugins/textreport/placereport.py:456
 msgid "Center on"
@@ -24809,11 +24811,11 @@ msgstr "O estilo usado para o subtítulo."
 
 #: ../gramps/plugins/textreport/placereport.py:520
 msgid "The style used for place title."
-msgstr "O estilo usado para o título do local."
+msgstr "O estilo usado para o título do lugar."
 
 #: ../gramps/plugins/textreport/placereport.py:532
 msgid "The style used for place details."
-msgstr "O estilo usado para os detalhes do local."
+msgstr "O estilo usado para os detalhes do lugar."
 
 #: ../gramps/plugins/textreport/placereport.py:544
 msgid "The style used for a column title."
@@ -25122,7 +25124,7 @@ msgstr "Conta o número de ascendentes da pessoa selecionada"
 
 #: ../gramps/plugins/textreport/textplugins.gpr.py:301
 msgid "Produces a textual place report"
-msgstr "Gera um relatório de locais em formato de texto"
+msgstr "Gera um relatório de lugares em formato de texto"
 
 #: ../gramps/plugins/textreport/textplugins.gpr.py:323
 msgid "Title Page"
@@ -25342,7 +25344,7 @@ msgstr "Procurando registros de citação vazios"
 
 #: ../gramps/plugins/tool/check.py:849
 msgid "Looking for empty place records"
-msgstr "Procurando registros vazios de local"
+msgstr "Procurando registros vazios de lugar"
 
 #: ../gramps/plugins/tool/check.py:857
 msgid "Looking for empty media records"
@@ -25382,7 +25384,7 @@ msgstr "Procurando problemas nas referências a repositórios"
 
 #: ../gramps/plugins/tool/check.py:1248
 msgid "Looking for place reference problems"
-msgstr "Procurando problemas nas referências a locais"
+msgstr "Procurando problemas nas referências a lugares"
 
 #: ../gramps/plugins/tool/check.py:1359
 msgid "Looking for citation reference problems"
@@ -25642,7 +25644,7 @@ msgstr ""
 "   %(event)d de eventos\n"
 "   %(source)d de fontes\n"
 "   %(media)d de objetos de mídia\n"
-"   %(place)d de locais\n"
+"   %(place)d de lugares\n"
 "   %(repo)d de repositórios\n"
 "   %(note)d de anotações\n"
 
@@ -25790,7 +25792,7 @@ msgstr "Data %(event_name)s"
 #: ../gramps/plugins/tool/eventcmp.py:257
 #, python-format
 msgid "%(event_name)s Place"
-msgstr "Local %(event_name)s"
+msgstr "Lugar %(event_name)s"
 
 #: ../gramps/plugins/tool/eventcmp.py:309
 msgid "Comparing Events"
@@ -26386,7 +26388,7 @@ msgstr "Busca por citações"
 
 #: ../gramps/plugins/tool/removeunused.glade:145
 msgid "Search for places"
-msgstr "Procurar por locais"
+msgstr "Procurar por lugares"
 
 #: ../gramps/plugins/tool/removeunused.glade:163
 msgid "Search for media"
@@ -26468,7 +26470,7 @@ msgstr "Reordenando os IDs de citações"
 
 #: ../gramps/plugins/tool/reorderids.py:137
 msgid "Reordering Place IDs"
-msgstr "Reordenando os IDs de locais"
+msgstr "Reordenando os IDs de lugares"
 
 #: ../gramps/plugins/tool/reorderids.py:147
 msgid "Reordering Repository IDs"
@@ -27395,7 +27397,7 @@ msgstr "Os parâmetros de seleção"
 
 #: ../gramps/plugins/view/geoevents.py:116
 msgid "Events places map"
-msgstr "Mapa dos locais dos eventos"
+msgstr "Mapa dos lugares dos eventos"
 
 #: ../gramps/plugins/view/geoevents.py:141
 msgid "GeoEvents"
@@ -27419,7 +27421,7 @@ msgstr "Mostrar todos os eventos"
 
 #: ../gramps/plugins/view/geoevents.py:401 ../gramps/plugins/view/geoevents.py:406 ../gramps/plugins/view/geoplaces.py:410 ../gramps/plugins/view/geoplaces.py:415
 msgid "Centering on Place"
-msgstr "Centralizar neste local"
+msgstr "Centralizar neste lugar"
 
 #: ../gramps/plugins/view/geofamclose.py:143 ../gramps/plugins/view/geography.gpr.py:135
 msgid "Have these two families been able to meet?"
@@ -27502,7 +27504,7 @@ msgstr ""
 
 #: ../gramps/plugins/view/geofamily.py:115
 msgid "Family places map"
-msgstr "Mapa dos locais da família"
+msgstr "Mapa dos lugares da família"
 
 #: ../gramps/plugins/view/geofamily.py:137
 msgid "GeoFamily"
@@ -27511,7 +27513,7 @@ msgstr "GeoFamília"
 #: ../gramps/plugins/view/geofamily.py:319
 #, python-format
 msgid "Family places for %s"
-msgstr "Locais familiares para %s"
+msgstr "Lugares familiares para %s"
 
 #: ../gramps/plugins/view/geography.gpr.py:71
 msgid "OsmGpsMap module not loaded."
@@ -27528,11 +27530,11 @@ msgstr ""
 
 #: ../gramps/plugins/view/geography.gpr.py:80
 msgid "All known places for one Person"
-msgstr "Todos os locais conhecidos para uma pessoa"
+msgstr "Todos os lugares conhecidos para uma pessoa"
 
 #: ../gramps/plugins/view/geography.gpr.py:81
 msgid "A view showing the places visited by one person during his life."
-msgstr "Visualização que mostra os locais visitados por uma pessoa durante a sua vida."
+msgstr "Visualização que mostra os lugares visitados por uma pessoa durante a sua vida."
 
 #: ../gramps/plugins/view/geography.gpr.py:89 ../gramps/plugins/view/geography.gpr.py:106 ../gramps/plugins/view/geography.gpr.py:127 ../gramps/plugins/view/geography.gpr.py:145 ../gramps/plugins/view/geography.gpr.py:163 ../gramps/plugins/view/geography.gpr.py:179 ../gramps/plugins/view/geography.gpr.py:196
 msgid "Geography"
@@ -27540,11 +27542,11 @@ msgstr "Geografia"
 
 #: ../gramps/plugins/view/geography.gpr.py:97
 msgid "All known places for one Family"
-msgstr "Todos os locais conhecidos para uma família"
+msgstr "Todos os lugares conhecidos para uma família"
 
 #: ../gramps/plugins/view/geography.gpr.py:98
 msgid "A view showing the places visited by one family during all their life."
-msgstr "Visualização que mostra os locais visitados por uma família durante a sua vida."
+msgstr "Visualização que mostra os lugares visitados por uma família durante a sua vida."
 
 #: ../gramps/plugins/view/geography.gpr.py:114
 msgid "Every residence or move for a person and any descendants"
@@ -27556,17 +27558,17 @@ msgid ""
 "This is for a person and any descendant.\n"
 "You can see the dates corresponding to the period."
 msgstr ""
-"Uma visualização que mostra todos os locais visitados por todas as pessoas durante a sua vida.\n"
+"Uma visualização que mostra todos os lugares visitados por todas as pessoas durante a sua vida.\n"
 "Isso é para um pessoa e seus descendentes.\n"
 "Você pode ver as datas que correspondem ao período."
 
 #: ../gramps/plugins/view/geography.gpr.py:136
 msgid "A view showing the places visited by all family's members during their life: have these two people been able to meet?"
-msgstr "Visualização que mostra os locais visitados por todos os membros da família durante a sua vida: essas duas pessoas foram capazes de atender?"
+msgstr "Visualização que mostra os lugares visitados por todos os membros da família durante a sua vida: essas duas pessoas foram capazes de atender?"
 
 #: ../gramps/plugins/view/geography.gpr.py:154
 msgid "A view showing the places visited by two persons during their life: have these two people been able to meet?"
-msgstr "Visualização que mostra os locais visitados por duas pessoas durante a sua vida: essas duas pessoas foram capazes de atender?"
+msgstr "Visualização que mostra os lugares visitados por duas pessoas durante a sua vida: essas duas pessoas foram capazes de atender?"
 
 #: ../gramps/plugins/view/geography.gpr.py:171
 msgid "All known Places"
@@ -27578,11 +27580,11 @@ msgstr "Visualização que mostra todos os lugares da base de dados."
 
 #: ../gramps/plugins/view/geography.gpr.py:187
 msgid "All places related to Events"
-msgstr "Todos os locais relacionados aos eventos"
+msgstr "Todos os lugares relacionados aos eventos"
 
 #: ../gramps/plugins/view/geography.gpr.py:188
 msgid "A view showing all the event places of the database."
-msgstr "Visualização que mostra todos locais de eventos da base de dados."
+msgstr "Visualização que mostra todos lugares de eventos da base de dados."
 
 #: ../gramps/plugins/view/geomoves.py:142
 msgid "Descendance of the active person."
@@ -27615,7 +27617,7 @@ msgstr "Os parâmetros para as mudanças"
 
 #: ../gramps/plugins/view/geoperson.py:146
 msgid "Person places map"
-msgstr "Mapa de locais da pessoa"
+msgstr "Mapa de lugares da pessoa"
 
 #: ../gramps/plugins/view/geoperson.py:170
 msgid "GeoPerson"
@@ -27624,7 +27626,7 @@ msgstr "GeoPessoa"
 #: ../gramps/plugins/view/geoperson.py:318
 #, python-format
 msgid "Person places for %s"
-msgstr "Locais individuais para %s"
+msgstr "Lugares individuais para %s"
 
 #: ../gramps/plugins/view/geoperson.py:522
 msgid "Animate"
@@ -27652,7 +27654,7 @@ msgstr "Os parâmetros de animação"
 
 #: ../gramps/plugins/view/geoplaces.py:116
 msgid "Places map"
-msgstr "Mapa dos locais"
+msgstr "Mapa dos lugares"
 
 #: ../gramps/plugins/view/geoplaces.py:143
 msgid "GeoPlaces"
@@ -27672,7 +27674,7 @@ msgstr "Clique com o botão direito no mapa e selecione 'mostrar todos os lugare
 
 #: ../gramps/plugins/view/geoplaces.py:321
 msgid "The place name in the status bar is disabled."
-msgstr "O nome do local na barra de status está desativado."
+msgstr "O nome do lugar na barra de status está desativado."
 
 #: ../gramps/plugins/view/geoplaces.py:326
 #, python-format
@@ -27697,11 +27699,11 @@ msgstr "Neste caso pode levar tempo para mostrar todas os marcadores."
 
 #: ../gramps/plugins/view/geoplaces.py:367 ../gramps/plugins/view/geoplaces.py:391
 msgid "Bookmark this place"
-msgstr "Criar um marcador para este local"
+msgstr "Criar um marcador para este lugar"
 
 #: ../gramps/plugins/view/geoplaces.py:406
 msgid "Show all places"
-msgstr "Mostrar todos os locais"
+msgstr "Mostrar todos os lugares"
 
 #: ../gramps/plugins/view/mediaview.py:113
 msgid "Edit the selected media object"
@@ -27870,11 +27872,11 @@ msgstr "Visualização de pessoas em árvore"
 
 #: ../gramps/plugins/view/placelistview.py:51
 msgid "Place View"
-msgstr "Visualização de locais"
+msgstr "Visualização de lugares"
 
 #: ../gramps/plugins/view/placetreeview.py:55
 msgid "Place Tree View"
-msgstr "Visualização de locais em árvore"
+msgstr "Visualização de lugares em árvore"
 
 #: ../gramps/plugins/view/placetreeview.py:70
 msgid "Expand this Entire Group"
@@ -28157,7 +28159,7 @@ msgstr "A visualização que mostra todas as pessoas da árvore genealógica em 
 
 #: ../gramps/plugins/view/view.gpr.py:205
 msgid "The view showing all the places of the Family Tree"
-msgstr "A visualização que mostra todos os locais da árvore genealógica"
+msgstr "A visualização que mostra todos os lugares da árvore genealógica"
 
 #: ../gramps/plugins/view/view.gpr.py:219
 msgid "Place Tree"
@@ -28165,7 +28167,7 @@ msgstr "Árvore de lugares"
 
 #: ../gramps/plugins/view/view.gpr.py:220
 msgid "A view displaying places in a tree format."
-msgstr "Visualização dos locais em formato de árvore."
+msgstr "Visualização dos lugares em formato de árvore."
 
 #: ../gramps/plugins/view/view.gpr.py:236
 msgid "The view showing all the repositories"
@@ -28205,7 +28207,7 @@ msgstr "Estado/Província"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:353
 msgid "Alternate Locations"
-msgstr "Locais alternativos"
+msgstr "Lugares alternativos"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:354
 msgid "Locations"
@@ -28335,7 +28337,7 @@ msgstr "Famílias que começam com a letra "
 
 #: ../gramps/plugins/webreport/narrativeweb.py:3722
 msgid "Creating place pages"
-msgstr "Criando páginas de locais"
+msgstr "Criando páginas de lugares"
 
 #. place list page message
 #: ../gramps/plugins/webreport/narrativeweb.py:3754
@@ -28349,12 +28351,12 @@ msgstr "Nome"
 #: ../gramps/plugins/webreport/narrativeweb.py:3828
 #, python-format
 msgid "Places beginning with letter %s"
-msgstr "Locais que começam com a letra %s"
+msgstr "Lugares que começam com a letra %s"
 
 #. section title
 #: ../gramps/plugins/webreport/narrativeweb.py:3972
 msgid "Place Map"
-msgstr "Mapa do local"
+msgstr "Mapa do lugar"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:4072
 msgid "Creating event pages"
@@ -28362,7 +28364,7 @@ msgstr "Criando páginas de eventos"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:4104
 msgid "This page contains an index of all the events in the database, sorted by their type and date (if one is present). Clicking on an event&#8217;s Gramps ID will open a page for that event."
-msgstr "Esta página contém um índice de todos os eventos da base de dados, ordenados por tipo e data (se um deles estiver presente). Ao clicar em um ID Gramps do evento, você será levado à página daquele local."
+msgstr "Esta página contém um índice de todos os eventos da base de dados, ordenados por tipo e data (se um deles estiver presente). Ao clicar em um ID Gramps do evento, você será levado à página daquele evento."
 
 #: ../gramps/plugins/webreport/narrativeweb.py:4199
 #, python-format
@@ -28495,7 +28497,7 @@ msgstr "Rasteando %s"
 #. page description
 #: ../gramps/plugins/webreport/narrativeweb.py:6585
 msgid "This map page represents that person and any descendants with all of their event/ places. If you place your mouse over the marker it will display the place name. The markers and the Reference list are sorted in date order (if any?). Clicking on a place&#8217;s name in the Reference section will take you to that place&#8217;s page."
-msgstr "Esta página de mapas representa a pessoal e seus descendentes com todos os seus eventos e locais. Se você posicionar o mouse sobre o marcador, ele exibirá o nome do local. Os marcadores e a lista de referências são ordenados por data (se existir). Ao clicar no nome de um local na seção Referência, você terá a página do local."
+msgstr "Esta página de mapas representa a pessoal e seus descendentes com todos os seus eventos e lugares. Se você posicionar o mouse sobre o marcador, ele exibirá o nome do lugar. Os marcadores e a lista de referências são ordenados por data (se existir). Ao clicar no nome de um lugar na seção Referência, você terá a página do local."
 
 #: ../gramps/plugins/webreport/narrativeweb.py:6658
 msgid "Drop Markers"
@@ -28503,7 +28505,7 @@ msgstr "Largar marcadores"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:6679
 msgid "Place Title"
-msgstr "Título do local"
+msgstr "Título do lugar"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:7161
 msgid "Call Name"
@@ -29007,7 +29009,7 @@ msgstr "Se devem ser incluídas páginas de livro de endereços, que podem conte
 
 #: ../gramps/plugins/webreport/narrativeweb.py:9654
 msgid "Place Map Options"
-msgstr "Opções dos mapas de locais"
+msgstr "Opções dos mapas de lugares"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:9658
 msgid "Google"
@@ -29019,23 +29021,23 @@ msgstr "Serviço de mapas"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:9664
 msgid "Choose your choice of map service for creating the Place Map Pages."
-msgstr "Escolha o seu serviço de mapa para criação da página de mapas de locais."
+msgstr "Escolha o seu serviço de mapa para criação da página de mapas de lugares."
 
 #: ../gramps/plugins/webreport/narrativeweb.py:9670
 msgid "Include Place map on Place Pages"
-msgstr "Incluir mapa do local nas páginas de locais"
+msgstr "Incluir mapa do local nas páginas de lugares"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:9672
 msgid "Whether to include a place map on the Place Pages, where Latitude/ Longitude are available."
-msgstr "Se deve ser incluído um mapa do local nas páginas de locais, caso as informações de latitude/longitude estejam disponíveis."
+msgstr "Se deve ser incluído um mapa do local nas páginas de lugares, caso as informações de latitude/longitude estejam disponíveis."
 
 #: ../gramps/plugins/webreport/narrativeweb.py:9677
 msgid "Include Family Map Pages with all places shown on the map"
-msgstr "Incluir as páginas de mapas de família com todos os locais mostrados no mapa"
+msgstr "Incluir as páginas de mapas de família com todos os lugares mostrados no mapa"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:9681
 msgid "Whether or not to add an individual page map showing all the places on this page. This will allow you to see how your family traveled around the country."
-msgstr "Se deve ser incluído um mapa da página individual mostrando todos os locais nesta página. Isto lhe permitirá ver como a sua família está distribuída no país."
+msgstr "Se deve ser incluído um mapa da página individual mostrando todos os lugares nesta página. Isto lhe permitirá ver como a sua família está distribuída no país."
 
 #: ../gramps/plugins/webreport/narrativeweb.py:9689
 msgid "Family Links"
