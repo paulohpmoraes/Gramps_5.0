@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: GRAMPS 4.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-29 23:03-0700\n"
-"PO-Revision-Date: 2016-08-22 12:42-0300\n"
+"PO-Revision-Date: 2016-08-22 14:08-0300\n"
 "Last-Translator: Paulo Henrique Paiva de Moraes <paulohpmoraes@gmail.com>\n"
 "Language-Team: \n"
 "Language: pt_BR\n"
@@ -273,11 +273,11 @@ msgstr "<b>Trabalhando com datas</b><br/>Um intervalo de datas pode ser fornecid
 
 #: ../data/tips.xml.in.h:2
 msgid "<b>Editing Objects</b><br/>In most cases double clicking on a name, source, place or media entry will bring up a window to allow you to edit the object. Note that the result can be dependent on context. For example, in the Family View clicking on a parent or child will bring up the Relationship Editor."
-msgstr "<b>Edição de objetos</b><br/>Na maioria dos casos ao se clicar duas vezes em um item de nome, fonte de referência, local ou objeto multimídia será aberta uma janela que permitirá a edição do objeto. Observe que o resultado pode depender do contexto. Por exemplo, ao se clicar em um pai/mãe na exibição de famílias, o editor de parentesco será aberto."
+msgstr "<b>Edição de objetos</b><br/>Na maioria dos casos ao se clicar duas vezes em um item de nome, fonte de referência, local ou objeto de mídia será aberta uma janela que permitirá a edição do objeto. Observe que o resultado pode depender do contexto. Por exemplo, ao se clicar em um pai/mãe na exibição de famílias, o editor de parentesco será aberto."
 
 #: ../data/tips.xml.in.h:3
 msgid "<b>Adding Images</b><br/>An image can be added to any gallery or the Media View by dragging and dropping it from a file manager or a web browser. Actually you can add any type of file like this, useful for scans of documents and other digital sources."
-msgstr "<b>Adição de imagens</b><br/>Uma imagem pode ser adicionada à qualquer galeria ou à visualização multimídia ao se arrastar e soltar a imagem de um gerenciador de arquivos ou navegador da Internet. Na verdade, você pode adicionar qualquer tipo de arquivo como este, útil para verificações de documentos e outras fontes digitais."
+msgstr "<b>Adição de imagens</b><br/>Uma imagem pode ser adicionada à qualquer galeria ou à visualização de mídia ao se arrastar e soltar a imagem de um gerenciador de arquivos ou navegador da Internet. Na verdade, você pode adicionar qualquer tipo de arquivo como este, útil para verificações de documentos e outras fontes digitais."
 
 #: ../data/tips.xml.in.h:4
 msgid "<b>Ordering Children in a Family</b><br/>The birth order of children in a family can be set by using drag and drop. This order is preserved even when they do not have birth dates."
@@ -309,23 +309,23 @@ msgstr "<b>Alteração da pessoa ativa</b><br/>É muito fácil alterar a pessoa 
 
 #: ../data/tips.xml.in.h:11
 msgid "<b>Who Was Born When?</b><br/>Under &quot;Tools &gt; Analysis and exploration &gt; Compare Individual Events...&quot; you can compare the data of individuals in your database. This is useful, say, if you wish to list the birth dates of everyone in your database. You can use a custom filter to narrow the results."
-msgstr "<b>Quem nasceu quando</b><br/>Em &quot;Ferramentas &gt; Análise e exploração &gt; Comparar eventos individuais...&quot; você pode comparar dados de todos os indivíduos em seu banco de dados. Isto é útil, digamos, se você deseja listar todas as datas de nascimento de cada pessoa do seu banco de dados. Você pode usar um filtro personalizado para limitar os resultados."
+msgstr "<b>Quem nasceu quando</b><br/>Em &quot;Ferramentas &gt; Análise e exploração &gt; Comparar eventos individuais...&quot; você pode comparar dados de todos os indivíduos em sua base de dados. Isto é útil, digamos, se você deseja listar todas as datas de nascimento de cada pessoa da sua base de dados. Você pode usar um filtro personalizado para limitar os resultados."
 
 #: ../data/tips.xml.in.h:12
 msgid "<b>Gramps Tools</b><br/>Gramps comes with a rich set of tools. These allow you to undertake operations such as checking the database for errors and consistency. There are research and analysis tools such as event comparison, finding duplicate people, interactive descendant browser, and many others. All tools can be accessed through the &quot;Tools&quot; menu."
-msgstr "<b>Ferramentas do Gramps</b><br/>O Gramps vem com um vasto conjunto de ferramentas. Algumas delas permitem-lhe executar operações de verificação de erros e consistência do banco de dados, enquanto outras ferramentas auxiliam na pesquisa e análise de comparação de eventos, localização de pessoas com registro duplicado, navegador interativo de descendentes, e muitas outras. Todas as ferramentas podem ser acessadas através do menu &quot;Ferramentas&quot;."
+msgstr "<b>Ferramentas do Gramps</b><br/>O Gramps vem com um vasto conjunto de ferramentas. Algumas delas permitem-lhe executar operações de verificação de erros e consistência da base de dados, enquanto outras ferramentas auxiliam na pesquisa e análise de comparação de eventos, localização de pessoas com registro duplicado, navegador interativo de descendentes, e muitas outras. Todas as ferramentas podem ser acessadas através do menu &quot;Ferramentas&quot;."
 
 #: ../data/tips.xml.in.h:13
 msgid "<b>Calculating Relationships</b><br/>To check if two people in the database are related (by blood, not marriage) try the tool under &quot;Tools &gt; Utilities &gt; Relationship Calculator...&quot;. The exact relationship as well as all common ancestors are reported."
-msgstr "<b>Calculando parentescos</b><br/>Para verificar se duas pessoas no banco de dados são parentes (consanguíneos, não por afinidade), tente a ferramenta disponível em &quot;Ferramentas &gt; Utilitários &gt; Calculadora de parentesco...&quot;. Relacionamentos precisos, bem como todos os ascendentes comuns são identificados."
+msgstr "<b>Calculando parentescos</b><br/>Para verificar se duas pessoas na base de dados são parentes (consanguíneos, não por afinidade), tente a ferramenta disponível em &quot;Ferramentas &gt; Utilitários &gt; Calculadora de parentesco...&quot;. Relacionamentos precisos, bem como todos os ascendentes comuns são identificados."
 
 #: ../data/tips.xml.in.h:14
 msgid "<b>SoundEx can help with family research</b><br/>SoundEx solves a long standing problem in genealogy, how to handle spelling variations. The SoundEx Gramplet takes a surname and generates a simplified form that is equivalent for similar sounding names. Knowing the SoundEx Code for a surname is very helpful for researching Census Data files (microfiche) at a library or other research facility. To view the SoundEx codes for surnames in your database, add the SoundEx Gramplet."
-msgstr "<b>O SoundEx pode ajudar com a pesquisa familiar</b><br/>O SoundEx resolve um problema de longa data em genealogia, como lidar com variações ortográficas. O Gramplet SoundEx pega um sobrenome e gera uma forma simplificada que é equivalente para nomes que soam semelhantes. Saber o código SoundEx para um sobrenome é muito útil para a pesquisa de arquivos de dados censitários (microfichas) em uma biblioteca ou outro centro de pesquisa. Para ver os códigos SoundEx para sobrenomes em seu banco de dados, adicione o Gramplet Soundex."
+msgstr "<b>O SoundEx pode ajudar com a pesquisa familiar</b><br/>O SoundEx resolve um problema de longa data em genealogia, como lidar com variações ortográficas. O Gramplet SoundEx pega um sobrenome e gera uma forma simplificada que é equivalente para nomes que soam semelhantes. Saber o código SoundEx para um sobrenome é muito útil para a pesquisa de arquivos de dados censitários (microfichas) em uma biblioteca ou outro centro de pesquisa. Para ver os códigos SoundEx para sobrenomes em sua base de dados, adicione o Gramplet Soundex."
 
 #: ../data/tips.xml.in.h:15
 msgid "<b>Setting Your Preferences</b><br/>&quot;Edit &gt; Preferences...&quot; lets you modify a number of settings, such as the path to your media files, and allows you to adjust many aspects of the Gramps presentation to your needs. Each separate view can also be configured under &quot;View &gt; Configure View...&quot;"
-msgstr "<b>Definindo as suas preferências</b><br/>&quot;Editar &gt; Preferências...&quot; permite-lhe modificar uma grande quantidade de configurações, tais como a localização dos seus arquivos multimídia e permite-lhe ajustar muitos aspectos de apresentação do Gramps para as suas necessidades. Cada modo de exibição separado também pode ser configurado em &quot;Exibir &gt; Configurar exibição...&quot;"
+msgstr "<b>Definindo as suas preferências</b><br/>&quot;Editar &gt; Preferências...&quot; permite-lhe modificar uma grande quantidade de configurações, tais como a localização dos seus arquivos de mídia e permite-lhe ajustar muitos aspectos de apresentação do Gramps para as suas necessidades. Cada modo de exibição separado também pode ser configurado em &quot;Exibir &gt; Configurar exibição...&quot;"
 
 #: ../data/tips.xml.in.h:16
 msgid "<b>Gramps Reports</b><br/>Gramps offers a wide variety of reports. The Graphical Reports and Graphs can present complex relationships easily and the Text Reports are particularly useful if you want to send the results of your family tree to members of the family via email. If you're ready to make a website for your family tree then there's a report for that as well."
@@ -333,7 +333,7 @@ msgstr "<b>Relatórios do Gramps</b><br/>O Gramps oferece uma grande variedade d
 
 #: ../data/tips.xml.in.h:17
 msgid "<b>Starting a New Family Tree</b><br/>A good way to start a new family tree is to enter all the members of the family into the database using the Person View (use &quot;Edit &gt; Add...&quot; or click on the Add a new person button from the People View). Then go to the Relationship View and create relationships between people."
-msgstr "<b>Iniciando uma nova árvore genealógica</b><br/>Uma boa maneira de iniciar uma nova árvore genealógica é incluir todos os membros da família no banco de dados (use &quot;Editar &gt; Adicionar...&quot;, ou clique no botão Adicionar abaixo da exibição de pessoas). Depois vá para a exibição de famílias e crie relacionamentos entre as pessoas."
+msgstr "<b>Iniciando uma nova árvore genealógica</b><br/>Uma boa maneira de iniciar uma nova árvore genealógica é incluir todos os membros da família na base de dados (use &quot;Editar &gt; Adicionar...&quot;, ou clique no botão Adicionar abaixo da exibição de pessoas). Depois vá para a exibição de famílias e crie relacionamentos entre as pessoas."
 
 #: ../data/tips.xml.in.h:18
 msgid "<b>What's That For?</b><br/>Unsure what a button does? Simply hold the mouse over a button and a tooltip will appear."
@@ -345,7 +345,7 @@ msgstr "<b>Não sabe a data?</b><br/>Se você não está certo a respeito da dat
 
 #: ../data/tips.xml.in.h:20
 msgid "<b>Duplicate Entries</b><br/>&quot;Tools &gt; Database Processing &gt; Find Possible Duplicate People...&quot; allows you to locate (and merge) entries of the same person entered more than once in the database."
-msgstr "<b>Itens duplicados</b><br/>&quot;Ferramentas &gt; Processando o banco de dados &gt; Procura pessoas com possível registro duplicado...&quot; permite-lhe localizar (e mesclar) itens de uma mesma pessoa que foram adicionados mais de uma vez ao banco de dados."
+msgstr "<b>Itens duplicados</b><br/>&quot;Ferramentas &gt; Processando a base de dados &gt; Procura pessoas com possível registro duplicado...&quot; permite-lhe localizar (e mesclar) itens de uma mesma pessoa que foram adicionados mais de uma vez à base de dados."
 
 #: ../data/tips.xml.in.h:21
 msgid "<b>Merging Entries</b><br/>The function &quot;Edit &gt; Compare and Merge...&quot; allows you to combine separately listed people into one. Select the second entry by holding the Control key as you click. This is very useful for combining two databases with overlapping people, or combining erroneously entered differing names for one individual. This also works for the Places, Sources and Repositories views."
@@ -377,7 +377,7 @@ msgstr "<b>Edição de relacionamento de pai/filho</b><br/> Você pode editar o 
 
 #: ../data/tips.xml.in.h:28
 msgid "<b>Show All Checkbutton</b><br/>When adding an existing person as a spouse, the list of people shown is filtered to display only people who could realistically fit the role (based on dates in the database). In case Gramps is wrong in making this choice, you can override the filter by checking the Show All checkbutton."
-msgstr "<b>Seleção 'Mostrar todos'</b><br/>Ao se adicionar uma pessoa existente como cônjuge, a lista de pessoas mostradas é filtrada a fim de exibir somente as pessoas que poderiam na realidade se enquadrar naquela situação (baseando-se em datas do banco de dados). No caso do Gramps estar errado ao fazer a escolha, você pode manualmente ignorar o filtro ao clicar na opção 'Mostrar todos'."
+msgstr "<b>Seleção 'Mostrar todos'</b><br/>Ao se adicionar uma pessoa existente como cônjuge, a lista de pessoas mostradas é filtrada a fim de exibir somente as pessoas que poderiam na realidade se enquadrar naquela situação (baseando-se em datas da base de dados). No caso do Gramps estar errado ao fazer a escolha, você pode manualmente ignorar o filtro ao clicar na opção 'Mostrar todos'."
 
 #: ../data/tips.xml.in.h:29
 msgid "<b>Improving Gramps</b><br/>Users are encouraged to request enhancements to Gramps. Requesting an enhancement can be done either through the gramps-users or gramps-devel mailing lists, or by going to http://bugs.gramps-project.org and creating a Feature Request. Filing a Feature Request is preferred but it can be good to discuss your ideas on the email lists."
@@ -393,7 +393,7 @@ msgstr "<b>Contribuindo para o Gramps</b><br/>Deseja ajudar o Gramps mas não sa
 
 #: ../data/tips.xml.in.h:32
 msgid "<b>So What's in a Name?</b><br/>The name Gramps was suggested to the original developer, Don Allingham, by his father. It stands for <i>Genealogical Research and Analysis Management Program System</i>. It is a full-featured genealogy program letting you store, edit, and research genealogical data. The Gramps database back end is so robust that some users are managing genealogies containing hundreds of thousands of people."
-msgstr "<b>Então, o que está em um nome?</b><br/>O nome Gramps foi sugerido pelo desenvolvedor original, Don Allingham, por seu pai. Ele representa <i>Sistema de Programação e Gerenciamento de Pesquisa e Análise Genealógica (Genealogical Research and Analysis Management Program System)</i>. É um programa de genealogia muito abrangente que permite-lhe armazenar, editar, e pesquisar dados genealógicos. A infraestrutura do banco de dados do Gramps é tão robusta que alguns usuários estão gerenciando árvores genealógicas que contém centenas de milhares de pessoas."
+msgstr "<b>Então, o que está em um nome?</b><br/>O nome Gramps foi sugerido pelo desenvolvedor original, Don Allingham, por seu pai. Ele representa <i>Sistema de Programação e Gerenciamento de Pesquisa e Análise Genealógica (Genealogical Research and Analysis Management Program System)</i>. É um programa de genealogia muito abrangente que permite-lhe armazenar, editar, e pesquisar dados genealógicos. A infraestrutura da base de dados do Gramps é tão robusta que alguns usuários estão gerenciando árvores genealógicas que contém centenas de milhares de pessoas."
 
 #: ../data/tips.xml.in.h:33
 msgid "<b>Bookmarking Individuals</b><br/>The Bookmarks menu is a convenient place to store the names of frequently used individuals. Selecting a bookmark will make that person the Active Person. To bookmark someone make them the Active Person then go to &quot;Bookmarks &gt; Add Bookmark&quot; or press Ctrl+D. You can also bookmark most of the other objects."
@@ -421,11 +421,11 @@ msgstr "<b>Gerenciando fontes de referência</b><br/>A exibição de fontes de r
 
 #: ../data/tips.xml.in.h:39
 msgid "<b>Managing Places</b><br/>The Places View shows a list of all places in the database. The list can be sorted by a number of different criteria, such as City, County or State."
-msgstr "<b>Gerenciando locais</b><br/>A exibição de locais mostra uma lista de todos os locais existentes no banco de dados. A lista pode ser ordenada por critérios diferentes, tais como por Cidade, Condado ou Estado."
+msgstr "<b>Gerenciando locais</b><br/>A exibição de locais mostra uma lista de todos os locais existentes na base de dados. A lista pode ser ordenada por critérios diferentes, tais como por Cidade, Condado ou Estado."
 
 #: ../data/tips.xml.in.h:40
 msgid "<b>Media View</b><br/>The Media View shows a list of all media entered in the database. These can be graphic images, videos, sound clips, spreadsheets, documents, and more."
-msgstr "<b>Exibição de mídia</b><br/>A exibição de mídia mostra uma lista com todos os objetos multimídia existentes no banco de dados. Estes podem ser imagens, vídeos, sons, planilhas, documentos, e outros mais."
+msgstr "<b>Exibição de mídia</b><br/>A exibição de mídia mostra uma lista com todos os objetos de mídia existentes na base de dados. Estes podem ser imagens, vídeos, sons, planilhas, documentos, e outros mais."
 
 #: ../data/tips.xml.in.h:41
 msgid "<b>Filters</b><br/>Filters allow you to limit the people seen in the People View. In addition to the many preset filters, Custom Filters can be created limited only by your imagination. Custom filters are created from &quot;Edit &gt; Person Filter Editor&quot;."
@@ -437,7 +437,7 @@ msgstr "<b>O formato de arquivo GEDCOM</b><br/>O Gramps permite-lhe importar de,
 
 #: ../data/tips.xml.in.h:43
 msgid "<b>The Gramps XML Package</b><br/>You can export your Family Tree as a Gramps XML Package. This is a compressed file containing your family tree data and all the media files connected to the database (images for example). This file is completely portable so is useful for backups or sharing with other Gramps users. This format has the key advantage over GEDCOM that no information is ever lost when exporting and importing."
-msgstr "<b>O pacote Gramps XML</b><br/>Você pode exportar os dados da sua árvore genealógica para um pacote Gramps XML. Ele é um arquivo compactado que contém os dados da sua árvore genealógica e todos os arquivos multimídia com vínculo com o banco de dados (imagens, por exemplo). Este arquivo é totalmente portável e, dessa forma, é útil para se fazer cópias de segurança (backups) ou para compartilhar com outros usuários do Gramps. Este formato possui vantagens sobre o GEDCOM, no sentido de que nenhuma informação é perdida durante o processo de exportação e importação."
+msgstr "<b>O pacote Gramps XML</b><br/>Você pode exportar os dados da sua árvore genealógica para um pacote Gramps XML. Ele é um arquivo compactado que contém os dados da sua árvore genealógica e todos os arquivos de mídia com vínculo com a base de dados (imagens, por exemplo). Este arquivo é totalmente portável e, dessa forma, é útil para se fazer cópias de segurança (backups) ou para compartilhar com outros usuários do Gramps. Este formato possui vantagens sobre o GEDCOM, no sentido de que nenhuma informação é perdida durante o processo de exportação e importação."
 
 #: ../data/tips.xml.in.h:44
 msgid "<b>Web Family Tree Format</b><br/>Gramps can export data to the Web Family Tree (WFT) format. This format allows a family tree to be displayed online using a single file, instead of many html files."
@@ -501,7 +501,7 @@ msgstr "<b>Olá, привет ou 喂</b><br/>O Gramps oferece total suporte ao U
 
 #: ../data/tips.xml.in.h:59
 msgid "<b>The Home Person</b><br/>Anyone can be chosen as the Home Person in Gramps. Use &quot;Edit &gt; Set Home Person&quot; in the Person View. The home person is the person who is selected when the database is opened or when the home button is pressed."
-msgstr "<b>A pessoa inicial</b><br/>Qualquer um pode ser escolhido como a 'pessoa inicial' no Gramps. Use &quot;Editar &gt; Definir pessoa inicial&quot; na exibição de pessoas. A pessoa inicial é aquela selecionada quando o banco de dados é aberto ou quando o botão Início é pressionado."
+msgstr "<b>A pessoa inicial</b><br/>Qualquer um pode ser escolhido como a 'pessoa inicial' no Gramps. Use &quot;Editar &gt; Definir pessoa inicial&quot; na exibição de pessoas. A pessoa inicial é aquela selecionada quando a base de dados é aberto ou quando o botão Início é pressionado."
 
 #: ../data/tips.xml.in.h:60
 msgid "<b>The Gramps Code</b><br/>Gramps is written in a computer language called Python using the GTK and GNOME libraries for the graphical interface. Gramps is supported on any computer system where these programs have been ported. Gramps is known to be run on Linux, BSD, Solaris, Windows and Mac OS X."
@@ -582,7 +582,7 @@ msgstr "ERRO: Formato para arquivo de exportação %s não reconhecido"
 
 #: ../gramps/cli/arghandler.py:402
 msgid "List of known Family Trees in your database path\n"
-msgstr "Lista de árvores genealógicas conhecidas no local do seu banco de dados\n"
+msgstr "Lista de árvores genealógicas conhecidas no local da sua base de dados\n"
 
 #: ../gramps/cli/arghandler.py:410
 #, python-format
@@ -652,7 +652,7 @@ msgstr "Aberta com sucesso!"
 
 #: ../gramps/cli/arghandler.py:550
 msgid "Database is locked, cannot open it!"
-msgstr "O banco de dados não pode ser aberto porque está bloqueado!"
+msgstr "A base de dados não pode ser aberta porque está bloqueada!"
 
 #: ../gramps/cli/arghandler.py:551
 #, python-format
@@ -661,7 +661,7 @@ msgstr "  Informação: %s"
 
 #: ../gramps/cli/arghandler.py:554
 msgid "Database needs recovery, cannot open it!"
-msgstr "O banco de dados não pode ser aberto porque necessita de recuperação!"
+msgstr "A base de dados não pode ser aberta porque necessita de recuperação!"
 
 #: ../gramps/cli/arghandler.py:605 ../gramps/cli/arghandler.py:654 ../gramps/cli/arghandler.py:701
 msgid "Ignoring invalid options string."
@@ -1014,10 +1014,10 @@ msgid ""
 "\n"
 msgstr ""
 "\n"
-"ERRO: Localização incorreta do banco de dados no menu Editar->Preferências.\n"
+"ERRO: Localização incorreta da base de dados no menu Editar->Preferências.\n"
 "Abra a janela de preferências e informe a localização correta.\n"
 "\n"
-"Detalhes: Não foi possível criar a pasta do banco de dados:\n"
+"Detalhes: Não foi possível criar a pasta da base de dados:\n"
 "    %s\n"
 "\n"
 
@@ -1053,15 +1053,15 @@ msgstr "ERRO: %s"
 
 #: ../gramps/cli/grampscli.py:104 ../gramps/cli/user.py:196 ../gramps/gui/dialog.py:214
 msgid "Low level database corruption detected"
-msgstr "Foi detectada uma corrupção de baixo nível no banco de dados"
+msgstr "Foi detectada uma corrupção de baixo nível na base de dados"
 
 #: ../gramps/cli/grampscli.py:106 ../gramps/cli/user.py:197 ../gramps/gui/dialog.py:215
 msgid "Gramps has detected a problem in the underlying Berkeley database. This can be repaired from the Family Tree Manager. Select the database and click on the Repair button"
-msgstr "O Gramps detectou um problema no banco de dados Berkeley subjacente. Isto pode ser reparado a partir do gerenciador de árvore genealógica. Selecione o banco de dados e clique no botão 'Reparar'"
+msgstr "O Gramps detectou um problema na base de dados Berkeley subjacente. Isto pode ser reparado a partir do gerenciador de árvore genealógica. Selecione a base de dados e clique no botão 'Reparar'"
 
 #: ../gramps/cli/grampscli.py:151 ../gramps/gui/dbloader.py:301
 msgid "Read only database"
-msgstr "Banco de dados somente para leitura"
+msgstr "Base de dados somente para leitura"
 
 #: ../gramps/cli/grampscli.py:152 ../gramps/gui/dbloader.py:242 ../gramps/gui/dbloader.py:302
 msgid "You do not have write access to the selected file."
@@ -1069,7 +1069,7 @@ msgstr "Você não possui permissões de gravação para o arquivo selecionado."
 
 #: ../gramps/cli/grampscli.py:178 ../gramps/cli/grampscli.py:181 ../gramps/cli/grampscli.py:184 ../gramps/cli/grampscli.py:187 ../gramps/cli/grampscli.py:190 ../gramps/cli/grampscli.py:193 ../gramps/cli/grampscli.py:196 ../gramps/cli/grampscli.py:199 ../gramps/cli/grampscli.py:202 ../gramps/gui/dbloader.py:401 ../gramps/gui/dbloader.py:404 ../gramps/gui/dbloader.py:407 ../gramps/gui/dbloader.py:410 ../gramps/gui/dbloader.py:413
 msgid "Cannot open database"
-msgstr "Não foi possível abrir o banco de dados"
+msgstr "Não foi possível abrir a base de dados"
 
 #: ../gramps/cli/grampscli.py:206 ../gramps/gui/dbloader.py:198 ../gramps/gui/dbloader.py:417
 #, python-format
@@ -2107,7 +2107,7 @@ msgstr ""
 "\n"
 "A versão do esquema desta árvore genealógica é %(tree_vers)s, e esta versão do Gramps tem suporte às versões %(min_vers)s a %(max_vers)s\n"
 "\n"
-"Por favor, atualize para a versão correspondente ou use XML para transferir os dados entre versões diferentes de esquemas de banco de dados."
+"Por favor, atualize para a versão correspondente ou use XML para transferir os dados entre versões diferentes de esquemas de base de dados."
 
 #: ../gramps/gen/db/exceptions.py:114
 #, python-format
@@ -2166,8 +2166,8 @@ msgid ""
 "Gramps has detected a problem in opening the 'environment' of the underlying Berkeley database used to store this Family Tree. The most likely cause is that the database was created with an old version of the Berkeley database program, and you are now using a new version. It is quite likely that your database has not been changed by Gramps.\n"
 "If possible, you should revert to your old version of Gramps and its support software; export your database to XML; close the database; then upgrade again to this version of Gramps and import the XML file in an empty Family Tree. Alternatively, it may be possible to use the Berkeley database recovery tools."
 msgstr ""
-"O Gramps detectou um problema na abertura do 'ambiente' do banco de dados Berkeley subjacente usado para armazenar esta árvore genealógica. A causa mais provável é que o banco de dados foi criado com uma versão antiga do programa de banco de dados Berkeley e agora você está usando uma nova versão. É bastante provável que o seu banco de dados não foi alterado pelo Gramps.\n"
-"Se possível, você dever reinstalar a sua antiga versão do Gramps; exportar o seu banco de dados para XML; fechar o banco de dados; atualizar novamente para esta versão do Gramps e importar o arquivo XML em uma árvore genealógica vazia. Alternativamente, pode ser possível usar as ferramentas de recuperação de banco de dados do Berkeley."
+"O Gramps detectou um problema na abertura do 'ambiente' da base de dados Berkeley subjacente usada para armazenar esta árvore genealógica. A causa mais provável é que a base de dados foi criada com uma versão antiga do programa de banco de dados Berkeley e agora você está usando uma nova versão. É bastante provável que o sua base de dados não foi alterada pelo Gramps.\n"
+"Se possível, você dever reinstalar a sua antiga versão do Gramps; exportar a sua base de dados para XML; fechar a base de dados; atualizar novamente para esta versão do Gramps e importar o arquivo XML em uma árvore genealógica vazia. Alternativamente, pode ser possível usar as ferramentas de recuperação de base de dados do Berkeley."
 
 #: ../gramps/gen/db/exceptions.py:252
 #, python-format
@@ -2535,7 +2535,7 @@ msgstr "Cada citação"
 
 #: ../gramps/gen/filters/rules/citation/_allcitations.py:46
 msgid "Matches every citation in the database"
-msgstr "Encontra todas as citações no banco de dados"
+msgstr "Encontra todas as citações na base de dados"
 
 #: ../gramps/gen/filters/rules/citation/_changedsince.py:45 ../gramps/gen/filters/rules/event/_changedsince.py:46 ../gramps/gen/filters/rules/family/_changedsince.py:46 ../gramps/gen/filters/rules/media/_changedsince.py:44 ../gramps/gen/filters/rules/note/_changedsince.py:46 ../gramps/gen/filters/rules/person/_changedsince.py:46 ../gramps/gen/filters/rules/place/_changedsince.py:46 ../gramps/gen/filters/rules/repository/_changedsince.py:46 ../gramps/gen/filters/rules/source/_changedsince.py:46
 msgid "Changed after:"
@@ -2567,7 +2567,7 @@ msgstr "Nível de confiança:"
 
 #: ../gramps/gen/filters/rules/citation/_hasgallery.py:45
 msgid "Citations with <count> media"
-msgstr "Citações com <count> objetos multimídias"
+msgstr "Citações com <count> objetos de mídia"
 
 #: ../gramps/gen/filters/rules/citation/_hasgallery.py:46
 msgid "Matches citations with a certain number of items in the gallery"
@@ -2583,27 +2583,27 @@ msgstr "Localiza uma citação com um ID Gramps especificado"
 
 #: ../gramps/gen/filters/rules/citation/_hasnote.py:46
 msgid "Citations having <count> notes"
-msgstr "Citações com <count> notas"
+msgstr "Citações com <count> anotações"
 
 #: ../gramps/gen/filters/rules/citation/_hasnote.py:47
 msgid "Matches citations having a certain number of notes"
-msgstr "Localiza as citações que possuem um determinado número notas"
+msgstr "Localiza as citações que possuem um determinado número anotações"
 
 #: ../gramps/gen/filters/rules/citation/_hasnotematchingsubstringof.py:43
 msgid "Citations having notes containing <substring>"
-msgstr "Citações que possuem notas contendo <substring>"
+msgstr "Citações que possuem anotaçes contendo <substring>"
 
 #: ../gramps/gen/filters/rules/citation/_hasnotematchingsubstringof.py:44
 msgid "Matches citations whose notes contain text matching a substring"
-msgstr "Localiza as citações cujas notas contenham texto que corresponda à cadeia de caracteres"
+msgstr "Localiza as citações cujas anotações contenham texto que corresponda à cadeia de caracteres"
 
 #: ../gramps/gen/filters/rules/citation/_hasnoteregexp.py:42
 msgid "Citations having notes containing <text>"
-msgstr "Citações que possuem notas contendo <texto>"
+msgstr "Citações que possuem anotações contendo <texto>"
 
 #: ../gramps/gen/filters/rules/citation/_hasnoteregexp.py:43
 msgid "Matches citations whose notes contain text matching a regular expression"
-msgstr "Localiza as citações cujas notas contenham texto que coincide com uma expressão regular"
+msgstr "Localiza as citações cujas anotações contenham texto que coincide com uma expressão regular"
 
 #: ../gramps/gen/filters/rules/citation/_hasreferencecountof.py:43
 msgid "Citations with a reference count of <count>"
@@ -2651,11 +2651,11 @@ msgstr "Localiza uma citação com uma fonte com um ID Gramps especificado"
 
 #: ../gramps/gen/filters/rules/citation/_hassourcenoteregexp.py:52
 msgid "Citations having source notes containing <text>"
-msgstr "Citações que possuem notas de fonte contendo <texto>"
+msgstr "Citações que possuem anotações de fonte contendo <texto>"
 
 #: ../gramps/gen/filters/rules/citation/_hassourcenoteregexp.py:53
 msgid "Matches citations whose source notes contain a substring or match a regular expression"
-msgstr "Localiza as citações cujas notas de fonte contenham um texto ou correspondam a uma expressão regular"
+msgstr "Localiza as citações cujas anotações de fonte contenham um texto ou correspondam a uma expressão regular"
 
 #: ../gramps/gen/filters/rules/citation/_hastag.py:48 ../gramps/gen/filters/rules/event/_hastag.py:48 ../gramps/gen/filters/rules/family/_hastag.py:48 ../gramps/gen/filters/rules/media/_hastag.py:48 ../gramps/gen/filters/rules/note/_hastag.py:48 ../gramps/gen/filters/rules/person/_hastag.py:48 ../gramps/gen/filters/rules/place/_hastag.py:48 ../gramps/gen/filters/rules/repository/_hastag.py:48 ../gramps/gen/filters/rules/source/_hastag.py:48 ../gramps/gui/editors/filtereditor.py:573
 msgid "Tag:"
@@ -2727,7 +2727,7 @@ msgstr "Todos os eventos"
 
 #: ../gramps/gen/filters/rules/event/_allevents.py:45
 msgid "Matches every event in the database"
-msgstr "Localiza todos os eventos no banco de dados"
+msgstr "Localiza todos os eventos na base de dados"
 
 #: ../gramps/gen/filters/rules/event/_changedsince.py:47
 msgid "Events changed after <date time>"
@@ -2819,27 +2819,27 @@ msgstr "Localiza um evento com um ID Gramps especificado"
 
 #: ../gramps/gen/filters/rules/event/_hasnote.py:45
 msgid "Events having <count> notes"
-msgstr "Eventos que possuem <count> notas"
+msgstr "Eventos que possuem <count> anotações"
 
 #: ../gramps/gen/filters/rules/event/_hasnote.py:46
 msgid "Matches events having a certain number of notes"
-msgstr "Localiza os eventos que possuem um determinado número notas"
+msgstr "Localiza os eventos que possuem um determinado número anotações"
 
 #: ../gramps/gen/filters/rules/event/_hasnotematchingsubstringof.py:42
 msgid "Events having notes containing <substring>"
-msgstr "Eventos que possuam notas contendo <substring>"
+msgstr "Eventos que possuam anotações contendo <substring>"
 
 #: ../gramps/gen/filters/rules/event/_hasnotematchingsubstringof.py:43
 msgid "Matches events whose notes contain text matching a substring"
-msgstr "Localiza os eventos cujas notas contenham texto que coincide com uma cadeia de caracteres"
+msgstr "Localiza os eventos cujas anotações contenham texto que coincide com uma cadeia de caracteres"
 
 #: ../gramps/gen/filters/rules/event/_hasnoteregexp.py:41
 msgid "Events having notes containing <text>"
-msgstr "Eventos que possuem notas contendo <texto>"
+msgstr "Eventos que possuem anotações contendo <texto>"
 
 #: ../gramps/gen/filters/rules/event/_hasnoteregexp.py:42
 msgid "Matches events whose notes contain text matching a regular expression"
-msgstr "Localiza os eventos cujas notas contenham texto que coincide com uma expressão regular"
+msgstr "Localiza os eventos cujas anotações contenham texto que coincide com uma expressão regular"
 
 #: ../gramps/gen/filters/rules/event/_hasreferencecountof.py:42
 msgid "Events with a reference count of <count>"
@@ -2940,7 +2940,7 @@ msgstr "Todas as famílias"
 
 #: ../gramps/gen/filters/rules/family/_allfamilies.py:45
 msgid "Matches every family in the database"
-msgstr "Localiza todas as famílias no banco de dados"
+msgstr "Localiza todas as famílias na base de dados"
 
 #: ../gramps/gen/filters/rules/family/_changedsince.py:47
 msgid "Families changed after <date time>"
@@ -3040,7 +3040,7 @@ msgstr "Localiza as famílias com um evento que tenha um valor específico"
 
 #: ../gramps/gen/filters/rules/family/_hasgallery.py:45
 msgid "Families with <count> media"
-msgstr "Famílias com <count> objetos multimídias"
+msgstr "Famílias com <count> objetos de mídia"
 
 #: ../gramps/gen/filters/rules/family/_hasgallery.py:46
 msgid "Matches families with a certain number of items in the gallery"
@@ -3064,27 +3064,27 @@ msgstr "Localiza as famílias com um determinado número de eventos SUD"
 
 #: ../gramps/gen/filters/rules/family/_hasnote.py:45
 msgid "Families having <count> notes"
-msgstr "Famílias com <count> notas"
+msgstr "Famílias com <count> anotações"
 
 #: ../gramps/gen/filters/rules/family/_hasnote.py:46
 msgid "Matches families having a certain number notes"
-msgstr "Localiza as famílias que possuem um determinado número de notas"
+msgstr "Localiza as famílias que possuem um determinado número de anotações"
 
 #: ../gramps/gen/filters/rules/family/_hasnotematchingsubstringof.py:42
 msgid "Families having notes containing <substring>"
-msgstr "Famílias que possuem notas contendo <substring>"
+msgstr "Famílias que possuem anotações contendo <substring>"
 
 #: ../gramps/gen/filters/rules/family/_hasnotematchingsubstringof.py:43
 msgid "Matches families whose notes contain text matching a substring"
-msgstr "Localiza as famílias cujas notas contém texto que corresponda à cadeia de caracteres"
+msgstr "Localiza as famílias cujas anotações contém texto que corresponda à cadeia de caracteres"
 
 #: ../gramps/gen/filters/rules/family/_hasnoteregexp.py:41
 msgid "Families having notes containing <text>"
-msgstr "Famílias que possuem notas contendo <texto>"
+msgstr "Famílias que possuem anotações contendo <texto>"
 
 #: ../gramps/gen/filters/rules/family/_hasnoteregexp.py:42
 msgid "Matches families whose notes contain text matching a regular expression"
-msgstr "Localiza as famílias cujas notas contém texto que coincide com uma expressão regular"
+msgstr "Localiza as famílias cujas anotações contém texto que coincide com uma expressão regular"
 
 #: ../gramps/gen/filters/rules/family/_hasreferencecountof.py:42
 msgid "Families with a reference count of <count>"
@@ -3252,19 +3252,19 @@ msgstr "Famílias com mãe coincidente com <name>"
 
 #: ../gramps/gen/filters/rules/media/_allmedia.py:44
 msgid "Every media object"
-msgstr "Todos os objetos multimídia"
+msgstr "Todos os objetos de mídia"
 
 #: ../gramps/gen/filters/rules/media/_allmedia.py:45
 msgid "Matches every media object in the database"
-msgstr "Localiza todos os objetos multimídia no banco de dados"
+msgstr "Localiza todos os objetos de mídia na base de dados"
 
 #: ../gramps/gen/filters/rules/media/_changedsince.py:45
 msgid "Media objects changed after <date time>"
-msgstr "Objetos multimídia alterados após <date time>"
+msgstr "Objetos de mídia alterados após <date time>"
 
 #: ../gramps/gen/filters/rules/media/_changedsince.py:46
 msgid "Matches media objects changed after a specified date:time (yyyy-mm-dd hh:mm:ss) or in the range, if a second date:time is given."
-msgstr "Localiza os objetos multimídia alterados após uma data:hora especificada (aaaa-mm-dd hh:mm:ss) ou no intervalo, caso uma segunda data:hora for fornecida."
+msgstr "Localiza os objetos de mídia alterados após uma data:hora especificada (aaaa-mm-dd hh:mm:ss) ou no intervalo, caso uma segunda data:hora for fornecida."
 
 #: ../gramps/gen/filters/rules/media/_hasattribute.py:44 ../gramps/gui/editors/filtereditor.py:107 ../gramps/gui/editors/filtereditor.py:548
 msgid "Media attribute:"
@@ -3272,11 +3272,11 @@ msgstr "Atributo de mídia:"
 
 #: ../gramps/gen/filters/rules/media/_hasattribute.py:45
 msgid "Media objects with the attribute <attribute>"
-msgstr "Objetos multimídia com o atributo <attribute>"
+msgstr "Objetos de mídia com o atributo <attribute>"
 
 #: ../gramps/gen/filters/rules/media/_hasattribute.py:46
 msgid "Matches media objects with the attribute of a particular value"
-msgstr "Localiza os objetos multimídia com o atributo que tenha um valor específico"
+msgstr "Localiza os objetos de mídia com o atributo que tenha um valor específico"
 
 #: ../gramps/gen/filters/rules/media/_hascitation.py:50
 msgid "Media with the <citation>"
@@ -3288,11 +3288,11 @@ msgstr "Localiza mídia com uma citação que tenha um valor específico"
 
 #: ../gramps/gen/filters/rules/media/_hasidof.py:44
 msgid "Media object with <Id>"
-msgstr "Objeto multimídia com <Id>"
+msgstr "Objeto de mídia com <Id>"
 
 #: ../gramps/gen/filters/rules/media/_hasidof.py:45
 msgid "Matches a media object with a specified Gramps ID"
-msgstr "Localiza um objeto multimídia com um ID Gramps especificado"
+msgstr "Localiza um objeto de mídia com um ID Gramps especificado"
 
 #: ../gramps/gen/filters/rules/media/_hasmedia.py:47 ../gramps/gen/filters/rules/repository/_hasrepo.py:47 ../gramps/gui/glade/editmediaref.glade:521 ../gramps/gui/glade/editplace.glade:300 ../gramps/gui/glade/editplaceref.glade:303 ../gramps/gui/glade/mergeevent.glade:213 ../gramps/gui/glade/mergeevent.glade:229 ../gramps/gui/glade/mergenote.glade:246 ../gramps/gui/glade/mergenote.glade:262 ../gramps/gui/glade/mergeplace.glade:486 ../gramps/gui/glade/mergeplace.glade:503 ../gramps/gui/glade/mergerepository.glade:246 ../gramps/gui/glade/mergerepository.glade:262
 msgid "Type:"
@@ -3304,35 +3304,35 @@ msgstr "Localização:"
 
 #: ../gramps/gen/filters/rules/media/_hasmedia.py:51
 msgid "Media objects matching parameters"
-msgstr "Objetos multimídia que correspondem aos parâmetros"
+msgstr "Objetos de mídia que correspondem aos parâmetros"
 
 #: ../gramps/gen/filters/rules/media/_hasmedia.py:52
 msgid "Matches media objects with particular parameters"
-msgstr "Localiza os objetos multimídia com parâmetros específicos"
+msgstr "Localiza os objetos de mídia com parâmetros específicos"
 
 #: ../gramps/gen/filters/rules/media/_hasnotematchingsubstringof.py:42
 msgid "Media objects having notes containing <substring>"
-msgstr "Objetos multimídia que possuem notas contendo <substring>"
+msgstr "Objetos de mídia que possuem anotações contendo <substring>"
 
 #: ../gramps/gen/filters/rules/media/_hasnotematchingsubstringof.py:43
 msgid "Matches media objects whose notes contain text matching a substring"
-msgstr "Localiza os objetos multimídia cujas notas contenham texto que coincide com uma cadeia de caracteres"
+msgstr "Localiza os objetos de mídia cujas anotações contenham texto que coincide com uma cadeia de caracteres"
 
 #: ../gramps/gen/filters/rules/media/_hasnoteregexp.py:41
 msgid "Media objects having notes containing <text>"
-msgstr "Objetos multimídia que possuem notas contendo <texto>"
+msgstr "Objetos de mídia que possuem anotações contendo <texto>"
 
 #: ../gramps/gen/filters/rules/media/_hasnoteregexp.py:42
 msgid "Matches media objects whose notes contain text matching a regular expression"
-msgstr "Localiza os objetos multimídia cujas notas contenham texto que coincide com uma expressão regular"
+msgstr "Localiza os objetos de mídia cujas anotações contenham texto que coincide com uma expressão regular"
 
 #: ../gramps/gen/filters/rules/media/_hasreferencecountof.py:42
 msgid "Media objects with a reference count of <count>"
-msgstr "Objetos multimídia com um número de referências <count>"
+msgstr "Objetos de mídia com um número de referências <count>"
 
 #: ../gramps/gen/filters/rules/media/_hasreferencecountof.py:43
 msgid "Matches media objects with a certain reference count"
-msgstr "Localiza os objetos multimídia com uma determinada quantidade de referências"
+msgstr "Localiza os objetos de mídia com uma determinada quantidade de referências"
 
 #: ../gramps/gen/filters/rules/media/_hassourcecount.py:45
 msgid "Media with <count> sources"
@@ -3352,19 +3352,19 @@ msgstr "Encontra mídia que possui uma fonte de referência específica"
 
 #: ../gramps/gen/filters/rules/media/_hastag.py:49
 msgid "Media objects with the <tag>"
-msgstr "Objetos multimídia com <tag>"
+msgstr "Objetos de mídia com <tag>"
 
 #: ../gramps/gen/filters/rules/media/_hastag.py:50
 msgid "Matches media objects with the particular tag"
-msgstr "Localiza os objetos multimídia com uma etiqueta específica"
+msgstr "Localiza os objetos de mídia com uma etiqueta específica"
 
 #: ../gramps/gen/filters/rules/media/_matchesfilter.py:44
 msgid "Media objects matching the <filter>"
-msgstr "Objetos multimídia que coincidem com o <filter>"
+msgstr "Objetos de mídia que coincidem com o <filter>"
 
 #: ../gramps/gen/filters/rules/media/_matchesfilter.py:45
 msgid "Matches media objects matched by the specified filter name"
-msgstr "Localiza os objetos multimídia que foram encontrados pelo filtro especificado"
+msgstr "Localiza os objetos de mídia que foram encontrados pelo filtro especificado"
 
 #: ../gramps/gen/filters/rules/media/_matchessourceconfidence.py:44
 msgid "Media with a direct source >= <confidence level>"
@@ -3376,119 +3376,119 @@ msgstr "Localiza mídia com pelo menos uma fonte de referência direta com o(s) 
 
 #: ../gramps/gen/filters/rules/media/_mediaprivate.py:42
 msgid "Media objects marked private"
-msgstr "Objetos multimídia marcados como privados"
+msgstr "Objetos de mídia marcados como privados"
 
 #: ../gramps/gen/filters/rules/media/_mediaprivate.py:43
 msgid "Matches Media objects that are indicated as private"
-msgstr "Localiza os objetos multimídia que estão indicados como privados"
+msgstr "Localiza os objetos de mídia que estão indicados como privados"
 
 #: ../gramps/gen/filters/rules/media/_regexpidof.py:47
 msgid "Media objects with Id containing <text>"
-msgstr "Objetos multimídia com o Id contendo <texto>"
+msgstr "Objetos de mídia com o Id contendo <texto>"
 
 #: ../gramps/gen/filters/rules/media/_regexpidof.py:48
 msgid "Matches media objects whose Gramps ID matches the regular expression"
-msgstr "Localiza os objetos multimídia cujo ID Gramps coincide com a expressão regular"
+msgstr "Localiza os objetos de mídia cujo ID Gramps coincide com a expressão regular"
 
 #: ../gramps/gen/filters/rules/note/_allnotes.py:44
 msgid "Every note"
-msgstr "Todas as notas"
+msgstr "Todas as anotações"
 
 #: ../gramps/gen/filters/rules/note/_allnotes.py:45
 msgid "Matches every note in the database"
-msgstr "Localiza todas as notas no banco de dados"
+msgstr "Localiza todas as anotações na base de dados"
 
 #: ../gramps/gen/filters/rules/note/_changedsince.py:47
 msgid "Notes changed after <date time>"
-msgstr "Notas alteradas após <date time>"
+msgstr "Anotações alteradas após <date time>"
 
 #: ../gramps/gen/filters/rules/note/_changedsince.py:48
 msgid "Matches note records changed after a specified date-time (yyyy-mm-dd hh:mm:ss) or in the range, if a second date-time is given."
-msgstr "Localiza os registros das notas alterados após uma data-hora especificada (aaaa-mm-dd hh:mm:ss) ou no intervalo, caso uma segunda data-hora for fornecida."
+msgstr "Localiza os registros das anotações alterados após uma data-hora especificada (aaaa-mm-dd hh:mm:ss) ou no intervalo, caso uma segunda data-hora for fornecida."
 
 #: ../gramps/gen/filters/rules/note/_hasidof.py:44
 msgid "Note with <Id>"
-msgstr "Notas com <Id>"
+msgstr "Anotações com <Id>"
 
 #: ../gramps/gen/filters/rules/note/_hasidof.py:45
 msgid "Matches a note with a specified Gramps ID"
-msgstr "Localiza uma nota com um ID Gramps especificado"
+msgstr "Localiza uma anotação com um ID Gramps especificado"
 
 #: ../gramps/gen/filters/rules/note/_hasnote.py:47 ../gramps/gen/filters/rules/note/_hastype.py:45 ../gramps/gui/editors/filtereditor.py:109 ../gramps/gui/editors/filtereditor.py:552
 msgid "Note type:"
-msgstr "Tipo de nota:"
+msgstr "Tipo de anotação:"
 
 #: ../gramps/gen/filters/rules/note/_hasnote.py:49
 msgid "Notes matching parameters"
-msgstr "Notas que correspondem aos parâmetros"
+msgstr "Anotações que correspondem aos parâmetros"
 
 #: ../gramps/gen/filters/rules/note/_hasnote.py:50
 msgid "Matches Notes with particular parameters"
-msgstr "Localiza as notas com parâmetros específicos"
+msgstr "Localiza as anotações com parâmetros específicos"
 
 #: ../gramps/gen/filters/rules/note/_hasreferencecountof.py:42
 msgid "Notes with a reference count of <count>"
-msgstr "Notas com um número de referências <count>"
+msgstr "Anotaçõess com um número de referências <count>"
 
 #: ../gramps/gen/filters/rules/note/_hasreferencecountof.py:43
 msgid "Matches notes with a certain reference count"
-msgstr "Localiza as notas com um determinado número de referências"
+msgstr "Localiza as anotações com um determinado número de referências"
 
 #: ../gramps/gen/filters/rules/note/_hastag.py:49
 msgid "Notes with the <tag>"
-msgstr "Notas com a <tag>"
+msgstr "Anotações com a <tag>"
 
 #: ../gramps/gen/filters/rules/note/_hastag.py:50
 msgid "Matches notes with the particular tag"
-msgstr "Localiza as notas com a etiqueta específica"
+msgstr "Localiza as anotações com a etiqueta específica"
 
 #: ../gramps/gen/filters/rules/note/_hastype.py:46
 msgid "Notes with the particular type"
-msgstr "As notas com o tipo específico"
+msgstr "As anotações com o tipo específico"
 
 #: ../gramps/gen/filters/rules/note/_hastype.py:47
 msgid "Matches notes with the particular type "
-msgstr "Localiza as notas com o tipo específico "
+msgstr "Localiza as anotações com o tipo específico "
 
 #: ../gramps/gen/filters/rules/note/_matchesfilter.py:44
 msgid "Notes matching the <filter>"
-msgstr "Notas que coincidem com o <filter>"
+msgstr "Anotações que coincidem com o <filter>"
 
 #: ../gramps/gen/filters/rules/note/_matchesfilter.py:45
 msgid "Matches notes matched by the specified filter name"
-msgstr "Localiza as notas que foram encontradas pelo filtro especificado"
+msgstr "Localiza as anotações que foram encontradas pelo filtro especificado"
 
 #: ../gramps/gen/filters/rules/note/_matchesregexpof.py:44
 msgid "Notes containing <text>"
-msgstr "Notas contendo <texto>"
+msgstr "Anotações contendo <texto>"
 
 #: ../gramps/gen/filters/rules/note/_matchesregexpof.py:45
 msgid "Matches notes that contain a substring or match a regular expression"
-msgstr "Localiza as notas que contenham uma substring ou correspondam a uma expressão regular"
+msgstr "Localiza as anotações que contenham uma substring ou correspondam a uma expressão regular"
 
 #: ../gramps/gen/filters/rules/note/_matchessubstringof.py:44
 msgid "Notes containing <substring>"
-msgstr "Notas contendo <substring>"
+msgstr "Anotações contendo <substring>"
 
 #: ../gramps/gen/filters/rules/note/_matchessubstringof.py:45
 msgid "Matches notes that contain text which matches a substring"
-msgstr "Localiza as notas que contenham texto que coincide com uma cadeia de caracteres"
+msgstr "Localiza as anotações que contenham texto que coincide com uma cadeia de caracteres"
 
 #: ../gramps/gen/filters/rules/note/_noteprivate.py:42
 msgid "Notes marked private"
-msgstr "Notas marcadas como privadas"
+msgstr "Anotações marcadas como privadas"
 
 #: ../gramps/gen/filters/rules/note/_noteprivate.py:43
 msgid "Matches notes that are indicated as private"
-msgstr "Localiza as notas que estão indicadas como privadas"
+msgstr "Localiza as anotações que estão indicadas como privadas"
 
 #: ../gramps/gen/filters/rules/note/_regexpidof.py:47
 msgid "Notes with Id containing <text>"
-msgstr "Notas com o Id contendo <texto>"
+msgstr "Anotações com o Id contendo <texto>"
 
 #: ../gramps/gen/filters/rules/note/_regexpidof.py:48
 msgid "Matches notes whose Gramps ID matches the regular expression"
-msgstr "Localiza as notas cujos ID Gramps coincidem com a expressão regular"
+msgstr "Localiza as anotações cujos ID Gramps coincidem com a expressão regular"
 
 #: ../gramps/gen/filters/rules/person/_changedsince.py:47
 msgid "Persons changed after <date time>"
@@ -3516,7 +3516,7 @@ msgstr "Filtros de parentesco"
 
 #: ../gramps/gen/filters/rules/person/_deeprelationshippathbetween.py:124
 msgid "Searches over the database starting from a specified person and returns everyone between that person and a set of target people specified with a filter.  This produces a set of relationship paths (including by marriage) between the specified person and the target people.  Each path is not necessarily the shortest path."
-msgstr "Pesquisa no banco de dados a partir de uma pessoa especificada e retorna tudo entre esta pessoa e um conjunto de pessoas especificado com um filtro. Isto gera um conjunto de linha de parentesco (incluindo por casamento) entre a pessoa especificada e o conjunto de pessoas. Cada linha não é necessariamente a mais curta."
+msgstr "Pesquisa na base de dados a partir de uma pessoa especificada e retorna tudo entre esta pessoa e um conjunto de pessoas especificado com um filtro. Isto gera um conjunto de linha de parentesco (incluindo por casamento) entre a pessoa especificada e o conjunto de pessoas. Cada linha não é necessariamente a mais curta."
 
 #: ../gramps/gen/filters/rules/person/_deeprelationshippathbetween.py:136
 msgid "Finding relationship paths"
@@ -3532,7 +3532,7 @@ msgstr "Pessoas sem ligações"
 
 #: ../gramps/gen/filters/rules/person/_disconnected.py:46
 msgid "Matches people that have no family relationships to any other person in the database"
-msgstr "Encontra as pessoas que não possuem relações familiares com nenhuma outra pessoa no banco de dados"
+msgstr "Encontra as pessoas que não possuem relações familiares com nenhuma outra pessoa na base de dados"
 
 #: ../gramps/gen/filters/rules/person/_everyone.py:44
 msgid "Everyone"
@@ -3540,7 +3540,7 @@ msgstr "Todas as pessoas"
 
 #: ../gramps/gen/filters/rules/person/_everyone.py:46
 msgid "Matches everyone in the database"
-msgstr "Encontra todas as pessoas no banco de dados"
+msgstr "Encontra todas as pessoas na base de dados"
 
 #: ../gramps/gen/filters/rules/person/_familywithincompleteevent.py:42
 msgid "Families with incomplete events"
@@ -3776,27 +3776,27 @@ msgstr "Encontra pessoas que possuem um apelido"
 
 #: ../gramps/gen/filters/rules/person/_hasnote.py:45
 msgid "People having <count> notes"
-msgstr "Pessoas que possuem <count> de notas"
+msgstr "Pessoas que possuem <count> anotações"
 
 #: ../gramps/gen/filters/rules/person/_hasnote.py:46
 msgid "Matches people having a certain number of notes"
-msgstr "Encontra pessoas que possuem um determinado número de notas"
+msgstr "Encontra pessoas que possuem um determinado número de anotações"
 
 #: ../gramps/gen/filters/rules/person/_hasnotematchingsubstringof.py:42
 msgid "People having notes containing <substring>"
-msgstr "Pessoas que possuem notas contendo <substring>"
+msgstr "Pessoas que possuem anotações contendo <substring>"
 
 #: ../gramps/gen/filters/rules/person/_hasnotematchingsubstringof.py:43
 msgid "Matches people whose notes contain text matching a substring"
-msgstr "Encontra pessoas cujas notas contém texto que coincide com uma cadeia de caracteres"
+msgstr "Encontra pessoas cujas anotações contém texto que coincide com uma cadeia de caracteres"
 
 #: ../gramps/gen/filters/rules/person/_hasnoteregexp.py:41
 msgid "People having notes containing <text>"
-msgstr "Pessoas que possuem notas contendo <texto>"
+msgstr "Pessoas que possuem anotações contendo <texto>"
 
 #: ../gramps/gen/filters/rules/person/_hasnoteregexp.py:42
 msgid "Matches people whose notes contain text matching a regular expression"
-msgstr "Encontra pessoas cujas notas contém texto que coincide com uma expressão regular"
+msgstr "Encontra pessoas cujas anotações contém texto que coincide com uma expressão regular"
 
 #: ../gramps/gen/filters/rules/person/_hasrelationship.py:45
 msgid "Number of relationships:"
@@ -4225,7 +4225,7 @@ msgstr "Todos os locais"
 
 #: ../gramps/gen/filters/rules/place/_allplaces.py:45
 msgid "Matches every place in the database"
-msgstr "Localiza todos os locais no banco de dados"
+msgstr "Localiza todos os locais na base de dados"
 
 #: ../gramps/gen/filters/rules/place/_changedsince.py:47
 msgid "Places changed after <date time>"
@@ -4293,27 +4293,27 @@ msgstr "Filtros de posição"
 
 #: ../gramps/gen/filters/rules/place/_hasnote.py:45
 msgid "Places having <count> notes"
-msgstr "Locais que possuem <count> notas"
+msgstr "Locais que possuem <count> anotações"
 
 #: ../gramps/gen/filters/rules/place/_hasnote.py:46
 msgid "Matches places having a certain number of notes"
-msgstr "Localiza os locais que possuem um determinado número notas"
+msgstr "Localiza os locais que possuem um determinado número anotações"
 
 #: ../gramps/gen/filters/rules/place/_hasnotematchingsubstringof.py:42
 msgid "Places having notes containing <substring>"
-msgstr "Locais que possuem notas contendo <substring>"
+msgstr "Locais que possuem anotações contendo <substring>"
 
 #: ../gramps/gen/filters/rules/place/_hasnotematchingsubstringof.py:43
 msgid "Matches places whose notes contain text matching a substring"
-msgstr "Localiza locais cujas notas contenham texto que coincide com uma cadeia de caracteres"
+msgstr "Localiza locais cujas anotações contenham texto que coincide com uma cadeia de caracteres"
 
 #: ../gramps/gen/filters/rules/place/_hasnoteregexp.py:41
 msgid "Places having notes containing <text>"
-msgstr "Locais que possuem notas contendo <texto>"
+msgstr "Locais que possuem anotações contendo <texto>"
 
 #: ../gramps/gen/filters/rules/place/_hasnoteregexp.py:42
 msgid "Matches places whose notes contain text matching a regular expression"
-msgstr "Localiza os locais cujas notas contenham texto que coincide com uma expressão regular"
+msgstr "Localiza os locais cujas anotações contenham texto que coincide com uma expressão regular"
 
 #: ../gramps/gen/filters/rules/place/_hasplace.py:49
 msgid "Street:"
@@ -4465,7 +4465,7 @@ msgstr "Todos os repositórios"
 
 #: ../gramps/gen/filters/rules/repository/_allrepos.py:45
 msgid "Matches every repository in the database"
-msgstr "Localiza todos os repositórios no banco de dados"
+msgstr "Localiza todos os repositórios na base de dados"
 
 #: ../gramps/gen/filters/rules/repository/_changedsince.py:47
 msgid "Repositories changed after <date time>"
@@ -4485,19 +4485,19 @@ msgstr "Localiza um repositório com um ID Gramps especificado"
 
 #: ../gramps/gen/filters/rules/repository/_hasnotematchingsubstringof.py:42
 msgid "Repositories having notes containing <substring>"
-msgstr "Repositórios que possuem notas contendo <substring>"
+msgstr "Repositórios que possuem anotações contendo <substring>"
 
 #: ../gramps/gen/filters/rules/repository/_hasnotematchingsubstringof.py:43
 msgid "Matches repositories whose notes contain text matching a substring"
-msgstr "Localiza os repositórios cujas notas contenham texto que coincide com uma cadeia de caracteres"
+msgstr "Localiza os repositórios cujas anotações contenham texto que coincide com uma cadeia de caracteres"
 
 #: ../gramps/gen/filters/rules/repository/_hasnoteregexp.py:41
 msgid "Repositories having notes containing <text>"
-msgstr "Repositórios que possuem notas contendo <texto>"
+msgstr "Repositórios que possuem anotações contendo <texto>"
 
 #: ../gramps/gen/filters/rules/repository/_hasnoteregexp.py:42
 msgid "Matches repositories whose notes contain text matching a regular expression"
-msgstr "Localiza os repositórios cujas notas contenham texto que coincide com uma expressão regular"
+msgstr "Localiza os repositórios cujas anotações contenham texto que coincide com uma expressão regular"
 
 #: ../gramps/gen/filters/rules/repository/_hasreferencecountof.py:42
 msgid "Repositories with a reference count of <count>"
@@ -4573,7 +4573,7 @@ msgstr "Todas as fontes de referência"
 
 #: ../gramps/gen/filters/rules/source/_allsources.py:45
 msgid "Matches every source in the database"
-msgstr "Localiza todas as fontes de referência no banco de dados"
+msgstr "Localiza todas as fontes de referência na base de dados"
 
 #: ../gramps/gen/filters/rules/source/_changedsince.py:47
 msgid "Sources changed after <date time>"
@@ -4601,27 +4601,27 @@ msgstr "Localiza uma fonte de referência com um ID Gramps especificado"
 
 #: ../gramps/gen/filters/rules/source/_hasnote.py:45
 msgid "Sources having <count> notes"
-msgstr "Fontes de referência que possuem <count> notas"
+msgstr "Fontes de referência que possuem <count> anotações"
 
 #: ../gramps/gen/filters/rules/source/_hasnote.py:46
 msgid "Matches sources having a certain number of notes"
-msgstr "Localiza as fontes de referência que possuem um determinado número notas"
+msgstr "Localiza as fontes de referência que possuem um determinado número de anotações"
 
 #: ../gramps/gen/filters/rules/source/_hasnotematchingsubstringof.py:42
 msgid "Sources having notes containing <substring>"
-msgstr "Fontes de referência que possuem notas contendo <substring>"
+msgstr "Fontes de referência que possuem anotações contendo <substring>"
 
 #: ../gramps/gen/filters/rules/source/_hasnotematchingsubstringof.py:43
 msgid "Matches sources whose notes contain text matching a substring"
-msgstr "Localiza as fontes de referência cujas notas contenham texto que coincide com uma cadeia de caracteres"
+msgstr "Localiza as fontes de referência cujas anotações contenham texto que coincide com uma cadeia de caracteres"
 
 #: ../gramps/gen/filters/rules/source/_hasnoteregexp.py:41
 msgid "Sources having notes containing <text>"
-msgstr "Fontes que possuem notas contendo <texto>"
+msgstr "Fontes que possuem anotações contendo <texto>"
 
 #: ../gramps/gen/filters/rules/source/_hasnoteregexp.py:42
 msgid "Matches sources whose notes contain text matching a regular expression"
-msgstr "Localiza as fontes de referência cujas notas contenham texto que coincide com uma expressão regular"
+msgstr "Localiza as fontes de referência cujas anotações contenham texto que coincide com uma expressão regular"
 
 #: ../gramps/gen/filters/rules/source/_hasreferencecountof.py:42
 msgid "Sources with a reference count of <count>"
@@ -5466,7 +5466,7 @@ msgstr "Citações"
 #: ../gramps/gen/lib/media.py:201 ../gramps/gen/lib/name.py:202 ../gramps/gen/lib/person.py:261 ../gramps/plugins/gramplet/gramplet.gpr.py:647 ../gramps/plugins/gramplet/gramplet.gpr.py:661 ../gramps/plugins/gramplet/gramplet.gpr.py:675 ../gramps/plugins/gramplet/gramplet.gpr.py:689 ../gramps/plugins/gramplet/gramplet.gpr.py:703 ../gramps/plugins/gramplet/gramplet.gpr.py:717 ../gramps/plugins/gramplet/gramplet.gpr.py:731 ../gramps/plugins/gramplet/gramplet.gpr.py:745 ../gramps/plugins/quickview/filterbyname.py:112 ../gramps/plugins/quickview/filterbyname.py:137 ../gramps/plugins/textreport/indivcomplete.py:251 ../gramps/plugins/textreport/tagreport.py:484 ../gramps/plugins/view/noteview.py:110
 #: ../gramps/plugins/view/view.gpr.py:95 ../gramps/plugins/view/view.gpr.py:103 ../gramps/plugins/webreport/narrativeweb.py:338 ../gramps/plugins/webreport/narrativeweb.py:999 ../gramps/plugins/webreport/narrativeweb.py:1632
 msgid "Notes"
-msgstr "Notas"
+msgstr "Anotações"
 
 #: ../gramps/gen/lib/media.py:202 ../gramps/gen/lib/person.py:262
 msgid "Last changed"
@@ -5665,71 +5665,71 @@ msgstr "Tarefa"
 
 #: ../gramps/gen/lib/notetype.py:84
 msgid "Person Note"
-msgstr "Nota de pessoa"
+msgstr "Anotação de pessoa"
 
 #: ../gramps/gen/lib/notetype.py:85
 msgid "Name Note"
-msgstr "Nota de nome"
+msgstr "Anotação de nome"
 
 #: ../gramps/gen/lib/notetype.py:86
 msgid "Attribute Note"
-msgstr "Nota de atributo"
+msgstr "Anotação de atributo"
 
 #: ../gramps/gen/lib/notetype.py:87
 msgid "Address Note"
-msgstr "Nota de endereço"
+msgstr "Anotação de endereço"
 
 #: ../gramps/gen/lib/notetype.py:88
 msgid "Association Note"
-msgstr "Nota de associação"
+msgstr "Anotação de associação"
 
 #: ../gramps/gen/lib/notetype.py:89
 msgid "LDS Note"
-msgstr "Nota SUD"
+msgstr "Anotação de SUD"
 
 #: ../gramps/gen/lib/notetype.py:90 ../gramps/gui/filters/sidebar/_familysidebarfilter.py:117
 msgid "Family Note"
-msgstr "Nota de família"
+msgstr "Anotação de família"
 
 #: ../gramps/gen/lib/notetype.py:91
 msgid "Event Note"
-msgstr "Nota de evento"
+msgstr "Anotação de evento"
 
 #: ../gramps/gen/lib/notetype.py:92
 msgid "Event Reference Note"
-msgstr "Nota de referência de evento"
+msgstr "Anotação de referência de evento"
 
 #: ../gramps/gen/lib/notetype.py:93
 msgid "Source Note"
-msgstr "Nota de fonte de referência"
+msgstr "Anotação de fonte"
 
 #: ../gramps/gen/lib/notetype.py:94
 msgid "Source Reference Note"
-msgstr "Nota de referência a fonte"
+msgstr "Anotação de referência a fonte"
 
 #: ../gramps/gen/lib/notetype.py:95
 msgid "Place Note"
-msgstr "Nome do local"
+msgstr "Anotação de lugar"
 
 #: ../gramps/gen/lib/notetype.py:96
 msgid "Repository Note"
-msgstr "Nota de repositório"
+msgstr "Anotação de repositório"
 
 #: ../gramps/gen/lib/notetype.py:97
 msgid "Repository Reference Note"
-msgstr "Nota de referência de repositório"
+msgstr "Anotação de referência de repositório"
 
 #: ../gramps/gen/lib/notetype.py:98
 msgid "Media Note"
-msgstr "Nota de mídia"
+msgstr "Anotação de mídia"
 
 #: ../gramps/gen/lib/notetype.py:99
 msgid "Media Reference Note"
-msgstr "Nota de referência de mídia"
+msgstr "Anotação de referência de mídia"
 
 #: ../gramps/gen/lib/notetype.py:100
 msgid "Child Reference Note"
-msgstr "Nota de referência de filho"
+msgstr "Anotação de referência de filho"
 
 #: ../gramps/gen/lib/person.py:245
 msgid "Handle"
@@ -6047,11 +6047,11 @@ msgstr "Mesclar família"
 
 #: ../gramps/gen/merge/mergemediaquery.py:59 ../gramps/gui/merge/mergemedia.py:66
 msgid "Merge Media Objects"
-msgstr "Mesclar objetos multimídia"
+msgstr "Mesclar objetos de mídia"
 
 #: ../gramps/gen/merge/mergenotequery.py:58 ../gramps/gui/merge/mergenote.py:66
 msgid "Merge Notes"
-msgstr "Mesclar notas"
+msgstr "Mesclar anotações"
 
 #: ../gramps/gen/merge/mergepersonquery.py:51
 msgid "Spouses cannot be merged. To merge these people, you must first break the relationship between them."
@@ -6415,12 +6415,12 @@ msgstr "Subgrafos podem ajudar o Graphviz a posicionar os cônjuges mais próxim
 #: ../gramps/gen/plug/docgen/graphdoc.py:245 ../gramps/gui/clipboard.py:394 ../gramps/gui/configure.py:545 ../gramps/gui/editors/editlink.py:93 ../gramps/gui/editors/editmedia.py:98 ../gramps/gui/editors/editmedia.py:183 ../gramps/gui/editors/editmediaref.py:145 ../gramps/gui/editors/filtereditor.py:300 ../gramps/gui/filters/sidebar/_citationsidebarfilter.py:109 ../gramps/gui/filters/sidebar/_citationsidebarfilter.py:115 ../gramps/gui/filters/sidebar/_eventsidebarfilter.py:109 ../gramps/gui/filters/sidebar/_mediasidebarfilter.py:92 ../gramps/gui/filters/sidebar/_personsidebarfilter.py:134 ../gramps/gui/filters/sidebar/_placesidebarfilter.py:109 ../gramps/gui/filters/sidebar/_reposidebarfilter.py:108
 #: ../gramps/gui/filters/sidebar/_sourcesidebarfilter.py:91 ../gramps/gui/glade/editnote.glade:328 ../gramps/gui/views/treemodels/mediamodel.py:117 ../gramps/plugins/drawreport/ancestortree.py:984 ../gramps/plugins/drawreport/descendtree.py:1703 ../gramps/plugins/export/exportcsv.py:360 ../gramps/plugins/export/exportcsv.py:473 ../gramps/plugins/gramplet/quickviewgramplet.py:111 ../gramps/plugins/importer/importcsv.py:170 ../gramps/plugins/quickview/filterbyname.py:225 ../gramps/plugins/quickview/filterbyname.py:276 ../gramps/plugins/quickview/quickview.gpr.py:205 ../gramps/plugins/quickview/references.py:94 ../gramps/plugins/textreport/familygroup.py:365 ../gramps/plugins/textreport/familygroup.py:427
 msgid "Note"
-msgstr "Nota"
+msgstr "Anotação"
 
 #. ###############################
 #: ../gramps/gen/plug/docgen/graphdoc.py:248
 msgid "Note to add to the graph"
-msgstr "Nota a incluir no grafo"
+msgstr "Anotação para incluir no grafo"
 
 #: ../gramps/gen/plug/docgen/graphdoc.py:250
 msgid "This text will be added to the graph."
@@ -6428,19 +6428,19 @@ msgstr "Este texto será adicionado ao grafo."
 
 #: ../gramps/gen/plug/docgen/graphdoc.py:253
 msgid "Note location"
-msgstr "Localização da nota"
+msgstr "Localização da anotação"
 
 #: ../gramps/gen/plug/docgen/graphdoc.py:256
 msgid "Whether note will appear on top or bottom of the page."
-msgstr "Se a nota aparecerá na parte superior ou inferior da página."
+msgstr "Se a anotação aparecerá na parte superior ou inferior da página."
 
 #: ../gramps/gen/plug/docgen/graphdoc.py:260
 msgid "Note size"
-msgstr "Tamanho da nota"
+msgstr "Tamanho da anotação"
 
 #: ../gramps/gen/plug/docgen/graphdoc.py:261
 msgid "The size of note text, in points."
-msgstr "O tamanho do texto da nota, em pontos."
+msgstr "O tamanho do texto da anotação, em pontos."
 
 #: ../gramps/gen/plug/docgen/graphdoc.py:950
 msgid "PDF (Ghostscript)"
@@ -6546,19 +6546,19 @@ msgstr "O estilo usado para o cabeçalho de geração."
 
 #: ../gramps/gen/plug/report/endnotes.py:68
 msgid "The basic style used for the endnotes source display."
-msgstr "O estilo básico usado para a exibição de notas finais de texto."
+msgstr "O estilo básico usado para a exibição das fontes de anotações de final de texto."
 
 #: ../gramps/gen/plug/report/endnotes.py:76
 msgid "The basic style used for the endnotes notes display."
-msgstr "O estilo básico usado para exibição das notas finais."
+msgstr "O estilo básico usado para exibição das anotações de final de texto."
 
 #: ../gramps/gen/plug/report/endnotes.py:84
 msgid "The basic style used for the endnotes reference display."
-msgstr "O estilo básico usado para a exibição de referências nas notas finais."
+msgstr "O estilo básico usado para a exibição de referências nas anotações de referência de final de texto."
 
 #: ../gramps/gen/plug/report/endnotes.py:92
 msgid "The basic style used for the endnotes reference notes display."
-msgstr "O estilo básico usado para a exibição da fonte de referência nas notas finais."
+msgstr "O estilo básico usado para a exibição das referências de anotações de final de texto."
 
 #: ../gramps/gen/plug/report/endnotes.py:156
 msgid "Endnotes"
@@ -6641,7 +6641,7 @@ msgstr "PESSOA"
 
 #: ../gramps/gen/plug/report/utils.py:288 ../gramps/plugins/textreport/notelinkreport.py:156 ../gramps/plugins/textreport/summary.py:281 ../gramps/plugins/tool/eventcmp.py:156
 msgid "Entire Database"
-msgstr "Todo o banco de dados"
+msgstr "Todo a base de dados"
 
 #. feature request 2356: avoid genitive form
 #: ../gramps/gen/plug/report/utils.py:292 ../gramps/gui/plug/export/_exportoptions.py:442 ../gramps/plugins/textreport/descendreport.py:472
@@ -6961,7 +6961,7 @@ msgstr "data relacionada com morte de descendente"
 #: ../gramps/gen/utils/alive.py:344
 #, python-format
 msgid "Database error: loop in %s's descendants"
-msgstr "Erro no banco de dados: laço nos descendentes de %s"
+msgstr "Erro na base de dados: laço nos descendentes de %s"
 
 #: ../gramps/gen/utils/alive.py:373 ../gramps/gen/utils/alive.py:419
 msgid "ancestor birth date"
@@ -6982,7 +6982,7 @@ msgstr "data relacionada com falecimento de ascendente"
 #: ../gramps/gen/utils/alive.py:463
 #, python-format
 msgid "Database error: loop in %s's ancestors"
-msgstr "Erro do banco de dados: houve um laço nos ancestrais de %s"
+msgstr "Erro da base de dados: houve uma referência circular nos ancestrais de %s"
 
 #. no evidence, must consider alive
 #: ../gramps/gen/utils/alive.py:510
@@ -7201,7 +7201,7 @@ msgstr "o repositório"
 
 #: ../gramps/gen/utils/grampslocale.py:841
 msgid "the note"
-msgstr "a nota"
+msgstr "a anotação"
 
 #: ../gramps/gen/utils/grampslocale.py:843
 msgid "the media"
@@ -7456,7 +7456,7 @@ msgstr "Os dados somente podem ser recuperados através da operação 'Desfazer'
 
 #: ../gramps/gen/utils/unknown.py:139
 msgid "Unknown, created to replace a missing note object."
-msgstr "Desconhecido, criado para substituir um objeto de nota em falta."
+msgstr "Desconhecido, criado para substituir um objeto anotação em falta."
 
 #. primitive static variable
 #: ../gramps/gen/utils/unknown.py:149
@@ -7467,7 +7467,7 @@ msgstr "Desconhecido, faltava %(time)s (%(count)d)"
 #: ../gramps/gen/utils/unknown.py:168
 #, python-format
 msgid "Objects referenced by this note were missing in a file imported on %s."
-msgstr "Estavam faltando os objetos referenciados por esta nota em um arquivo importado em %s."
+msgstr "Estavam faltando os objetos referenciados por esta anotação em um arquivo importado em %s."
 
 #: ../gramps/grampsapp.py:154
 #, python-format
@@ -7772,7 +7772,7 @@ msgstr "Pesquisador"
 
 #: ../gramps/gui/configure.py:539 ../gramps/gui/editors/editperson.py:647 ../gramps/gui/widgets/photo.py:86
 msgid "Media Object"
-msgstr "Objeto multimídia"
+msgstr "Objeto de mídia"
 
 #: ../gramps/gui/configure.py:547
 msgid "ID Formats"
@@ -8220,11 +8220,11 @@ msgstr "atualizar"
 
 #: ../gramps/gui/configure.py:1434
 msgid "Database backend"
-msgstr "Backend do banco de dados"
+msgstr "Infraestrutura da base de dados"
 
 #: ../gramps/gui/configure.py:1442
 msgid "Family Tree Database path"
-msgstr "Localização do banco de dados da árvore genealógica"
+msgstr "Localização da base de dados da árvore genealógica"
 
 #: ../gramps/gui/configure.py:1451
 msgid "Automatically load last Family Tree"
@@ -8243,7 +8243,7 @@ msgstr "_Cancelar"
 
 #: ../gramps/gui/configure.py:1514
 msgid "Select database directory"
-msgstr "Selecione a pasta do banco de dados"
+msgstr "Selecione a pasta da base de dados"
 
 #: ../gramps/gui/dbloader.py:125 ../gramps/gui/plug/tool.py:108
 msgid "Undo history warning"
@@ -8257,7 +8257,7 @@ msgid ""
 msgstr ""
 "Prosseguir com a importação apagará o histórico de desfazimentos desta sessão. Particularmente, você não será capaz de reverter a importação ou quaisquer mudanças feitas antes disso.\n"
 "\n"
-"Se você acha que pode ser necessário reverter a importação, por favor, pare agora e faça uma cópia de segurança do seu banco de dados."
+"Se você acha que pode ser necessário reverter a importação, por favor, pare agora e faça uma cópia de segurança da sua base de dados."
 
 #: ../gramps/gui/dbloader.py:131
 msgid "_Proceed with import"
@@ -8284,7 +8284,7 @@ msgid ""
 msgstr ""
 "O tipo de arquivo \"%s\" é desconhecido do Gramps.\n"
 "\n"
-"Tipos válidos são: Banco de dados GRAMPS, GRAMPS XML, pacote GRAMPS, GEDCOM e outros."
+"Tipos válidos são: Base de dados GRAMPS, GRAMPS XML, pacote GRAMPS, GEDCOM e outros."
 
 #: ../gramps/gui/dbloader.py:223 ../gramps/gui/dbloader.py:230
 msgid "Cannot open file"
@@ -8396,11 +8396,11 @@ msgstr "Tipo de Base de Dados"
 #: ../gramps/gui/dbman.py:494
 #, python-format
 msgid "Break the lock on the '%s' database?"
-msgstr "Quebrar o bloqueio do banco de dados '%s'?"
+msgstr "Quebrar o bloqueio da base de dados '%s'?"
 
 #: ../gramps/gui/dbman.py:495
 msgid "Gramps believes that someone else is actively editing this database. You cannot edit this database while it is locked. If no one is editing the database you may safely break the lock. However, if someone else is editing the database and you break the lock, you may corrupt the database."
-msgstr "O Gramps acredita que alguém está ativamente editando este banco de dados. Você não pode editar esse banco de dados enquanto estiver bloqueado. Caso ninguém esteja editando o banco de dados, você pode quebrar o bloqueio com segurança. Entretanto, caso outra pessoa esteja editando o banco de dados e você quebre o bloqueio, o banco de dados pode ficar corrompido."
+msgstr "O Gramps acredita que alguém está ativamente editando esta base de dados. Você não pode editar essa base de dados enquanto estiver bloqueado. Caso ninguém esteja editando a base de dados, você pode quebrar o bloqueio com segurança. Entretanto, caso outra pessoa esteja editando a base de dados e você quebre o bloqueio, a base de dados pode ficar corrompida."
 
 #: ../gramps/gui/dbman.py:501
 msgid "Break lock"
@@ -8541,7 +8541,7 @@ msgstr ""
 "Se você clicar em %(bold_start)sProsseguir%(bold_end)s, o Gramps tentará recuperar a sua árvore genealógica a partir da última cópia de segurança bem sucedida. Esta operação pode gerar efeitos indesejados de várias formas e, por isto, você deve fazer primeiro uma %(bold_start)scópia de segurança%(bold_end)s da sua árvore genealógica.\n"
 "A árvore genealógica selecionada está armazenada em %(dirname)s.\n"
 "\n"
-"Antes de iniciar a reparação, verifique se a árvore genealógica não pode mais ser aberta, pois o sitema de banco de dados pode se recuperar de alguns erros automaticamente.\n"
+"Antes de iniciar a reparação, verifique se a árvore genealógica não pode mais ser aberta, pois o sistema de banco de dados pode se recuperar de alguns erros automaticamente.\n"
 "\n"
 "%(bold_start)sDetalhes:%(bold_end)s A reparação de uma árvore genealógica utiliza a sua última cópia de segurança, que foi armazenada pelo Gramps na última vez em que foi usado. Se você trabalhou por diversas horas/dias sem fechar o Gramps, todas as alterações efetuadas neste período serão perdidas! Se a reparação falhar, o arquivo original da árvore genealógica será perdido permanentemente, por isso um backup é necessário. Se isto ocorrer ou se muita informação for perdida, você pode corrigir a árvore genealógica manualmente. Para mais detalhes, verifique em:\n"
 "%(gramps_wiki_recover_url)s\n"
@@ -8557,7 +8557,7 @@ msgstr "Parar"
 
 #: ../gramps/gui/dbman.py:928
 msgid "Rebuilding database from backup files"
-msgstr "Reconstruindo o banco de dados a partir dos arquivos da cópia de segurança"
+msgstr "Reconstruindo a base de dados a partir dos arquivos da cópia de segurança"
 
 #: ../gramps/gui/dbman.py:933
 msgid "Error restoring backup data"
@@ -8618,7 +8618,7 @@ msgstr ""
 
 #: ../gramps/gui/dialog.py:202
 msgid "Error detected in database"
-msgstr "Erro detectado no banco de dados"
+msgstr "Erro detectado na base de dados"
 
 #: ../gramps/gui/dialog.py:203
 #, python-format
@@ -8628,7 +8628,7 @@ msgid ""
 "If this problem continues to exist after running this tool, please file a bug report at %(gramps_bugtracker_url)s\n"
 "\n"
 msgstr ""
-"O Gramps detectou um erro na base de dados. Isto normalmente pode ser resolvido com a execução da ferramenta \"Verificar e reparar o banco de dados\".\n"
+"O Gramps detectou um erro na base de dados. Isto normalmente pode ser resolvido com a execução da ferramenta \"Verificar e reparar a base de dados\".\n"
 "\n"
 "Se o problema persistir após a execução desta ferramenta, por favor, preencha um relatório de erro em %(gramps_bugtracker_url)s\n"
 "\n"
@@ -8679,7 +8679,7 @@ msgstr "Não há mídia ativa"
 
 #: ../gramps/gui/displaystate.py:386
 msgid "No active note"
-msgstr "Não há nota ativa"
+msgstr "Nenhuma anotação ativa"
 
 #: ../gramps/gui/displaystate.py:580
 msgid "No active object"
@@ -8964,7 +8964,7 @@ msgstr "Tornar esta mídia ativa"
 
 #: ../gramps/gui/editors/displaytabs/gallerytab.py:263 ../gramps/gui/editors/editperson.py:960 ../gramps/plugins/textreport/indivcomplete.py:552
 msgid "Non existing media found in the Gallery"
-msgstr "Objeto multimídia inexistente encontrado na Galeria"
+msgstr "Objeto de mídia inexistente encontrado na Galeria"
 
 #: ../gramps/gui/editors/displaytabs/gallerytab.py:312
 msgid ""
@@ -8972,13 +8972,13 @@ msgid ""
 "\n"
 "To edit this media reference, you need to close the media object."
 msgstr ""
-"Essa referência de mídia não pode ser editada no momento. O objeto multimídia associado já está sendo editado ou outra referência de mídia que está associada com o mesmo objeto multimídia que está sendo editado.\n"
+"Essa referência de mídia não pode ser editada no momento. O objeto de mídia associado já está sendo editado ou outra referência de mídia que está associada com o mesmo objeto de mídia que está sendo editado.\n"
 "\n"
-"Para editar essa referência de mídia, você precisa fechar o objeto multimídia."
+"Para editar essa referência de mídia, você precisa fechar o objeto de mídia."
 
 #: ../gramps/gui/editors/displaytabs/gallerytab.py:530 ../gramps/plugins/view/mediaview.py:196
 msgid "Drag Media Object"
-msgstr "Arrastar objeto multimídia"
+msgstr "Arrastar objeto de mídia"
 
 #: ../gramps/gui/editors/displaytabs/ldsembedlist.py:51
 msgid "Create and add a new LDS ordinance"
@@ -9034,7 +9034,7 @@ msgstr "Agrupar como"
 
 #: ../gramps/gui/editors/displaytabs/nameembedlist.py:79
 msgid "Notes Preview"
-msgstr "Visualização das notas"
+msgstr "Visualização das anotações"
 
 #: ../gramps/gui/editors/displaytabs/nameembedlist.py:90
 msgid "_Names"
@@ -9067,27 +9067,27 @@ msgstr "Nomes alternativos"
 
 #: ../gramps/gui/editors/displaytabs/notetab.py:66
 msgid "Create and add a new note"
-msgstr "Criar e adicionar uma nova nota"
+msgstr "Criar e adicionar uma nova anotação"
 
 #: ../gramps/gui/editors/displaytabs/notetab.py:67
 msgid "Remove the existing note"
-msgstr "Remover a nota existente"
+msgstr "Remover a anotação existente"
 
 #: ../gramps/gui/editors/displaytabs/notetab.py:68 ../gramps/plugins/view/noteview.py:94
 msgid "Edit the selected note"
-msgstr "Editar a nota selecionada"
+msgstr "Editar a anotação selecionada"
 
 #: ../gramps/gui/editors/displaytabs/notetab.py:69
 msgid "Add an existing note"
-msgstr "Adicionar uma nota existente"
+msgstr "Adicionar uma anotação existente"
 
 #: ../gramps/gui/editors/displaytabs/notetab.py:70
 msgid "Move the selected note upwards"
-msgstr "Mover a nota selecionada para cima"
+msgstr "Mover a anotação selecionada para cima"
 
 #: ../gramps/gui/editors/displaytabs/notetab.py:71
 msgid "Move the selected note downwards"
-msgstr "Mover a nota selecionada para baixo"
+msgstr "Mover a anotação selecionada para baixo"
 
 #: ../gramps/gui/editors/displaytabs/notetab.py:78 ../gramps/gui/glade/addmedia.glade:138 ../gramps/gui/glade/editmedia.glade:188 ../gramps/gui/glade/editmediaref.glade:190 ../gramps/gui/glade/editmediaref.glade:503 ../gramps/gui/selectors/selectnote.py:75 ../gramps/plugins/view/noteview.py:79
 msgid "Preview"
@@ -9095,7 +9095,7 @@ msgstr "Visualização"
 
 #: ../gramps/gui/editors/displaytabs/notetab.py:88
 msgid "_Notes"
-msgstr "_Notas"
+msgstr "A_notações"
 
 #. add personal column
 #: ../gramps/gui/editors/displaytabs/personeventembedlist.py:50 ../gramps/plugins/webreport/narrativeweb.py:2025
@@ -9657,7 +9657,7 @@ msgstr "Família duplicada"
 
 #: ../gramps/gui/editors/editfamily.py:906
 msgid "A family with these parents already exists in the database. If you save, you will create a duplicate family. It is recommended that you cancel the editing of this window, and select the existing family"
-msgstr "Já existe uma família com esses pais no banco de dados. Se você salvar, você criará uma família duplicada. É recomendado que você cancele a edição nesta janela, e selecione a família existente"
+msgstr "Já existe uma família com esses pais na base de dados. Se você salvar, você criará uma família duplicada. É recomendado que você cancele a edição nesta janela, e selecione a família existente"
 
 #: ../gramps/gui/editors/editfamily.py:954 ../gramps/plugins/view/relview.py:569 ../gramps/plugins/view/relview.py:991 ../gramps/plugins/view/relview.py:1048 ../gramps/plugins/view/relview.py:1172 ../gramps/plugins/view/relview.py:1278
 #, python-format
@@ -9761,19 +9761,19 @@ msgstr "Nova mídia"
 
 #: ../gramps/gui/editors/editmedia.py:243
 msgid "Edit Media Object"
-msgstr "Editar objeto multimídia"
+msgstr "Editar objeto de mídia"
 
 #: ../gramps/gui/editors/editmedia.py:288
 msgid "Cannot save media object"
-msgstr "Não foi possível salvar o objeto multimídia"
+msgstr "Não foi possível salvar o objeto de mídia"
 
 #: ../gramps/gui/editors/editmedia.py:289
 msgid "No data exists for this media object. Please enter data or cancel the edit."
-msgstr "Não há dados para esse objeto multimídia. Por favor, insira dados ou cancele a edição."
+msgstr "Não há dados para esse objeto de mídia. Por favor, insira dados ou cancele a edição."
 
 #: ../gramps/gui/editors/editmedia.py:298 ../gramps/gui/editors/editreference.py:279
 msgid "Cannot save media object. ID already exists."
-msgstr "Não foi possível gravar o objeto multimídia. O ID já existe."
+msgstr "Não foi possível gravar o objeto de mídia. O ID já existe."
 
 #: ../gramps/gui/editors/editmedia.py:313
 msgid "There is no media matching the current path value!"
@@ -9787,16 +9787,16 @@ msgstr "Você tentou utilizar o local com valor '%(path)s'. Este local não exis
 #: ../gramps/gui/editors/editmedia.py:327 ../gramps/gui/editors/editmediaref.py:523
 #, python-format
 msgid "Add Media Object (%s)"
-msgstr "Adiciona objeto multimídia (%s)"
+msgstr "Adiciona objeto de mídia (%s)"
 
 #: ../gramps/gui/editors/editmedia.py:332 ../gramps/gui/editors/editmediaref.py:517
 #, python-format
 msgid "Edit Media Object (%s)"
-msgstr "Editar objeto multimídia (%s)"
+msgstr "Editar objeto de mídia (%s)"
 
 #: ../gramps/gui/editors/editmedia.py:369
 msgid "Remove Media Object"
-msgstr "Remover objeto multimídia"
+msgstr "Remover objeto de mídia"
 
 #: ../gramps/gui/editors/editmediaref.py:71
 msgid "manual|Media_Reference_Editor_dialog"
@@ -9867,50 +9867,50 @@ msgstr ""
 #: ../gramps/gui/editors/editnote.py:150
 #, python-format
 msgid "Note: %(id)s - %(context)s"
-msgstr "Nota: %(id)s - %(context)s"
+msgstr "Anotação: %(id)s - %(context)s"
 
 #: ../gramps/gui/editors/editnote.py:155
 #, python-format
 msgid "Note: %s"
-msgstr "Nota: %s"
+msgstr "Anotação: %s"
 
 #: ../gramps/gui/editors/editnote.py:158
 #, python-format
 msgid "New Note - %(context)s"
-msgstr "Nova nota - %(context)s"
+msgstr "Nova anotação - %(context)s"
 
 #: ../gramps/gui/editors/editnote.py:162
 msgid "New Note"
-msgstr "Nova nota"
+msgstr "Nova anotação"
 
 #: ../gramps/gui/editors/editnote.py:191
 msgid "_Note"
-msgstr "_Nota"
+msgstr "A_notação"
 
 #: ../gramps/gui/editors/editnote.py:294 ../gramps/gui/editors/editnote.py:339 ../gramps/gui/editors/objectentries.py:436
 msgid "Edit Note"
-msgstr "Editar nota"
+msgstr "Editar anotação"
 
 #: ../gramps/gui/editors/editnote.py:313
 msgid "Cannot save note"
-msgstr "Não foi possível salvar a nota"
+msgstr "Não foi possível salvar a anotação"
 
 #: ../gramps/gui/editors/editnote.py:314
 msgid "No data exists for this note. Please enter data or cancel the edit."
-msgstr "Não há dados para essa nota. Por favor, insira dados ou cancele a edição."
+msgstr "Não há dados para essa anotação. Por favor, insira dados ou cancele a edição."
 
 #: ../gramps/gui/editors/editnote.py:321
 msgid "Cannot save note. ID already exists."
-msgstr "Não foi possível salvar a nota. O ID já existe."
+msgstr "Não foi possível salvar a anotação. O ID já existe."
 
 #: ../gramps/gui/editors/editnote.py:334
 msgid "Add Note"
-msgstr "Adicionar nota"
+msgstr "Adicionar anotação"
 
 #: ../gramps/gui/editors/editnote.py:354
 #, python-format
 msgid "Delete Note (%s)"
-msgstr "Excluir nota (%s)"
+msgstr "Excluir Anotação (%s)"
 
 #: ../gramps/gui/editors/editperson.py:157
 #, python-format
@@ -10298,7 +10298,7 @@ msgstr "Filtros de Fontes"
 
 #: ../gramps/gui/editors/filtereditor.py:94
 msgid "Media Filters"
-msgstr "Filtros de Objetos Multimídia"
+msgstr "Filtros de Objetos de Mídia"
 
 #: ../gramps/gui/editors/filtereditor.py:95
 msgid "Repository Filters"
@@ -10306,7 +10306,7 @@ msgstr "Filtros de Repositórios"
 
 #: ../gramps/gui/editors/filtereditor.py:96
 msgid "Note Filters"
-msgstr "Filtros de Notas"
+msgstr "Filtros de Anotações"
 
 #: ../gramps/gui/editors/filtereditor.py:97
 msgid "Citation Filters"
@@ -10480,7 +10480,7 @@ msgstr "Remover fonte"
 
 #: ../gramps/gui/editors/objectentries.py:387
 msgid "To select a media object, use drag-and-drop or use the buttons"
-msgstr "Para selecionar um objeto multimídia, arraste e solte ou use os botões"
+msgstr "Para selecionar um objeto de mídia, arraste e solte ou use os botões"
 
 #: ../gramps/gui/editors/objectentries.py:389 ../gramps/gui/plug/_guioptions.py:1104
 msgid "No image given, click button to select one"
@@ -10488,39 +10488,39 @@ msgstr "Não foi indicada uma imagem, selecione uma utilizando o botão"
 
 #: ../gramps/gui/editors/objectentries.py:390
 msgid "Edit media object"
-msgstr "Editar objeto multimídia"
+msgstr "Editar objeto de mídia"
 
 #: ../gramps/gui/editors/objectentries.py:391 ../gramps/gui/plug/_guioptions.py:1082
 msgid "Select an existing media object"
-msgstr "Selecionar um objeto multimídia existente"
+msgstr "Selecionar um objeto de mídia existente"
 
 #: ../gramps/gui/editors/objectentries.py:392 ../gramps/plugins/view/mediaview.py:112
 msgid "Add a new media object"
-msgstr "Adicionar um novo objeto multimídia"
+msgstr "Adicionar um novo objeto de mídia"
 
 #: ../gramps/gui/editors/objectentries.py:393
 msgid "Remove media object"
-msgstr "Remover objeto multimídia"
+msgstr "Remover objeto de mídia"
 
 #: ../gramps/gui/editors/objectentries.py:433
 msgid "To select a note, use drag-and-drop or use the buttons"
-msgstr "Para selecionar uma nota, arraste e solte ou use os botões"
+msgstr "Para selecionar uma anotação, arraste e solte ou use os botões"
 
 #: ../gramps/gui/editors/objectentries.py:435 ../gramps/gui/plug/_guioptions.py:1002
 msgid "No note given, click button to select one"
-msgstr "Não foi indicada uma nota, selecione uma utilizando o botão"
+msgstr "Não foi indicada uma anotação, selecione uma utilizando o botão"
 
 #: ../gramps/gui/editors/objectentries.py:437 ../gramps/gui/plug/_guioptions.py:977
 msgid "Select an existing note"
-msgstr "Selecionar uma nota existente"
+msgstr "Selecionar uma anotação existente"
 
 #: ../gramps/gui/editors/objectentries.py:438 ../gramps/plugins/view/noteview.py:93
 msgid "Add a new note"
-msgstr "Adicionar uma nova nota"
+msgstr "Adicionar uma nova anotação"
 
 #: ../gramps/gui/editors/objectentries.py:439
 msgid "Remove note"
-msgstr "Remover nota"
+msgstr "Remover anotação"
 
 #: ../gramps/gui/filters/_searchbar.py:56 ../gramps/gui/filters/sidebar/_sidebarfilter.py:59
 msgid "_Find"
@@ -10773,7 +10773,7 @@ msgstr "_Remover objeto"
 
 #: ../gramps/gui/glade/dialog.glade:258
 msgid "Remove object and all references to it from the database"
-msgstr "Remove o objeto e todas as referências a ele do banco de dados"
+msgstr "Remove o objeto e todas as referências a ele da base de dados"
 
 #: ../gramps/gui/glade/dialog.glade:269
 msgid "_Keep Reference"
@@ -10793,11 +10793,11 @@ msgstr "Seleciona o substituto para o arquivo que está faltando"
 
 #: ../gramps/gui/glade/dialog.glade:365
 msgid "_Use this selection for all missing media files"
-msgstr "_Usar esta seleção para todos os arquivos multimídia que estão faltando"
+msgstr "_Usar esta seleção para todos os arquivos de mídia que estão faltando"
 
 #: ../gramps/gui/glade/dialog.glade:369
 msgid "If you check this button, all the missing media files will be automatically treated according to the currently selected option. No further dialogs will be presented for any missing media files."
-msgstr "Se você clicar neste botão, todos os arquivos multimídia que estão faltando serão automaticamente tratados de acordo com a opção já selecionada. Nenhum outro diálogo será apresentado para arquivos multimídia que não estão presentes."
+msgstr "Se você clicar neste botão, todos os arquivos de mídia que estão faltando serão automaticamente tratados de acordo com a opção já selecionada. Nenhum outro diálogo será apresentado para arquivos de mídia que não estão presentes."
 
 #: ../gramps/gui/glade/dialog.glade:421
 msgid "Cancel the rest of the operations"
@@ -10947,7 +10947,7 @@ msgid ""
 "Note: several predefined attributes refer to values present in the GEDCOM standard."
 msgstr ""
 "O nome de um atributo que você deseja usar. Por exemplo: Altura (para uma pessoa), Clima do dia (para um evento), ... \n"
-"Use isto para armazenar trechos de informações que você conseguiu e quer ligar corretamente às fontes de referência. Os atributos podem ser usados para pessoas, famílias, eventos e objetos multimídia.\n"
+"Use isto para armazenar trechos de informações que você conseguiu e quer ligar corretamente às fontes de referência. Os atributos podem ser usados para pessoas, famílias, eventos e objetos de mídia.\n"
 " \n"
 "Observação: Diversos atributos predefinidos se referem aos atuais valores padrão do GEDCOM."
 
@@ -11262,16 +11262,16 @@ msgid ""
 "Path of the media object on your computer.\n"
 "Gramps does not store the media internally, it only stores the path! Set the 'Relative Path' in the Preferences to avoid retyping the common base directory where all your media is stored. The 'Media Manager' tool can help managing paths of a collection of media objects. "
 msgstr ""
-"Localização do objeto multimídia em seu computador.\n"
-"O Grampos não armazena os objetos multimídia internamente, mas apenas a localização. Defina a 'Localização relativa' nas Preferências para evitar a digitação repetida de uma pasta base, onde todos os seus objetos multimídia são armazenados. A ferramenta \"Gerenciador multimídia\" pode ajudar no gerenciamento de localizações de uma coleção de objetos multimídia. "
+"Localização do objeto de mídia em seu computador.\n"
+"O Grampos não armazena os objetos de mídia internamente, mas apenas a localização. Defina a 'Localização relativa' nas Preferências para evitar a digitação repetida de uma pasta base, onde todos os seus objetos de mídia são armazenados. A ferramenta \"Gerenciador de mídia\" pode ajudar no gerenciamento de localizações de uma coleção de objetos de mídia. "
 
 #: ../gramps/gui/glade/editmedia.glade:219 ../gramps/gui/glade/editmediaref.glade:423
 msgid "Descriptive title for this media object."
-msgstr "Um título para descrever o objeto multimídia."
+msgstr "Um título para descrever o objeto de mídia."
 
 #: ../gramps/gui/glade/editmedia.glade:270
 msgid "Open File Browser to select a media file on your computer."
-msgstr "Abrir o gerenciador de arquivos para selecionar um objeto multimídia no seu computador."
+msgstr "Abrir o gerenciador de arquivos para selecionar um objeto de mídia no seu computador."
 
 #: ../gramps/gui/glade/editmedia.glade:279 ../gramps/gui/glade/editmediaref.glade:660
 msgid "Folder"
@@ -11279,11 +11279,11 @@ msgstr "Pasta"
 
 #: ../gramps/gui/glade/editmedia.glade:302
 msgid "A unique ID to identify the Media object."
-msgstr "Um ID único para identificar o objeto multimídia."
+msgstr "Um ID único para identificar o objeto de mídia."
 
 #: ../gramps/gui/glade/editmedia.glade:346
 msgid "A date associated with the media, eg., for a picture the date it is taken."
-msgstr "Uma data associada com o objeto multimídia. Por exemplo: A data em que a foto foi tirada."
+msgstr "Uma data associada com o objeto de mídia. Por exemplo: A data em que a foto foi tirada."
 
 #: ../gramps/gui/glade/editmediaref.glade:119
 msgid "_Corner 2:  X"
@@ -11294,7 +11294,7 @@ msgid ""
 "If media is an image, select the specific part of the image you want to reference.\n"
 "You can use the mouse on the picture to select a region, or use these spinbuttons to set the top left, and bottom right corner of the referenced region. Point (0,0) is the top left corner of the picture, and (100,100) the bottom right corner."
 msgstr ""
-"Se o objeto multimídia for uma imagem, selecione a parte específica que você deseja utilizar.\n"
+"Se o objeto de mídia for uma imagem, selecione a parte específica que você deseja utilizar.\n"
 "Você pode usar o mouse na imagem para selecionar a região ou usar os campos para definir a região da imagem a ser utilizada. O ponto (0,0) é o canto superior esquerdo e (100,100) o canto inferior direito da imagem."
 
 #: ../gramps/gui/glade/editmediaref.glade:178
@@ -11302,7 +11302,7 @@ msgid ""
 "Referenced region of the image media object.\n"
 "Select a region with clicking and holding the mouse button on the top left corner of the region you want, dragging the mouse to the bottom right corner of the region, and then releasing the mouse button."
 msgstr ""
-"Região de referência do objeto multimídia.\n"
+"Região de referência do objeto de mídia.\n"
 "Selecione a região clicando e arrastando o botão do mouse no canto superior esquerdo da região da imagem que você deseja selecionar e arraste o mouse para o canto inferior esquerdo, soltando o botão do mouse em seguida."
 
 #: ../gramps/gui/glade/editmediaref.glade:208
@@ -11314,12 +11314,12 @@ msgid ""
 "If media is an image, select the specific part of the image you want to reference.\n"
 "You can use the mouse on the picture to select a region, or use these spinbuttons to set the top left, and bottom right corner of the referenced region. Point (0,0) is the top left corner of the picture, and (100,100) the bottom right corner.\n"
 msgstr ""
-"Se o objeto multimídia for uma imagem, selecione a parte específica que você deseja utilizar.\n"
+"Se o objeto de mídia for uma imagem, selecione a parte específica que você deseja utilizar.\n"
 "Você pode usar o mouse na imagem para selecionar a região ou usar os campos para definir a região da imagem a ser utilizada. O ponto (0,0) é o canto superior esquerdo e (100,100) o canto inferior direito da imagem.\n"
 
 #: ../gramps/gui/glade/editmediaref.glade:459
 msgid "<b>Note:</b> Any changes in the shared media object information will be reflected in the media object itself."
-msgstr "<b>Observação:</b> Quaisquer alterações nas informações de um objeto multimídia compartilhado serão refletidas no próprio objeto multimídia."
+msgstr "<b>Observação:</b> Quaisquer alterações nas informações de um objeto de mídia compartilhado serão refletidas no próprio objeto de mídia."
 
 #: ../gramps/gui/glade/editmediaref.glade:488
 msgid "Double click image to view in an external viewer"
@@ -11327,7 +11327,7 @@ msgstr "Clique duplo na imagem para vê-la em um visualizador externo"
 
 #: ../gramps/gui/glade/editmediaref.glade:533
 msgid "Type of media object as indicated by the computer, eg Image, Video, ..."
-msgstr "Tipo de objeto multimídia como indicado pelo computador. Por exemplo: imagem, vídeo, ..."
+msgstr "Tipo de objeto de mídia como indicado pelo computador. Por exemplo: imagem, vídeo, ..."
 
 #: ../gramps/gui/glade/editmediaref.glade:650
 msgid "Select a file"
@@ -11451,11 +11451,11 @@ msgstr "Editor de texto com estilo"
 
 #: ../gramps/gui/glade/editnote.glade:148
 msgid "A type to classify the note."
-msgstr "Um tipo para classificação da nota."
+msgstr "Um tipo para classificação da anotação."
 
 #: ../gramps/gui/glade/editnote.glade:181
 msgid "A unique ID to identify the note."
-msgstr "Um ID único para identificar a nota."
+msgstr "Um ID único para identificar a anotação."
 
 #: ../gramps/gui/glade/editnote.glade:192
 msgid "_Preformatted"
@@ -11467,8 +11467,8 @@ msgid ""
 "When not checked, notes are automatically cleaned in the reports, which will improve the report layout.\n"
 "Use monospace font to keep preformatting."
 msgstr ""
-"Quando estiver ativado, o espaço em branco na sua nota será respeitado nos relatórios. Use isto para adicionar formatação de leiaute com espaços, p. ex. uma tabela. \n"
-"Quanto não estiver marcado, as notas são automaticamente limpas nos relatórios, o que irá melhorar o leiaute do relatório. \n"
+"Quando estiver ativado, o espaço em branco na sua anotação será respeitado nos relatórios. Use isto para adicionar formatação de leiaute com espaços, p. ex. uma tabela. \n"
+"Quanto não estiver marcado, as anotações são automaticamente limpas nos relatórios, o que irá melhorar o leiaute do relatório. \n"
 "Use fonte monoespaçada para manter formatação predefinida."
 
 #: ../gramps/gui/glade/editperson.glade:166
@@ -11768,7 +11768,7 @@ msgstr "ID Gramps:"
 
 #: ../gramps/gui/glade/mergecitation.glade:456
 msgid "Notes, media objects and data-items of both citations will be combined."
-msgstr "Notas, objetos multimídia e itens de dados de ambas as citações serão combinados."
+msgstr "Anotações, objetos de mídia e itens de dados de ambas as citações serão combinados."
 
 #: ../gramps/gui/glade/mergecitation.glade:472 ../gramps/gui/glade/mergeevent.glade:529 ../gramps/gui/glade/mergefamily.glade:475 ../gramps/gui/glade/mergemedia.glade:472 ../gramps/gui/glade/mergenote.glade:487 ../gramps/gui/glade/mergeperson.glade:427 ../gramps/gui/glade/mergeplace.glade:636 ../gramps/gui/glade/mergerepository.glade:415 ../gramps/gui/glade/mergesource.glade:529
 msgid "Detailed Selection"
@@ -11821,7 +11821,7 @@ msgstr "Evento 2"
 
 #: ../gramps/gui/glade/mergeevent.glade:513
 msgid "Attributes, notes, sources and media objects of both events will be combined."
-msgstr "Atributos, notas, fontes de referência e objetos multimídia de ambos os eventos serão combinados."
+msgstr "Atributos, anotações, fontes de referência e objetos de mídia de ambos os eventos serão combinados."
 
 #: ../gramps/gui/glade/mergefamily.glade:99
 msgid ""
@@ -11853,7 +11853,7 @@ msgstr "Família 2"
 
 #: ../gramps/gui/glade/mergefamily.glade:459
 msgid "Events, lds_ord, media objects, attributes, notes, sources and tags of both families will be combined."
-msgstr "Eventos, ordenações SUD, objetos multimídia, atributos, notas, fontes de referência e etiquetas de ambas as famílias serão combinadas."
+msgstr "Eventos, ordenações SUD, objetos de mídia, atributos, anotaçõe, fontes de referência e etiquetas de ambas as famílias serão combinadas."
 
 #: ../gramps/gui/glade/mergemedia.glade:98
 msgid ""
@@ -11873,15 +11873,15 @@ msgstr "Objeto 2"
 
 #: ../gramps/gui/glade/mergemedia.glade:456
 msgid "Attributes, sources, notes and tags of both objects will be combined."
-msgstr "Atributos, fontes de referência, notas e etiquetas de ambos os objetos serão combinados."
+msgstr "Atributos, fontes de referência, anotações e etiquetas de ambos os objetos serão combinados."
 
 #: ../gramps/gui/glade/mergenote.glade:98
 msgid ""
 "Select the note that will provide the\n"
 "primary data for the merged note."
 msgstr ""
-"Selecione a nota que proverá os dados\n"
-"primários para a nota mesclada."
+"Selecione a anotação que fornecerá os dados\n"
+"primários para a anotação mesclada."
 
 #: ../gramps/gui/glade/mergenote.glade:187
 msgid "Note 1"
@@ -11917,7 +11917,7 @@ msgstr "Sexo:"
 
 #: ../gramps/gui/glade/mergeperson.glade:411
 msgid "Events, media objects, addresses, attributes, urls, notes, sources and tags of both persons will be combined."
-msgstr "Eventos, objetos multimídia, endereços, atributos, URLs, notas, fontes de referência e etiquetas de ambas as pessoas serão combinados."
+msgstr "Eventos, objetos de mídia, endereços, atributos, URLs, anotações, fontes de referência e etiquetas de ambas as pessoas serão combinados."
 
 #: ../gramps/gui/glade/mergeperson.glade:502
 msgid "Context Information"
@@ -11933,7 +11933,7 @@ msgstr ""
 
 #: ../gramps/gui/glade/mergeplace.glade:620
 msgid "Alternative names, sources, urls, media objects and notes of both places will be combined."
-msgstr "Nomes, fontes, urls, objetos multimídia e anotações alternativas de ambos os lugares serão combinados."
+msgstr "Nomes, fontes, urls, objetos de mídia e anotações alternativas de ambos os lugares serão combinados."
 
 #: ../gramps/gui/glade/mergerepository.glade:98
 msgid ""
@@ -11953,7 +11953,7 @@ msgstr "Repositório 2"
 
 #: ../gramps/gui/glade/mergerepository.glade:399
 msgid "Addresses, urls and notes of both repositories will be combined."
-msgstr "Endereços, URLs e notas de ambos os repositórios serão combinados."
+msgstr "Endereços, URLs e anotações de ambos os repositórios serão combinados."
 
 #: ../gramps/gui/glade/mergesource.glade:98
 msgid ""
@@ -11965,7 +11965,7 @@ msgstr ""
 
 #: ../gramps/gui/glade/mergesource.glade:513
 msgid "Notes, media objects, data-items and repository references of both sources will be combined."
-msgstr "Notas, objetos multimídia, itens de dados e repositórios de referência de ambas as fontes de referência serão combinados."
+msgstr "Anotações, objetos de mídia, itens de dados e repositórios de referência de ambas as fontes de referência serão combinados."
 
 #: ../gramps/gui/glade/papermenu.glade:8
 msgid "Paper Settings"
@@ -13107,7 +13107,7 @@ msgid ""
 msgstr ""
 "A cópia dos seus dados foi salva com sucesso. Você pode agora clicar em Fechar para continuar.\n"
 "\n"
-"Observação: o banco de dados que está aberto neste momento na sua janela do Gramps NÃO é o arquivo que você acabou de salvar. Modificações futuras no banco de dados atualmente aberto não irão alterar a cópia que você acabou de fazer. "
+"Observação: a base de dados que está aberta neste momento na sua janela do Gramps NÃO é o arquivo que você acabou de salvar. Modificações futuras na base de dados atualmente aberta não irão alterar a cópia que você acabou de fazer. "
 
 #. add test, what is dir
 #: ../gramps/gui/plug/export/_exportassistant.py:508
@@ -13127,7 +13127,7 @@ msgid ""
 msgstr ""
 "Ocorreu um erro durante o salvamento dos seus dados. Você pode tentar iniciar a exportação novamente.\n"
 "\n"
-"Observação: o seu banco de dados atualmente aberto está seguro. A falha de salvamento ocorreu apenas na cópia de seus dados."
+"Observação: a sua base de dados atualmente aberta está segura. A falha de salvamento ocorreu apenas na cópia de seus dados."
 
 #: ../gramps/gui/plug/export/_exportassistant.py:533
 msgid ""
@@ -13137,11 +13137,11 @@ msgid ""
 "\n"
 "If you change your mind during this process, you can safely press the Cancel button at any time and your present database will still be intact."
 msgstr ""
-"Sob circunstâncias normais, o Gramps não exige que você salve suas modificações diretamente. Todas as modificações feitas são salvas imediatamente no banco de dados.\n"
+"Sob circunstâncias normais, o Gramps não exige que você salve suas modificações diretamente. Todas as modificações feitas são salvas imediatamente na base de dados.\n"
 "\n"
 "Este processo o ajudará a salvar uma cópia de seus dados em qualquer um dos diversos formatos suportados pelo Gramps. Isto pode ser usado para fazer uma cópia dos seus dados, um backup dos dados, ou convertê-los para um formato que possibilitará sua transferência para outro programa.\n"
 "\n"
-"Se você mudar de ideia durante o processo, basta clicar em Cancelar a qualquer momento e o seu banco de dados atual permanecerá intacto."
+"Se você mudar de ideia durante o processo, basta clicar em Cancelar a qualquer momento e o sua base de dados atual permanecerá intacto."
 
 #: ../gramps/gui/plug/export/_exportassistant.py:602
 msgid "Error exporting your Family Tree"
@@ -13193,11 +13193,11 @@ msgstr "Clique para visualizar as pessoas após a aplicação do filtro"
 
 #: ../gramps/gui/plug/export/_exportoptions.py:295
 msgid "_Note Filter"
-msgstr "Filtro de _notas"
+msgstr "Filtro de A_notações"
 
 #: ../gramps/gui/plug/export/_exportoptions.py:307
 msgid "Click to see preview after note filter"
-msgstr "Clique para visualizar as notas após a aplicação do filtro"
+msgstr "Clique para visualizar as anotações após a aplicação do filtro"
 
 #. Frame 3:
 #: ../gramps/gui/plug/export/_exportoptions.py:310
@@ -13243,7 +13243,7 @@ msgstr "Aplicando o filtro de pessoas selecionado"
 
 #: ../gramps/gui/plug/export/_exportoptions.py:615
 msgid "Applying selected note filter"
-msgstr "Aplicando o filtro de notas selecionado"
+msgstr "Aplicando o filtro de anotações selecionado"
 
 #: ../gramps/gui/plug/export/_exportoptions.py:624
 msgid "Filtering referenced records"
@@ -13263,7 +13263,7 @@ msgstr "Incluir todas as pessoas selecionadas"
 
 #: ../gramps/gui/plug/export/_exportoptions.py:709
 msgid "Include all selected notes"
-msgstr "Incluir todas as notas selecionadas"
+msgstr "Incluir todas as anotações selecionadas"
 
 #: ../gramps/gui/plug/export/_exportoptions.py:720
 msgid "Replace given names of living people"
@@ -13355,7 +13355,7 @@ msgstr "Lista de seleção de livros"
 
 #: ../gramps/gui/plug/report/_bookdialog.py:444
 msgid "Different database"
-msgstr "Banco de dados diferente"
+msgstr "Base de dados diferente"
 
 #: ../gramps/gui/plug/report/_bookdialog.py:445
 #, python-format
@@ -13366,11 +13366,11 @@ msgid ""
 "\n"
 "Therefore, the central person for each item is being set to the active person of the currently opened database."
 msgstr ""
-"Este livro foi criado com referências ao banco de dados %s.\n"
+"Este livro foi criado com as referências à base de dados %s.\n"
 "\n"
 "Isto torna inválidas as referências à pessoa principal contidas no livro.\n"
 "\n"
-"Sendo assim, a pessoa central de cada item está sendo ajustada para a pessoa ativa do banco de dados atualmente aberto."
+"Sendo assim, a pessoa central de cada item está sendo ajustada para a pessoa ativa da base de dados atualmente aberta."
 
 #: ../gramps/gui/plug/report/_bookdialog.py:550
 msgid "No selected book item"
@@ -13638,7 +13638,7 @@ msgid ""
 msgstr ""
 "Prosseguir com esta ferramenta irá apagar o histórico de desfazimentos desta sessão. Particularmente, você não será capaz de reverter as alterações feitas por esta ferramenta ou quaisquer mudanças feitas anteriormente.\n"
 "\n"
-"Se você acha que pode querer reverter no futuro as alterações feitas por esta ferramenta, por favor, pare e efetue uma cópia de segurança do seu banco de dados."
+"Se você acha que pode querer reverter no futuro as alterações feitas por esta ferramenta, por favor, pare e efetue uma cópia de segurança da sua base de dados."
 
 #: ../gramps/gui/plug/tool.py:115
 msgid "_Proceed with the tool"
@@ -13686,7 +13686,7 @@ msgstr ""
 
 #: ../gramps/gui/selectors/selectnote.py:68
 msgid "Select Note"
-msgstr "Selecionar nota"
+msgstr "Selecionar Anotação"
 
 #: ../gramps/gui/selectors/selectobject.py:60
 msgid "manual|Select_Media_Object_selector"
@@ -13694,7 +13694,7 @@ msgstr ""
 
 #: ../gramps/gui/selectors/selectobject.py:70
 msgid "Select Media Object"
-msgstr "Selecionar objeto multimídia"
+msgstr "Selecionar objeto de mídia"
 
 #: ../gramps/gui/selectors/selectperson.py:54
 msgid "manual|Select_Child_selector"
@@ -13818,7 +13818,7 @@ msgstr "Limpar"
 
 #: ../gramps/gui/undohistory.py:235
 msgid "Database opened"
-msgstr "Banco de dados aberto"
+msgstr "Base de dados aberta"
 
 #: ../gramps/gui/undohistory.py:237
 msgid "History cleared"
@@ -13860,7 +13860,7 @@ msgstr "Nenhuma Árvore Genealógica"
 
 #: ../gramps/gui/viewmanager.py:452
 msgid "Connect to a recent database"
-msgstr "Conectar a um banco de dados recente"
+msgstr "Conectar a uma base de dados recente"
 
 #: ../gramps/gui/viewmanager.py:470
 msgid "_Family Trees"
@@ -13880,7 +13880,7 @@ msgstr "Abrir _recente"
 
 #: ../gramps/gui/viewmanager.py:474
 msgid "Open an existing database"
-msgstr "Abrir um banco de dados existente"
+msgstr "Abrir uma base de dados existente"
 
 #: ../gramps/gui/viewmanager.py:475
 msgid "_Quit"
@@ -13944,7 +13944,7 @@ msgstr "Fazer cópia de segurança..."
 
 #: ../gramps/gui/viewmanager.py:508
 msgid "Make a Gramps XML backup of the database"
-msgstr "Fazer cópia de segurança do banco de dados Gramps XML"
+msgstr "Fazer cópia de segurança da base de dados Gramps XML"
 
 #: ../gramps/gui/viewmanager.py:510
 msgid "_Abandon Changes and Quit"
@@ -14043,7 +14043,7 @@ msgstr "Abandonar alterações?"
 
 #: ../gramps/gui/viewmanager.py:777
 msgid "Aborting changes will return the database to the state it was before you started this editing session."
-msgstr "Abandonar as alterações retornará o banco de dados para o estado em que ele estava antes de iniciar essa sessão de edição."
+msgstr "Abandonar as alterações retornará a base de dados para o estado em que ela estava antes de iniciar essa sessão de edição."
 
 #: ../gramps/gui/viewmanager.py:779
 msgid "Abort changes"
@@ -14237,11 +14237,11 @@ msgstr "Confirmar Cada Exclusão"
 
 #: ../gramps/gui/views/listview.py:555
 msgid "This item is currently being used. Deleting it will remove it from the database and from all other items that reference it."
-msgstr "Este item está sendo usado no momento. Se você exclui-lo, ele será removido do banco de dados e de todos os itens que fazem referência a ele."
+msgstr "Este item está sendo usado no momento. Se você excluí-lo, ele será removido da base de dados e de todos os itens que fazem referência a ele."
 
 #: ../gramps/gui/views/listview.py:559 ../gramps/plugins/view/familyview.py:267
 msgid "Deleting item will remove it from the database."
-msgstr "Excluir o item irá removê-lo do banco de dados."
+msgstr "Excluir o item irá removê-lo da base de dados."
 
 #: ../gramps/gui/views/listview.py:566 ../gramps/plugins/lib/libpersonview.py:312 ../gramps/plugins/view/familyview.py:260
 #, python-format
@@ -14404,7 +14404,7 @@ msgstr "Remover a etiqueta '%s'?"
 
 #: ../gramps/gui/views/tags.py:490
 msgid "The tag definition will be removed.  The tag will be also removed from all objects in the database."
-msgstr "A definição da etiqueta será removida. A etiqueta será removida também de todos os objetos do banco de dados."
+msgstr "A definição da etiqueta será removida. A etiqueta será removida também de todos os objetos da base de dados."
 
 #: ../gramps/gui/views/tags.py:521
 msgid "Removing Tags"
@@ -14708,7 +14708,7 @@ msgstr "_Base de dados BSDDB"
 
 #: ../gramps/plugins/db/bsddb/bsddb.gpr.py:25
 msgid "Berkeley Software Distribution Database Backend"
-msgstr "Berkeley Software Distribution back-end de banco de dados"
+msgstr "Berkeley Software Distribution Backend de banco de dados"
 
 #: ../gramps/plugins/db/bsddb/upgrade.py:398
 #, python-format
@@ -14787,7 +14787,7 @@ msgstr "Reconstruir os mapas de referências"
 #: ../gramps/plugins/db/bsddb/write.py:2173
 #, python-format
 msgid "A second transaction is started while there is still a transaction, \"%s\", active in the database."
-msgstr "Uma segunda transação é iniciada enquanto ainda há uma transação, \"%s\", ativa no banco de dados."
+msgstr "Uma segunda transação é iniciada enquanto ainda há uma transação, \"%s\", ativa na base de dados."
 
 #: ../gramps/plugins/db/bsddb/write.py:2522
 msgid "DB-API version"
@@ -14795,7 +14795,7 @@ msgstr "Versão do DB-API"
 
 #: ../gramps/plugins/db/bsddb/write.py:2534
 msgid "Database db version"
-msgstr "Versão do banco de dados bd"
+msgstr "Versão da base de dados"
 
 #: ../gramps/plugins/db/dbapi/dbapi.gpr.py:23
 msgid "DB-API"
@@ -14803,11 +14803,11 @@ msgstr "DB-API"
 
 #: ../gramps/plugins/db/dbapi/dbapi.gpr.py:24
 msgid "DB-_API Database"
-msgstr "Banco de dados DB-_API"
+msgstr "Base de dados DB-_API"
 
 #: ../gramps/plugins/db/dbapi/dbapi.gpr.py:25
 msgid "DB-API Database"
-msgstr "Banco de dados DB-API"
+msgstr "Base de dados DB-API"
 
 #: ../gramps/plugins/db/dbapi/inmemorydb.gpr.py:23
 msgid "In-Memory"
@@ -14815,11 +14815,11 @@ msgstr "In-Memory"
 
 #: ../gramps/plugins/db/dbapi/inmemorydb.gpr.py:24
 msgid "In-_Memory Database"
-msgstr "Banco de dados In-_Memory"
+msgstr "Base de dados In-_Memory"
 
 #: ../gramps/plugins/db/dbapi/inmemorydb.gpr.py:25
 msgid "In-Memory Database"
-msgstr "Banco de dados In-Memory"
+msgstr "Base de dados In-Memory"
 
 #: ../gramps/plugins/docgen/asciidoc.py:464
 msgid "Characters per line"
@@ -15030,7 +15030,7 @@ msgstr "Gráfico de ascendentes para %s"
 #: ../gramps/plugins/drawreport/ancestortree.py:357 ../gramps/plugins/drawreport/calendarreport.py:113 ../gramps/plugins/drawreport/descendtree.py:689 ../gramps/plugins/drawreport/fanchart.py:195 ../gramps/plugins/graph/gvhourglass.py:100 ../gramps/plugins/textreport/ancestorreport.py:112 ../gramps/plugins/textreport/birthdayreport.py:113 ../gramps/plugins/textreport/descendreport.py:440 ../gramps/plugins/textreport/detancestralreport.py:160 ../gramps/plugins/textreport/detdescendantreport.py:175 ../gramps/plugins/textreport/endoflinereport.py:90 ../gramps/plugins/textreport/kinshipreport.py:105 ../gramps/plugins/textreport/numberofancestorsreport.py:84
 #, python-format
 msgid "Person %s is not in the Database"
-msgstr "A pessoa %s não está no banco de dados"
+msgstr "A pessoa %s não está na base de dados"
 
 #: ../gramps/plugins/drawreport/ancestortree.py:602 ../gramps/plugins/drawreport/ancestortree.py:688 ../gramps/plugins/drawreport/drawplugins.gpr.py:50
 msgid "Ancestor Tree"
@@ -15315,11 +15315,11 @@ msgstr "Se devem ser incluídas as páginas em branco."
 #. category_name = _("Notes")
 #: ../gramps/plugins/drawreport/ancestortree.py:979 ../gramps/plugins/drawreport/descendtree.py:1697
 msgid "Include a note"
-msgstr "Incluir uma nota"
+msgstr "Incluir uma anotação"
 
 #: ../gramps/plugins/drawreport/ancestortree.py:980 ../gramps/plugins/drawreport/descendtree.py:1699
 msgid "Whether to include a note on the report."
-msgstr "Se deve incluir uma nota no relatório."
+msgstr "Se deve incluir uma anotação no relatório."
 
 #: ../gramps/plugins/drawreport/ancestortree.py:985 ../gramps/plugins/drawreport/descendtree.py:1704
 msgid ""
@@ -15327,17 +15327,17 @@ msgid ""
 "\n"
 "$T inserts today's date"
 msgstr ""
-"Adicionar uma nota\n"
+"Adicionar uma anotação\n"
 "\n"
 "$T insere a data de hoje"
 
 #: ../gramps/plugins/drawreport/ancestortree.py:990 ../gramps/plugins/drawreport/descendtree.py:1709
 msgid "Note Location"
-msgstr "Localização da nota"
+msgstr "Localização da Anotação"
 
 #: ../gramps/plugins/drawreport/ancestortree.py:993 ../gramps/plugins/drawreport/descendtree.py:1712
 msgid "Where to place the note."
-msgstr "Onde colocar a nota."
+msgstr "Onde colocar a anotação."
 
 #: ../gramps/plugins/drawreport/ancestortree.py:1008
 msgid "No generations of empty boxes for unknown ancestors"
@@ -15358,7 +15358,7 @@ msgstr "O estilo básico usado para a exibição de texto."
 
 #: ../gramps/plugins/drawreport/ancestortree.py:1042 ../gramps/plugins/drawreport/descendtree.py:1782 ../gramps/plugins/textreport/familygroup.py:867 ../gramps/plugins/textreport/tagreport.py:982
 msgid "The basic style used for the note display."
-msgstr "O estilo básico usado para a exibição de notas."
+msgstr "O estilo básico usado para a exibição de anotações."
 
 #: ../gramps/plugins/drawreport/ancestortree.py:1052 ../gramps/plugins/drawreport/descendtree.py:1750
 msgid "The basic style used for the title display."
@@ -15388,7 +15388,7 @@ msgstr "Aplicando filtro..."
 
 #: ../gramps/plugins/drawreport/calendarreport.py:322 ../gramps/plugins/textreport/birthdayreport.py:269 ../gramps/plugins/webreport/webcal.py:1262
 msgid "Reading database..."
-msgstr "Lendo banco de dados..."
+msgstr "Lendo base de dados..."
 
 #: ../gramps/plugins/drawreport/calendarreport.py:367
 #, python-format
@@ -15620,7 +15620,7 @@ msgstr "Gráfico de Primos para %(names)s"
 #: ../gramps/plugins/drawreport/descendtree.py:757
 #, python-format
 msgid "Family %s is not in the Database"
-msgstr "A família %s não está no banco de dados"
+msgstr "A família %s não está na base de dados"
 
 #. if self.name == "familial_descend_tree":
 #: ../gramps/plugins/drawreport/descendtree.py:1523 ../gramps/plugins/drawreport/descendtree.py:1527
@@ -15799,7 +15799,7 @@ msgstr "Gráficos estatísticos"
 
 #: ../gramps/plugins/drawreport/drawplugins.gpr.py:195
 msgid "Produces statistical bar and pie charts of the people in the database"
-msgstr "Gera gráficos estatísticos de barra e setoriais das pessoas contidas no banco de dados"
+msgstr "Gera gráficos estatísticos de barra e setoriais das pessoas contidas na base de dados"
 
 # VERIFICAR
 #: ../gramps/plugins/drawreport/drawplugins.gpr.py:218 ../gramps/plugins/drawreport/timeline.py:277
@@ -16288,7 +16288,7 @@ msgstr "Pacote XML do Gra_mps (árvore genealógica e mídia)"
 
 #: ../gramps/plugins/export/export.gpr.py:118
 msgid "Gramps package is an archived XML family tree together with the media object files."
-msgstr "Um pacote do Gramps é uma árvore genealógica arquivada em XML, juntamente com os arquivos de objetos multimídia."
+msgstr "Um pacote do Gramps é uma árvore genealógica arquivada em XML, juntamente com os arquivos de objetos de mídia."
 
 #: ../gramps/plugins/export/export.gpr.py:127
 msgid "Gramps package export options"
@@ -16457,7 +16457,7 @@ msgstr "Escrevendo fontes"
 
 #: ../gramps/plugins/export/exportgedcom.py:957
 msgid "Writing notes"
-msgstr "Escrevendo notas"
+msgstr "Escrevendo anotações"
 
 #: ../gramps/plugins/export/exportgedcom.py:995
 msgid "Writing repositories"
@@ -16517,11 +16517,11 @@ msgstr "Aniversário: %s"
 
 #: ../gramps/plugins/export/exportxml.py:137
 msgid "The database cannot be saved because you do not have permission to write to the directory. Please make sure you have write access to the directory and try again."
-msgstr "O banco de dados não pode ser salvo porque você não tem permissões para gravar na pasta. Por favor, certifique-se de que você pode gravar na pasta e tente novamente."
+msgstr "A base de dados não pode ser salva porque você não tem permissões para gravar na pasta. Por favor, certifique-se de que você pode gravar na pasta e tente novamente."
 
 #: ../gramps/plugins/export/exportxml.py:153
 msgid "The database cannot be saved because you do not have permission to write to the file. Please make sure you have write access to the file and try again."
-msgstr "O banco de dados não pode ser salvo porque você não tem permissões para gravar no arquivo. Por favor, certifique-se de que você pode gravar no arquivo e tente novamente."
+msgstr "A base de dados não pode ser salva porque você não tem permissões para gravar no arquivo. Por favor, certifique-se de que você pode gravar no arquivo e tente novamente."
 
 #. GUI setup:
 #: ../gramps/plugins/gramplet/ageondategramplet.py:52
@@ -16727,7 +16727,7 @@ msgstr "  7. %(gramps_FAQ_html_start)s%(faq_section)sQual é a diferença entre 
 
 #: ../gramps/plugins/gramplet/faqgramplet.py:120
 msgid "Media Files"
-msgstr "Arquivos multimídia"
+msgstr "Arquivos de mídia"
 
 #: ../gramps/plugins/gramplet/faqgramplet.py:125
 #, python-format
@@ -16973,11 +16973,11 @@ msgstr "Gramplet que mostra os detalhes de um local"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:371 ../gramps/plugins/gramplet/gramplet.gpr.py:379
 msgid "Media Preview"
-msgstr "Visualização de multimídia"
+msgstr "Visualização de de mídia"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:372
 msgid "Gramplet showing a preview of a media object"
-msgstr "Gramplet que mostra uma visualização de objetos multimídia"
+msgstr "Gramplet que mostra uma visualização de objetos de mídia"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:399 ../gramps/plugins/gramplet/gramplet.gpr.py:407
 msgid "Image Metadata"
@@ -16985,7 +16985,7 @@ msgstr "Metadados da imagem"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:400
 msgid "Gramplet showing metadata for a media object"
-msgstr "Gramplet que mostra os metadados de um objeto multimídia"
+msgstr "Gramplet que mostra os metadados de um objeto de mídia"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:421
 msgid "GExiv2 module not loaded."
@@ -17030,7 +17030,7 @@ msgstr "Galeria da pessoa"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:472
 msgid "Gramplet showing media objects for a person"
-msgstr "Gramplet que mostra os objetos multimídia de uma pessoa"
+msgstr "Gramplet que mostra os objetos de mídia de uma pessoa"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:479 ../gramps/plugins/gramplet/gramplet.gpr.py:493 ../gramps/plugins/gramplet/gramplet.gpr.py:507 ../gramps/plugins/gramplet/gramplet.gpr.py:521 ../gramps/plugins/gramplet/gramplet.gpr.py:535 ../gramps/plugins/gramplet/gramplet.gpr.py:549
 msgid "Gallery"
@@ -17042,7 +17042,7 @@ msgstr "Galeria da família"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:486
 msgid "Gramplet showing media objects for a family"
-msgstr "Gramplet que mostra os objetos multimídia de uma família"
+msgstr "Gramplet que mostra os objetos de mídia de uma família"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:499
 msgid "Event Gallery"
@@ -17050,7 +17050,7 @@ msgstr "Galeria de eventos"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:500
 msgid "Gramplet showing media objects for an event"
-msgstr "Gramplet que mostra os objetos multimídia de um evento"
+msgstr "Gramplet que mostra os objetos de mídia de um evento"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:513
 msgid "Place Gallery"
@@ -17058,7 +17058,7 @@ msgstr "Galeria de locais"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:514
 msgid "Gramplet showing media objects for a place"
-msgstr "Gramplet que mostra os objetos multimídia de um local"
+msgstr "Gramplet que mostra os objetos de mídia de um local"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:527
 msgid "Source Gallery"
@@ -17066,7 +17066,7 @@ msgstr "Galeria de fontes de referência"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:528
 msgid "Gramplet showing media objects for a source"
-msgstr "Gramplet que mostra os objetos multimídia de uma fonte"
+msgstr "Gramplet que mostra os objetos de mídia de uma fonte"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:541
 msgid "Citation Gallery"
@@ -17074,7 +17074,7 @@ msgstr "Galeria de citação"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:542
 msgid "Gramplet showing media objects for a citation"
-msgstr "Gramplet que mostra os objetos multimídia de uma citação"
+msgstr "Gramplet que mostra os objetos de mídia de uma citação"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:555
 msgid "Person Attributes"
@@ -17106,7 +17106,7 @@ msgstr "Atributos de mídia"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:598
 msgid "Gramplet showing the attributes of a media object"
-msgstr "Gramplet que mostra os atributos de um objeto multimídia"
+msgstr "Gramplet que mostra os atributos de um objeto de mídia"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:611
 msgid "Source Attributes"
@@ -17126,67 +17126,67 @@ msgstr "Gramplet que mostra os atributos de um objeto citação"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:639
 msgid "Person Notes"
-msgstr "Notas de pessoa"
+msgstr "Anotações da pessoa"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:640
 msgid "Gramplet showing the notes for a person"
-msgstr "Gramplet que mostra as notas de uma pessoa"
+msgstr "Gramplet que mostra as anotações de uma pessoa"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:653
 msgid "Event Notes"
-msgstr "Notas de evento"
+msgstr "Anotações de Evento"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:654
 msgid "Gramplet showing the notes for an event"
-msgstr "Gramplet que mostra as notas de um evento"
+msgstr "Gramplet que mostra as anotações de um evento"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:667 ../gramps/plugins/textreport/familygroup.py:775
 msgid "Family Notes"
-msgstr "Notas de família"
+msgstr "Anotações de Família"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:668
 msgid "Gramplet showing the notes for a family"
-msgstr "Gramplet que mostra as notas de uma família"
+msgstr "Gramplet que mostra as anotações de uma família"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:681
 msgid "Place Notes"
-msgstr "Notas de local"
+msgstr "Aotações de Lugar"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:682
 msgid "Gramplet showing the notes for a place"
-msgstr "Gramplet que mostra as notas de um local"
+msgstr "Gramplet que mostra as anotações de um local"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:695
 msgid "Source Notes"
-msgstr "Notas de fonte de referência"
+msgstr "Anotações de fonte de referência"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:696
 msgid "Gramplet showing the notes for a source"
-msgstr "Gramplet que mostra as notas de uma fonte"
+msgstr "Gramplet que mostra as anotações de uma fonte"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:709
 msgid "Citation Notes"
-msgstr "Notas de citação"
+msgstr "Anotações de citação"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:710
 msgid "Gramplet showing the notes for a citation"
-msgstr "Gramplet que mostra as notas de uma citação"
+msgstr "Gramplet que mostra as anotações de uma citação"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:723
 msgid "Repository Notes"
-msgstr "Notas de repositório"
+msgstr "Anotações de Repositório"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:724
 msgid "Gramplet showing the notes for a repository"
-msgstr "Gramplet que mostra as notas de um repositório"
+msgstr "Gramplet que mostra as anotações de um repositório"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:737
 msgid "Media Notes"
-msgstr "Notas de mídia"
+msgstr "Anotações de mídia"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:738
 msgid "Gramplet showing the notes for a media object"
-msgstr "Gramplet que mostra as notas de um objeto multimídia"
+msgstr "Gramplet que mostra as anotações de um objeto de mídia"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:751
 msgid "Person Citations"
@@ -17226,7 +17226,7 @@ msgstr "Citações de mídia"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:808
 msgid "Gramplet showing the citations for a media object"
-msgstr "Gramplet que mostra as citações de um objeto multimídia"
+msgstr "Gramplet que mostra as citações de um objeto de mídia"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:821
 msgid "Person Children"
@@ -17314,7 +17314,7 @@ msgstr "Gramplet que mostra os links reversos de um objeto mídia"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:961
 msgid "Note References"
-msgstr "Referências da Anotação"
+msgstr "Anotações de Referências"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:962
 msgid "Gramplet showing the backlink references for a note"
@@ -17370,7 +17370,7 @@ msgstr "Gramplet que fornece um filtro de local"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:1059
 msgid "Media Filter"
-msgstr "Filtro de multimídia"
+msgstr "Filtro de de mídia"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:1060
 msgid "Gramplet providing a media filter"
@@ -17386,11 +17386,11 @@ msgstr "Gramplet que fornece um filtro de repositório"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:1087
 msgid "Note Filter"
-msgstr "Filtro de notas"
+msgstr "Filtro de Anotações"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:1088
 msgid "Gramplet providing a note filter"
-msgstr "Gramplet que fornece um filtro de nota"
+msgstr "Gramplet que fornece um filtro de anotações"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:1101 ../gramps/plugins/gramplet/gramplet.gpr.py:1112 ../gramps/plugins/textreport/recordsreport.py:119
 msgid "Records"
@@ -17462,7 +17462,7 @@ msgstr "Tarefas de mídia"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:1216
 msgid "Gramplet showing the To Do notes for a media object"
-msgstr "Gramplet que mostra as notas de tarefas para um objeto multimídia"
+msgstr "Gramplet que mostra as notas de tarefas para um objeto de mídia"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:1255 ../gramps/plugins/gramplet/gramplet.gpr.py:1263
 msgid "SoundEx"
@@ -17697,7 +17697,7 @@ msgstr "Registro para esta sessão"
 
 #: ../gramps/plugins/gramplet/sessionloggramplet.py:57
 msgid "Opened data base -----------\n"
-msgstr "Banco de dados aberto -----------\n"
+msgstr "Base de dados aberta -----------\n"
 
 #. List of translated strings used here (translated in self.log ).
 #: ../gramps/plugins/gramplet/sessionloggramplet.py:59
@@ -17751,23 +17751,23 @@ msgstr "Sobrenomes únicos"
 
 #: ../gramps/plugins/gramplet/statsgramplet.py:124 ../gramps/plugins/textreport/summary.py:229
 msgid "Media Objects"
-msgstr "Objetos multimídia"
+msgstr "Objetos de mídia"
 
 #: ../gramps/plugins/gramplet/statsgramplet.py:126
 msgid "Total number of media object references"
-msgstr "Número total de referências a objetos multimídia"
+msgstr "Número total de referências a objetos de mídia"
 
 #: ../gramps/plugins/gramplet/statsgramplet.py:130
 msgid "Number of unique media objects"
-msgstr "Número de objetos multimídia únicos"
+msgstr "Número de objetos de mídia únicos"
 
 #: ../gramps/plugins/gramplet/statsgramplet.py:135
 msgid "Total size of media objects"
-msgstr "Tamanho total dos objetos multimídia"
+msgstr "Tamanho total dos objetos de mídia"
 
 #: ../gramps/plugins/gramplet/statsgramplet.py:139 ../gramps/plugins/textreport/summary.py:259
 msgid "Missing Media Objects"
-msgstr "Objetos multimídia faltantes"
+msgstr "Objetos de mídia faltantes"
 
 #: ../gramps/plugins/gramplet/surnamecloudgramplet.py:66 ../gramps/plugins/gramplet/topsurnamesgramplet.py:50
 msgid "Double-click surname for details"
@@ -17795,19 +17795,19 @@ msgstr "Total de sobrenomes mostrados"
 
 #: ../gramps/plugins/gramplet/todo.py:58 ../gramps/plugins/gramplet/todogramplet.py:60
 msgid "Previous To Do note"
-msgstr "Nota de tarefa anterior"
+msgstr "Tarefa Anterior"
 
 #: ../gramps/plugins/gramplet/todo.py:62 ../gramps/plugins/gramplet/todogramplet.py:64
 msgid "Next To Do note"
-msgstr "Nota de tarefa posterior"
+msgstr "Próxima Tarefa"
 
 #: ../gramps/plugins/gramplet/todo.py:66 ../gramps/plugins/gramplet/todogramplet.py:68
 msgid "Edit the selected To Do note"
-msgstr "Editar a nota de tarefa selecionada"
+msgstr "Editar tarefa selecionada"
 
 #: ../gramps/plugins/gramplet/todo.py:70 ../gramps/plugins/gramplet/todogramplet.py:72
 msgid "Add a new To Do note"
-msgstr "Adicionar uma nova nota de tarefa"
+msgstr "Adicionar uma nova tarefa"
 
 #: ../gramps/plugins/gramplet/todogramplet.py:149
 msgid "Unattached"
@@ -17870,7 +17870,7 @@ msgid ""
 "The first thing you must do is to create a new Family Tree. To create a new Family Tree (sometimes called 'database') select \"Family Trees\" from the menu, pick \"Manage Family Trees\", press \"New\" and name your Family Tree. For more details, please read the information at the links above\n"
 "\n"
 msgstr ""
-"A primeira coisa que você precisa fazer é criar uma nova árvore genealógica. Para criar uma (às vezes é chamada de 'banco de dados') selecione \"Árvores genealógicas\" a partir do menu, escolha \"Gerenciar árvores genealógicas\", clique em \"Novo\" e dê um nome para a sua árvore genealógica. Para mais detalhes, por favor leia as informações nos links acima\n"
+"A primeira coisa que você precisa fazer é criar uma nova árvore genealógica. Para criar uma (às vezes é chamada de 'base de dados') selecione \"Árvores genealógicas\" a partir do menu, escolha \"Gerenciar árvores genealógicas\", clique em \"Novo\" e dê um nome para a sua árvore genealógica. Para mais detalhes, por favor leia as informações nos links acima\n"
 "\n"
 
 #: ../gramps/plugins/gramplet/welcomegramplet.py:130
@@ -18476,7 +18476,7 @@ msgstr "Pacote Gramps (XML portável)"
 
 #: ../gramps/plugins/importer/import.gpr.py:89
 msgid "Import data from a Gramps package (an archived XML Family Tree together with the media object files.)"
-msgstr "Importa os dados de um pacote do Gramps (uma árvore genealógica arquivada em XML, juntamente com os arquivos de objetos multimídia.)"
+msgstr "Importa os dados de um pacote do Gramps (uma árvore genealógica arquivada em XML, juntamente com os arquivos de objetos de mídia.)"
 
 #: ../gramps/plugins/importer/import.gpr.py:107
 msgid "Gramps XML Family Tree"
@@ -18484,15 +18484,15 @@ msgstr "Árvore genealógica Gramps XML"
 
 #: ../gramps/plugins/importer/import.gpr.py:108
 msgid "The Gramps XML format is a text version of a Family Tree. It is read-write compatible with the present Gramps database format."
-msgstr "O formato XML do Gramps Gramps é uma versão em texto de uma árvore genealógica. É compatível em leitura e escrita com o formato de banco de dados atual do Gramps."
+msgstr "O formato XML do Gramps Gramps é uma versão em texto de uma árvore genealógica. É compatível em leitura e escrita com o formato da base de dados atual do Gramps."
 
 #: ../gramps/plugins/importer/import.gpr.py:128
 msgid "Gramps 2.x database"
-msgstr "Banco de dados do Gramps 2.x"
+msgstr "Base de dados do Gramps 2.x"
 
 #: ../gramps/plugins/importer/import.gpr.py:129
 msgid "Import data from Gramps 2.x database files"
-msgstr "Importar dados a partir de arquivos de banco de dados do Gramps 2.x"
+msgstr "Importar dados a partir de arquivos de base de dados do Gramps 2.x"
 
 #: ../gramps/plugins/importer/import.gpr.py:146
 msgid "Pro-Gen"
@@ -18545,7 +18545,7 @@ msgstr "fonte"
 
 #: ../gramps/plugins/importer/importcsv.py:170
 msgid "note"
-msgstr "nota"
+msgstr "anotação"
 
 #: ../gramps/plugins/importer/importcsv.py:172
 msgid "birth place"
@@ -18897,12 +18897,12 @@ msgstr "Data inválida {date} em {gw_snippet}, preservando-a como texto."
 #: ../gramps/plugins/importer/importgpkg.py:72
 #, python-format
 msgid "Could not create media directory %s"
-msgstr "Não foi possível criar a pasta multimídia %s"
+msgstr "Não foi possível criar a pasta de mídia %s"
 
 #: ../gramps/plugins/importer/importgpkg.py:76
 #, python-format
 msgid "Media directory %s is not writable"
-msgstr "A pasta multimídia %s não é gravável"
+msgstr "A pasta de mídia %s não é gravável"
 
 #. mediadir exists and writable -- User could have valuable stuff in
 #. it, have him remove it!
@@ -18918,12 +18918,12 @@ msgstr "Erro extraindo para dentro de %s"
 
 #: ../gramps/plugins/importer/importgpkg.py:107
 msgid "Base path for relative media set"
-msgstr "Localização base para a localização relativa dos objetos multimídia"
+msgstr "Localização base para a localização relativa dos objetos de mídia"
 
 #: ../gramps/plugins/importer/importgpkg.py:108
 #, python-format
 msgid "The base media path of this Family Tree has been set to %s. Consider taking a simpler path. You can change this in the Preferences, while moving your media files to the new position, and using the media manager tool, option 'Replace substring in the path' to set correct paths in your media objects."
-msgstr "A localização base dos objetos multimídia desta árvore genealógica foi definida como %s. Você pode alterar isto nas Preferências, enquanto move seus arquivos de mídia para o novo local, e usando a ferramenta \"Gerenciador multimídia\", opção \"Substituir subtexto na localização\" para que os seus objetos multimídia fiquem no local correto."
+msgstr "A localização base dos objetos de mídia desta árvore genealógica foi definida como %s. Você pode alterar isto nas Preferências, enquanto move seus arquivos de mídia para o novo local, e usando a ferramenta \"Gerenciador de mídia\", opção \"Substituir subtexto na localização\" para que os seus objetos de mídia fiquem no local correto."
 
 #: ../gramps/plugins/importer/importgpkg.py:117
 msgid "Cannot set base media path"
@@ -18932,7 +18932,7 @@ msgstr "Não foi possível definir a localização base das mídias"
 #: ../gramps/plugins/importer/importgpkg.py:118
 #, python-format
 msgid "The Family Tree you imported into already has a base media path: %(orig_path)s. The imported media objects however are relative from the path %(path)s. You can change the media path in the Preferences or you can convert the imported files to the existing base media path. You can do that by moving your media files to the new position, and using the media manager tool, option 'Replace substring in the path' to set correct paths in your media objects."
-msgstr "A árvore genealógica para a qual importou já tem definida uma localização base para os objetos multimídia: %(orig_path)s. Entretanto, os objetos multimídia importados são relativos ao local %(path)s. Você pode alterar a localização base de objetos multimídia nas Preferências ou pode converter os arquivos importados para a localização base existente. É possível fazê-lo movendo os seus arquivos multimídia para o novo local e usando a ferramenta \"Gerenciador multimídia\", opção \"Substituir subtexto na localização\", para que os seus objetos multimídia fiquem com o local correto."
+msgstr "A árvore genealógica para a qual importou já tem definida uma localização base para os objetos de mídia: %(orig_path)s. Entretanto, os objetos de mídia importados são relativos ao local %(path)s. Você pode alterar a localização base de objetos de mídia nas Preferências ou pode converter os arquivos importados para a localização base existente. É possível fazê-lo movendo os seus arquivos de mídia para o novo local e usando a ferramenta \"Gerenciador de mídia\", opção \"Substituir subtexto na localização\", para que os seus objetos de mídia fiquem com o local correto."
 
 #: ../gramps/plugins/importer/importgrdb.py:61 ../gramps/plugins/importer/importprogen.py:74 ../gramps/plugins/importer/importprogen.py:83 ../gramps/plugins/importer/importxml.py:436 ../gramps/plugins/importer/importxml.py:439
 #, python-format
@@ -18942,7 +18942,7 @@ msgstr "%s não pôde ser aberto"
 #: ../gramps/plugins/importer/importgrdb.py:62
 #, python-format
 msgid "The Database version is not supported by this version of Gramps.You should use an old copy of Gramps at version 3.0.x and import your database into that version. You should then export a copy of your data to Gramps XML (Family Tree). Then you should upgrade to the latest version of Gramps (for example this version), create a new empty database and import the Gramps XML into that version. Please refer to:%(gramps_wiki_migrate_two_to_three_url)s"
-msgstr "A versão da base de dados não é suportada por esta versão do Gramps. Você devráusar uma cópia antiga do Gramps na versão 3.0.x e importar o banco de para aquela versão. Você deverá, então, exportar uma cópia do seus dados no formato Gramps XML (árvore genealógica). Depois você deverá atualizar para a última versão do Gramps (esta versão, por exemplo), criar um novo banco de dados vazio e importar o Gramps XML. Por favor, consulte:%(gramps_wiki_migrate_two_to_three_url)s"
+msgstr "A versão da base de dados não é suportada por esta versão do Gramps. Você devráusar uma cópia antiga do Gramps na versão 3.0.x e importar o banco de para aquela versão. Você deverá, então, exportar uma cópia do seus dados no formato Gramps XML (árvore genealógica). Depois você deverá atualizar para a última versão do Gramps (esta versão, por exemplo), criar uma nova base de dados vazio e importar o Gramps XML. Por favor, consulte:%(gramps_wiki_migrate_two_to_three_url)s"
 
 #: ../gramps/plugins/importer/importprogen.py:80
 msgid "Pro-Gen data error"
@@ -19045,7 +19045,7 @@ msgstr "Erro lendo %s"
 
 #: ../gramps/plugins/importer/importxml.py:161
 msgid "The file is probably either corrupt or not a valid Gramps database."
-msgstr "O arquivo provavelmente está corrompido ou não é um banco de dados Gramps válido."
+msgstr "O arquivo provavelmente está corrompido ou não é uma base de dados Gramps válida."
 
 #: ../gramps/plugins/importer/importxml.py:245
 #, python-format
@@ -19070,7 +19070,7 @@ msgstr "  Evento %(id)s com %(id2)s\n"
 #: ../gramps/plugins/importer/importxml.py:260
 #, python-format
 msgid "  Media Object %(id)s with %(id2)s\n"
-msgstr "  Objeto multimídia %(id)s com %(id2)s\n"
+msgstr "  Objeto de mídia %(id)s com %(id2)s\n"
 
 #: ../gramps/plugins/importer/importxml.py:263
 #, python-format
@@ -19085,7 +19085,7 @@ msgstr "  Repositório %(id)s com %(id2)s\n"
 #: ../gramps/plugins/importer/importxml.py:269
 #, python-format
 msgid "  Note %(id)s with %(id2)s\n"
-msgstr "  Nota %(id)s com %(id2)s\n"
+msgstr "  Anotação %(id)s com %(id2)s\n"
 
 #: ../gramps/plugins/importer/importxml.py:274
 #, python-format
@@ -19115,7 +19115,7 @@ msgstr "  Eventos: %d\n"
 #: ../gramps/plugins/importer/importxml.py:286
 #, python-format
 msgid "  Media Objects: %d\n"
-msgstr "  Objetos Multimídia: %d\n"
+msgstr "  Objetos de mídia: %d\n"
 
 #: ../gramps/plugins/importer/importxml.py:287
 #, python-format
@@ -19130,7 +19130,7 @@ msgstr "  Repositórios: %d\n"
 #: ../gramps/plugins/importer/importxml.py:289
 #, python-format
 msgid "  Notes: %d\n"
-msgstr "  Notas: %d\n"
+msgstr "  Anotações: %d\n"
 
 #: ../gramps/plugins/importer/importxml.py:290
 #, python-format
@@ -19175,7 +19175,7 @@ msgid ""
 "or, if not set, relative to the user's directory.\n"
 msgstr ""
 "\n"
-"Foram importados objetos multimídia com localizações\n"
+"Foram importados objetos de mídia com localizações\n"
 "relativas. Estas localizações são consideradas relativas\n"
 "à pasta base de objetos que se pode especificar\n"
 "nas Preferências, ou em caso de não ter sido fixado,\n"
@@ -19302,7 +19302,7 @@ msgstr "Desconhecido quando importado"
 
 #: ../gramps/plugins/importer/importxml.py:1967
 msgid "Any note reference must have a 'hlink' attribute."
-msgstr "Todas as notas de referências devem ter um atributo 'hlink'."
+msgstr "Todas referências a anotações devem ter um atributo 'hlink'."
 
 #. TRANSLATORS: leave the {date} and {xml} untranslated in the format string,
 #. but you may re-order them if needed.
@@ -19472,7 +19472,7 @@ msgstr "FAM (família) com Gramps ID %s"
 
 #: ../gramps/plugins/lib/libgedcom.py:5310 ../gramps/plugins/lib/libgedcom.py:7463 ../gramps/plugins/lib/libgedcom.py:7503
 msgid "Empty note ignored"
-msgstr "Nota vazia ignorada"
+msgstr "Anotação vazia ignorada"
 
 #. We have previously found a PLAC
 #: ../gramps/plugins/lib/libgedcom.py:5466
@@ -19494,7 +19494,7 @@ msgstr "Local já preenchido; ADDR ignorado"
 #. Note: level+2
 #: ../gramps/plugins/lib/libgedcom.py:5717
 msgid "Empty event note ignored"
-msgstr "Nota de evento vazia ignorada"
+msgstr "Anotação de evento vazia ignorada"
 
 #: ../gramps/plugins/lib/libgedcom.py:6035 ../gramps/plugins/lib/libgedcom.py:6940
 msgid "Warn: ADDR overwritten"
@@ -19518,7 +19518,7 @@ msgstr "SOUR (origem) Gramps ID %s"
 #: ../gramps/plugins/lib/libgedcom.py:6603
 #, python-format
 msgid "OBJE (multi-media object) Gramps ID %s"
-msgstr "OBJE (objeto multimídia) Gramps ID %s"
+msgstr "OBJE (objeto de mídia) Gramps ID %s"
 
 #: ../gramps/plugins/lib/libgedcom.py:6629
 msgid "Multiple FILE in a single OBJE ignored"
@@ -19596,7 +19596,7 @@ msgstr "Linguagem do texto GEDCOM"
 #: ../gramps/plugins/lib/libgedcom.py:7305
 #, python-format
 msgid "Import of GEDCOM file %(filename)s with DEST=%(by)s, could cause errors in the resulting database!"
-msgstr "A importação do arquivo GEDCOM %(filename)s com DEST=%(by)s pode causar erros no banco de dados resultante!"
+msgstr "A importação do arquivo GEDCOM %(filename)s com DEST=%(by)s pode causar erros na base de dados resultante!"
 
 #: ../gramps/plugins/lib/libgedcom.py:7308
 msgid "Look for nameless events."
@@ -19642,7 +19642,7 @@ msgstr "Data e hora de criação do GEDCOM"
 #: ../gramps/plugins/lib/libgedcom.py:7518
 #, python-format
 msgid "NOTE Gramps ID %s"
-msgstr "NOTA Gramps ID %s"
+msgstr "NOTE Gramps ID %s"
 
 #: ../gramps/plugins/lib/libgedcom.py:7568
 msgid "Submission: Submitter"
@@ -22505,7 +22505,7 @@ msgstr "Número de Pais"
 
 #: ../gramps/plugins/lib/libpersonview.py:109
 msgid "Number of To Do Notes"
-msgstr "Número de Anotações de Tarefas"
+msgstr "Número de Tarefas"
 
 #: ../gramps/plugins/lib/libpersonview.py:112 ../gramps/plugins/lib/libplaceview.py:93 ../gramps/plugins/view/citationlistview.py:104 ../gramps/plugins/view/citationtreeview.py:99 ../gramps/plugins/view/eventview.py:89 ../gramps/plugins/view/familyview.py:86 ../gramps/plugins/view/mediaview.py:101 ../gramps/plugins/view/noteview.py:84 ../gramps/plugins/view/repoview.py:99 ../gramps/plugins/view/sourceview.py:89
 msgid "Last Changed"
@@ -22533,7 +22533,7 @@ msgstr "_Excluir pessoa"
 
 #: ../gramps/plugins/lib/libpersonview.py:316
 msgid "Deleting the person will remove the person from the database."
-msgstr "A exclusão da pessoa irá removê-la do banco de dados."
+msgstr "A exclusão da pessoa irá removê-la da base de dados."
 
 #: ../gramps/plugins/lib/libpersonview.py:339
 #, python-format
@@ -23181,11 +23181,11 @@ msgstr "Repositório inverso"
 
 #: ../gramps/plugins/quickview/filterbyname.py:48
 msgid "Filtering_on|Inverse Media"
-msgstr "Objeto multimídia inverso"
+msgstr "Objeto de mídia inverso"
 
 #: ../gramps/plugins/quickview/filterbyname.py:49
 msgid "Filtering_on|Inverse Note"
-msgstr "Nota inversa"
+msgstr "Anotação inversa"
 
 #: ../gramps/plugins/quickview/filterbyname.py:50
 msgid "Filtering_on|all people"
@@ -23217,7 +23217,7 @@ msgstr "todas as mídias"
 
 #: ../gramps/plugins/quickview/filterbyname.py:57
 msgid "Filtering_on|all notes"
-msgstr "todas as notas"
+msgstr "todas as anotações"
 
 #: ../gramps/plugins/quickview/filterbyname.py:58
 msgid "Filtering_on|males"
@@ -23249,23 +23249,23 @@ msgstr "sobrenomes únicos"
 
 #: ../gramps/plugins/quickview/filterbyname.py:68
 msgid "Filtering_on|people with media"
-msgstr "pessoas com objetos multimídia"
+msgstr "pessoas com objetos de mídia"
 
 #: ../gramps/plugins/quickview/filterbyname.py:69
 msgid "Filtering_on|media references"
-msgstr "referências a multimídia"
+msgstr "referências a de mídia"
 
 #: ../gramps/plugins/quickview/filterbyname.py:70
 msgid "Filtering_on|unique media"
-msgstr "objetos multimídia únicos"
+msgstr "objetos de mídia únicos"
 
 #: ../gramps/plugins/quickview/filterbyname.py:71
 msgid "Filtering_on|missing media"
-msgstr "objeto multimídia ausente"
+msgstr "objeto de mídia ausente"
 
 #: ../gramps/plugins/quickview/filterbyname.py:72
 msgid "Filtering_on|media by size"
-msgstr "objeto multimídia por tamanho"
+msgstr "objeto de mídia por tamanho"
 
 #: ../gramps/plugins/quickview/filterbyname.py:73
 msgid "Filtering_on|list of people"
@@ -23318,7 +23318,7 @@ msgstr "sem evento de nascimento"
 
 #: ../gramps/plugins/quickview/filterbyname.py:365
 msgid "Media count"
-msgstr "Número de objetos multimídia"
+msgstr "Número de objetos de mídia"
 
 #: ../gramps/plugins/quickview/filterbyname.py:373 ../gramps/plugins/quickview/linkreferences.py:45 ../gramps/plugins/quickview/onthisday.py:80 ../gramps/plugins/quickview/onthisday.py:81 ../gramps/plugins/quickview/onthisday.py:82 ../gramps/plugins/quickview/references.py:70
 msgid "Reference"
@@ -23326,11 +23326,11 @@ msgstr "Referência"
 
 #: ../gramps/plugins/quickview/filterbyname.py:381
 msgid "Unique Media"
-msgstr "Objeto multimídia único"
+msgstr "Objeto de mídia único"
 
 #: ../gramps/plugins/quickview/filterbyname.py:388
 msgid "Missing Media"
-msgstr "Sem objeto multimídia"
+msgstr "Sem objeto de mídia"
 
 #: ../gramps/plugins/quickview/filterbyname.py:398
 msgid "Size in bytes"
@@ -23401,7 +23401,7 @@ msgstr "Sexo desconhecido"
 #. display the title
 #: ../gramps/plugins/quickview/linkreferences.py:43
 msgid "Link References for this note"
-msgstr "Referências de ligações para esta nota"
+msgstr "Referências de vínculo para esta anotação"
 
 #: ../gramps/plugins/quickview/linkreferences.py:45
 msgid "Link check"
@@ -23421,7 +23421,7 @@ msgstr "Internet"
 
 #: ../gramps/plugins/quickview/linkreferences.py:67
 msgid "No link references for this note"
-msgstr "Sem referências de ligação para esta nota"
+msgstr "Sem referências de vínculo para esta anotação"
 
 #. display the title
 #: ../gramps/plugins/quickview/onthisday.py:77
@@ -23539,7 +23539,7 @@ msgstr "Referências de ligações"
 
 #: ../gramps/plugins/quickview/quickview.gpr.py:229
 msgid "Display link references for a note"
-msgstr "Exibe as referências de ligações para uma nota"
+msgstr "Exibe as referências de vínculos para uma anotação"
 
 #: ../gramps/plugins/quickview/quickview.gpr.py:249
 msgid "Display the repository reference for sources related to the active repository"
@@ -24054,7 +24054,7 @@ msgstr "%(name)s é a mesma pessoa que [%(id_str)s]."
 #: ../gramps/plugins/textreport/detancestralreport.py:347 ../gramps/plugins/textreport/detdescendantreport.py:845
 #, python-format
 msgid "Notes for %s"
-msgstr "Notas para %s"
+msgstr "Anotações para %s"
 
 #: ../gramps/plugins/textreport/detancestralreport.py:365 ../gramps/plugins/textreport/detdescendantreport.py:866
 #, python-format
@@ -24125,11 +24125,11 @@ msgstr "O número Sosa-Stradonitz da pessoa central."
 
 #: ../gramps/plugins/textreport/detancestralreport.py:806 ../gramps/plugins/textreport/detdescendantreport.py:1000 ../gramps/plugins/textreport/indivcomplete.py:1016
 msgid "Page break before end notes"
-msgstr "Quebra de página antes das notas finais"
+msgstr "Quebra de página antes das anotações finais"
 
 #: ../gramps/plugins/textreport/detancestralreport.py:808 ../gramps/plugins/textreport/detdescendantreport.py:1002 ../gramps/plugins/textreport/indivcomplete.py:1018
 msgid "Whether to start a new page before the end notes."
-msgstr "Se deve iniciar uma nova página antes das notas finais."
+msgstr "Se deve iniciar uma nova página antes das anotações finais."
 
 #. Content options
 #. Content
@@ -24195,11 +24195,11 @@ msgstr "Se devem ser adicionadas referências a descendentes na lista de filhos.
 
 #: ../gramps/plugins/textreport/detancestralreport.py:854 ../gramps/plugins/textreport/detdescendantreport.py:1047
 msgid "Include notes"
-msgstr "Incluir notas"
+msgstr "Incluir anotações"
 
 #: ../gramps/plugins/textreport/detancestralreport.py:855 ../gramps/plugins/textreport/detdescendantreport.py:1048
 msgid "Whether to include notes."
-msgstr "Se devem ser incluídas notas."
+msgstr "Se devem ser incluídas anotações."
 
 #: ../gramps/plugins/textreport/detancestralreport.py:858 ../gramps/plugins/textreport/detdescendantreport.py:1051
 msgid "Include attributes"
@@ -24251,11 +24251,11 @@ msgstr "Se devem ser incluídas as fontes de referência."
 
 #: ../gramps/plugins/textreport/detancestralreport.py:882 ../gramps/plugins/textreport/detdescendantreport.py:1076 ../gramps/plugins/textreport/indivcomplete.py:1032
 msgid "Include sources notes"
-msgstr "Incluir notas de fontes"
+msgstr "Incluir anotações de fontes"
 
 #: ../gramps/plugins/textreport/detancestralreport.py:883 ../gramps/plugins/textreport/detdescendantreport.py:1078 ../gramps/plugins/textreport/indivcomplete.py:1034
 msgid "Whether to include source notes in the Endnotes section. Only works if Include sources is selected."
-msgstr "Se devem ser incluídas notas de fontes na seção de 'Notas de Rodapé'. Só funciona se a opção 'Incluir fontes' for selecionada."
+msgstr "Se devem ser incluídas anotações de fontes na seção de 'Anotações de Rodapé'. Só funciona se a opção 'Incluir fontes' for selecionada."
 
 #: ../gramps/plugins/textreport/detancestralreport.py:888
 msgid "Include other events"
@@ -24321,7 +24321,7 @@ msgstr "Ref: %(number)s. %(name)s"
 #: ../gramps/plugins/textreport/detdescendantreport.py:731
 #, python-format
 msgid "Notes for %(mother_name)s and %(father_name)s:"
-msgstr "Notas de %(mother_name)s e %(father_name)s:"
+msgstr "Anotações de %(mother_name)s e %(father_name)s:"
 
 #: ../gramps/plugins/textreport/detdescendantreport.py:986
 msgid "Record (Modified Register) numbering"
@@ -24464,11 +24464,11 @@ msgstr "Se devem ser incluídos os endereços dos pais."
 
 #: ../gramps/plugins/textreport/familygroup.py:757
 msgid "Parent Notes"
-msgstr "Notas dos pais"
+msgstr "Anotações sobre os pais"
 
 #: ../gramps/plugins/textreport/familygroup.py:758
 msgid "Whether to include notes for parents."
-msgstr "Se devem ser incluídas as notas dos pais."
+msgstr "Se devem ser incluídas as anotações sobre os pais."
 
 #: ../gramps/plugins/textreport/familygroup.py:761
 msgid "Parent Attributes"
@@ -24492,7 +24492,7 @@ msgstr "Se devem ser incluídas informações sobre o casamento dos pais."
 
 #: ../gramps/plugins/textreport/familygroup.py:776
 msgid "Whether to include notes for families."
-msgstr "Se devem ser incluídas anotações para famílias."
+msgstr "Se devem ser incluídas anotações sobre as famílias."
 
 #: ../gramps/plugins/textreport/familygroup.py:779
 msgid "Dates of Relatives"
@@ -24607,7 +24607,7 @@ msgstr "Incluir Anotações"
 
 #: ../gramps/plugins/textreport/indivcomplete.py:1057
 msgid "Whether to include Person and Family Notes."
-msgstr "Se devem ser incluídos Anotações de Pessoas e Famílias."
+msgstr "Se devem ser incluídos Anotações sobre Pessoas e Famílias."
 
 #: ../gramps/plugins/textreport/indivcomplete.py:1060
 msgid "Include Tags"
@@ -24916,7 +24916,7 @@ msgstr "Texto do rodapé da página."
 
 #: ../gramps/plugins/textreport/simplebooktitle.py:154
 msgid "Gramps ID of the media object to use as an image."
-msgstr "ID Gramps do objeto multimídia a ser usado como imagem."
+msgstr "ID Gramps do objeto de mídia a ser usado como imagem."
 
 #: ../gramps/plugins/textreport/simplebooktitle.py:157
 msgid "Image Size"
@@ -24928,7 +24928,7 @@ msgstr "Tamanho da imagem em centímetros. Um valor de 0 indica que a imagem dev
 
 #: ../gramps/plugins/textreport/summary.py:91 ../gramps/plugins/textreport/textplugins.gpr.py:345
 msgid "Database Summary Report"
-msgstr "Relatório de sumário do banco de dados"
+msgstr "Relatório de sumário da base de dados"
 
 #: ../gramps/plugins/textreport/summary.py:168
 #, python-format
@@ -24973,7 +24973,7 @@ msgstr "Sobrenomes únicos: %d"
 #: ../gramps/plugins/textreport/summary.py:203
 #, python-format
 msgid "Individuals with media objects: %d"
-msgstr "Indivíduos com objetos multimídia: %d"
+msgstr "Indivíduos com objetos de mídia: %d"
 
 #: ../gramps/plugins/textreport/summary.py:216
 #, python-format
@@ -24983,12 +24983,12 @@ msgstr "Número de famílias: %d"
 #: ../gramps/plugins/textreport/summary.py:248
 #, python-format
 msgid "Number of unique media objects: %d"
-msgstr "Número de objetos multimídia únicos: %d"
+msgstr "Número de objetos de mídia únicos: %d"
 
 #: ../gramps/plugins/textreport/summary.py:253
 #, python-format
 msgid "Total size of media objects: %s MB"
-msgstr "Tamanho total dos objetos multimídia: %s MB"
+msgstr "Tamanho total dos objetos de mídia: %s MB"
 
 #: ../gramps/plugins/textreport/summary.py:291
 msgid "Whether to count private data"
@@ -25134,7 +25134,7 @@ msgstr "Gera uma página de capa para os relatórios de tipo livro."
 
 #: ../gramps/plugins/textreport/textplugins.gpr.py:346
 msgid "Provides a summary of the current database"
-msgstr "Fornece um sumário do banco de dados corrente"
+msgstr "Fornece um sumário da base de dados corrente"
 
 #: ../gramps/plugins/textreport/textplugins.gpr.py:369
 msgid "Produces a table of contents for book reports."
@@ -25150,11 +25150,11 @@ msgstr "Relatório de registros"
 
 #: ../gramps/plugins/textreport/textplugins.gpr.py:434
 msgid "Note Link Report"
-msgstr "Relatório vínculo"
+msgstr "Relatório de vínculo de anotação"
 
 #: ../gramps/plugins/textreport/textplugins.gpr.py:435
 msgid "Shows status of links in notes"
-msgstr "Exibir o estado dos links nas anotações"
+msgstr "Exibir o estado dos vínculos nas anotações"
 
 #: ../gramps/plugins/tool/changenames.glade:35
 msgid ""
@@ -25245,7 +25245,7 @@ msgstr[1] "{number_of} registros de eventos foram modificados."
 
 #: ../gramps/plugins/tool/check.py:106 ../gramps/plugins/tool/check.py:249
 msgid "Checking Database"
-msgstr "Verificando o banco de dados"
+msgstr "Verificando a base de dados"
 
 #: ../gramps/plugins/tool/check.py:107
 msgid "Looking for cross table duplicates"
@@ -25269,7 +25269,7 @@ msgstr "Verificar integridade"
 #: ../gramps/plugins/tool/check.py:251
 #, python-format
 msgid "Objects referenced by this note were referenced but missing so that is why they have been created when you ran Check and Repair on %s."
-msgstr "Os objetos referenciados por esta nota estavam referenciados mas estava faltando, por isso eles foram criados quando você executou verificação e reparação em %s."
+msgstr "Os objetos referenciados por esta anotação estavam referenciados mas estava faltando, por isso eles foram criados quando você executou verificação e reparação em %s."
 
 #: ../gramps/plugins/tool/check.py:273
 msgid "Looking for invalid name format references"
@@ -25285,7 +25285,7 @@ msgstr "Procurando erros de codificação de caracteres"
 
 #: ../gramps/plugins/tool/check.py:390
 msgid "Looking for ctrl characters in notes"
-msgstr "Procurando caracteres ctrl nas notas"
+msgstr "Procurando caracteres ctrl nas anotações"
 
 #: ../gramps/plugins/tool/check.py:416
 msgid "Looking for broken family links"
@@ -25301,7 +25301,7 @@ msgstr "Selecionar arquivo"
 
 #: ../gramps/plugins/tool/check.py:726
 msgid "Media object could not be found"
-msgstr "O objeto multimídia não pôde ser encontrado"
+msgstr "O objeto de mídia não pôde ser encontrado"
 
 #: ../gramps/plugins/tool/check.py:727
 #, python-format
@@ -25315,9 +25315,9 @@ msgid ""
 msgstr ""
 "O arquivo:\n"
 " %(file_name)s \n"
-"não existe, mas o banco de dados faz referência a ele.\n"
+"não existe, mas a base de dados faz referência a ele.\n"
 "O arquivo pode ter sido excluído ou movido para um local diferente.\n"
-"Você pode escolher entre remover a referência do banco de dados,\n"
+"Você pode escolher entre remover a referência da base de dados,\n"
 "deixar como está ou selecionar um novo arquivo."
 
 #: ../gramps/plugins/tool/check.py:809
@@ -25346,7 +25346,7 @@ msgstr "Procurando registros vazios de local"
 
 #: ../gramps/plugins/tool/check.py:857
 msgid "Looking for empty media records"
-msgstr "Procurando registros vazios de objeto multimídia"
+msgstr "Procurando registros vazios de objeto de mídia"
 
 #: ../gramps/plugins/tool/check.py:865
 msgid "Looking for empty repository records"
@@ -25354,7 +25354,7 @@ msgstr "Procurando registros vazios de repositório"
 
 #: ../gramps/plugins/tool/check.py:873
 msgid "Looking for empty note records"
-msgstr "Procurando registros vazios de nota"
+msgstr "Procurando registros com anotações vazias"
 
 #: ../gramps/plugins/tool/check.py:919
 msgid "Looking for empty families"
@@ -25394,11 +25394,11 @@ msgstr "Procurando problemas nas referências a fontes"
 
 #: ../gramps/plugins/tool/check.py:1536
 msgid "Looking for media object reference problems"
-msgstr "Procurando problemas nas referências a objetos multimídia"
+msgstr "Procurando problemas nas referências a objetos de mídia"
 
 #: ../gramps/plugins/tool/check.py:1679
 msgid "Looking for note reference problems"
-msgstr "Procurando problemas nas referências a notas"
+msgstr "Procurando problemas nas referências a anotações"
 
 #: ../gramps/plugins/tool/check.py:1830
 msgid "Updating checksums on media"
@@ -25418,11 +25418,11 @@ msgstr "Nenhum erro foi encontrado"
 
 #: ../gramps/plugins/tool/check.py:2111
 msgid "The database has passed internal checks"
-msgstr "O banco de dados passou pelas verificações internas"
+msgstr "A base de dados passou pelas verificações internas"
 
 #: ../gramps/plugins/tool/check.py:2114
 msgid "No errors were found: the database has passed internal checks."
-msgstr "Nenhum erro foi encontrado: o banco de dados passou pelas verificações internas"
+msgstr "Nenhum erro foi encontrado: a base de dados passou pelas verificações internas"
 
 #. translators: leave all/any {...} untranslated
 #: ../gramps/plugins/tool/check.py:2121
@@ -25641,10 +25641,10 @@ msgstr ""
 "   %(family)d de famílias\n"
 "   %(event)d de eventos\n"
 "   %(source)d de fontes\n"
-"   %(media)d de objetos multimídia\n"
+"   %(media)d de objetos de mídia\n"
 "   %(place)d de locais\n"
 "   %(repo)d de repositórios\n"
-"   %(note)d de notas\n"
+"   %(note)d de anotações\n"
 
 #: ../gramps/plugins/tool/check.py:2444
 msgid "Integrity Check Results"
@@ -25939,7 +25939,7 @@ msgstr ""
 
 #: ../gramps/plugins/tool/mediamanager.py:88
 msgid "Gramps Media Manager"
-msgstr "Gerenciador multimídia do Gramps"
+msgstr "Gerenciador de mídia do Gramps"
 
 #: ../gramps/plugins/tool/mediamanager.py:95 ../gramps/plugins/webreport/narrativeweb.py:1856 ../gramps/plugins/webreport/narrativeweb.py:1969 ../gramps/plugins/webreport/narrativeweb.py:4596
 msgid "Introduction"
@@ -25966,7 +25966,7 @@ msgstr ""
 "\n"
 "Os arquivos contendo imagem, som, video, etc, existem separadamente no seu disco rígido. Esses arquivos não são gerenciados pelo Gramps e não são incluídos na base de dados. A base de dados do Gramps só armazena a localização e o nome do arquivos.\n"
 "\n"
-"Esta ferramenta lhe permitirá apenas modificar os registros na base de dados do Gramps. Se desejar remover ou renomear os arquivos, você tem que fazer isso por conta própria, fora do Gramps. Em seguida, você poderá ajustar a localização usando esta ferramenta, de forma a que o objeto multimídia contenha as localizações corretas dos arquivos."
+"Esta ferramenta lhe permitirá apenas modificar os registros na base de dados do Gramps. Se desejar remover ou renomear os arquivos, você tem que fazer isso por conta própria, fora do Gramps. Em seguida, você poderá ajustar a localização usando esta ferramenta, de forma a que o objeto de mídia contenha as localizações corretas dos arquivos."
 
 #: ../gramps/plugins/tool/mediamanager.py:331
 msgid "Affected path"
@@ -26009,7 +26009,7 @@ msgstr "_Substituir subtexto na localização"
 
 #: ../gramps/plugins/tool/mediamanager.py:476
 msgid "This tool allows replacing specified substring in the path of media objects with another substring. This can be useful when you move your media files from one directory to another"
-msgstr "Esta ferramenta permite a substituição de subtextos especificados na localização dos objetos multimídia por outros subtextos. Isso pode ser útil quando você move seus arquivos multimídia de uma pasta para outra"
+msgstr "Esta ferramenta permite a substituição de subtextos especificados na localização dos objetos de mídia por outros subtextos. Isso pode ser útil quando você move seus arquivos de mídia de uma pasta para outra"
 
 #: ../gramps/plugins/tool/mediamanager.py:482
 msgid "Replace substring settings"
@@ -26056,19 +26056,19 @@ msgstr "Esta ferramenta permite converter localizações de objetos de absolutas
 
 #: ../gramps/plugins/tool/mediamanager.py:631
 msgid "Add images not included in database"
-msgstr "Adicionar imagens não incluídas no banco de dados"
+msgstr "Adicionar imagens não incluídas na base de dados"
 
 #: ../gramps/plugins/tool/mediamanager.py:632
 msgid "Check directories for images not included in database"
-msgstr "Procurar nas pasta por imagens não incluídas no banco de dados"
+msgstr "Procurar nas pasta por imagens não incluídas na base de dados"
 
 #: ../gramps/plugins/tool/mediamanager.py:633
 msgid "This tool adds images in directories that are referenced by existing images in the database."
-msgstr "Esta ferramenta adiciona as imagens existentes nas pastas, que possuem referências a imagens existentes no banco de dados."
+msgstr "Esta ferramenta adiciona as imagens existentes nas pastas, que possuem referências a imagens existentes na base de dados."
 
 #: ../gramps/plugins/tool/mergecitations.glade:145
 msgid "Don't merge if citation has notes"
-msgstr "Não mesclar se as citações tiverem notas"
+msgstr "Não mesclar se as citações tiverem anotações"
 
 #: ../gramps/plugins/tool/mergecitations.py:76
 msgid "Match on Page/Volume, Date and Confidence"
@@ -26092,7 +26092,7 @@ msgstr ""
 
 #: ../gramps/plugins/tool/mergecitations.py:133
 msgid "Notes, media objects and data-items of matching citations will be combined."
-msgstr "Notas, objetos multimídia e itens de dados de citações correspondentes serão combinados."
+msgstr "Anotações, objetos de mídia e itens de dados de citações correspondentes serão combinados."
 
 #: ../gramps/plugins/tool/mergecitations.py:163
 msgid "Merge citations tool"
@@ -26139,7 +26139,7 @@ msgstr "Sem parentesco"
 #: ../gramps/plugins/tool/notrelated.py:171
 #, python-format
 msgid "Everyone in the database is related to %s"
-msgstr "Todas as pessoas no banco de dados têm parentesco com %s"
+msgstr "Todas as pessoas na base de dados têm parentesco com %s"
 
 #. translators: leave all/any {...} untranslated
 #. TRANS: no singular form needed, as rows is always > 1
@@ -26217,11 +26217,11 @@ msgstr ""
 
 #: ../gramps/plugins/tool/ownereditor.py:102
 msgid "Database Owner Editor"
-msgstr "Editor de proprietário do banco de dados"
+msgstr "Editor de proprietário da base de dados"
 
 #: ../gramps/plugins/tool/ownereditor.py:162
 msgid "Edit database owner information"
-msgstr "Editar informações do proprietário do banco de dados"
+msgstr "Editar informações do proprietário da base de dados"
 
 #: ../gramps/plugins/tool/patchnames.glade:86
 msgid "_Accept and close"
@@ -26390,7 +26390,7 @@ msgstr "Procurar por locais"
 
 #: ../gramps/plugins/tool/removeunused.glade:163
 msgid "Search for media"
-msgstr "Procurar por objetos multimídia"
+msgstr "Procurar por objetos de mídia"
 
 #: ../gramps/plugins/tool/removeunused.glade:181
 msgid "Search for repositories"
@@ -26398,7 +26398,7 @@ msgstr "Procurar por repositórios"
 
 #: ../gramps/plugins/tool/removeunused.glade:199
 msgid "Search for notes"
-msgstr "Procurar por notas"
+msgstr "Procurar por anotações"
 
 #: ../gramps/plugins/tool/removeunused.glade:289 ../gramps/plugins/tool/verify.glade:932
 msgid "_Mark all"
@@ -26456,7 +26456,7 @@ msgstr "Reordenando os IDs de eventos"
 
 #: ../gramps/plugins/tool/reorderids.py:107
 msgid "Reordering Media Object IDs"
-msgstr "Reordenando os IDs de objetos multimídia"
+msgstr "Reordenando os IDs de objetos de mídia"
 
 #: ../gramps/plugins/tool/reorderids.py:117
 msgid "Reordering Source IDs"
@@ -26476,7 +26476,7 @@ msgstr "Reordenando os IDs de repositórios"
 
 #: ../gramps/plugins/tool/reorderids.py:158
 msgid "Reordering Note IDs"
-msgstr "Reordenando os IDs de notas"
+msgstr "Reordenando os IDs das anotações"
 
 #: ../gramps/plugins/tool/reorderids.py:170
 msgid "Done."
@@ -26539,12 +26539,12 @@ msgid ""
 "Generate low level database errors\n"
 "Correction needs database reload"
 msgstr ""
-"Gerar erros de banco de dados de baixo nível\n"
-"Correção precisa de recarga de banco de dados"
+"Gerar erros de base de dados de baixo nível\n"
+"Correção precisa de recarga da base de dados"
 
 #: ../gramps/plugins/tool/testcasegenerator.py:260
 msgid "Generate database errors"
-msgstr "Gera erros de banco de dados"
+msgstr "Gera erros de base de dados"
 
 #: ../gramps/plugins/tool/testcasegenerator.py:264
 msgid "Generate dummy data"
@@ -26588,7 +26588,7 @@ msgstr "Gerando famílias"
 
 #: ../gramps/plugins/tool/testcasegenerator.py:389
 msgid "Generating database errors"
-msgstr "Gerando erros de banco de dados"
+msgstr "Gerando erros de base de dados"
 
 #. Creates a media object with character encoding errors. This tests
 #. Check.fix_encoding() and also cleanup_missing_photos
@@ -26641,7 +26641,7 @@ msgstr "Corrigir maiúsculas/minúsculas dos nomes de família"
 
 #: ../gramps/plugins/tool/tools.gpr.py:36
 msgid "Searches the entire database and attempts to fix capitalization of the names."
-msgstr "Verifica no banco de dados inteiro e tenta corrigir incorreções de maiúsculas e minúsculas contidas dos nomes."
+msgstr "Verifica na base de dados inteira e tenta corrigir incorreções de maiúsculas e minúsculas contidas dos nomes."
 
 #: ../gramps/plugins/tool/tools.gpr.py:58
 msgid "Rename Event Types"
@@ -26653,11 +26653,11 @@ msgstr "Permite que todos os eventos de um certo nome sejam renomeados para um n
 
 #: ../gramps/plugins/tool/tools.gpr.py:81
 msgid "Check and Repair Database"
-msgstr "Verificar e reparar o banco de dados"
+msgstr "Verificar e reparar a base de dados"
 
 #: ../gramps/plugins/tool/tools.gpr.py:82
 msgid "Checks the database for integrity problems, fixing the problems that it can"
-msgstr "Procura por problemas de integridade no banco de dados, corrigindo os problemas que forem possíveis"
+msgstr "Procura por problemas de integridade na base de dados, corrigindo os problemas que forem possíveis"
 
 #: ../gramps/plugins/tool/tools.gpr.py:104
 msgid "Compare Individual Events"
@@ -26665,7 +26665,7 @@ msgstr "Comparar eventos individuais"
 
 #: ../gramps/plugins/tool/tools.gpr.py:105
 msgid "Aids in the analysis of data by allowing the development of custom filters that can be applied to the database to find similar events"
-msgstr "Ajuda na análise dos dados permitindo o desenvolvimento de filtros personalizados que podem ser aplicados ao banco de dados, a fim de se encontrar eventos semelhantes"
+msgstr "Ajuda na análise dos dados permitindo o desenvolvimento de filtros personalizados que podem ser aplicados à base de dados, a fim de se encontrar eventos semelhantes"
 
 #: ../gramps/plugins/tool/tools.gpr.py:129
 msgid "Extracts event descriptions from the event data"
@@ -26673,15 +26673,15 @@ msgstr "Extrai descrições dos eventos a partir dos seus dados"
 
 #: ../gramps/plugins/tool/tools.gpr.py:151
 msgid "Searches the entire database, looking for individual entries that may represent the same person."
-msgstr "Verifica no banco de dados inteiro, procurando por registros que possam representar a mesma pessoa."
+msgstr "Verifica no base de dados inteiro, procurando por registros que possam representar a mesma pessoa."
 
 #: ../gramps/plugins/tool/tools.gpr.py:173
 msgid "Media Manager"
-msgstr "Gerenciador multimídia"
+msgstr "Gerenciador de mídia"
 
 #: ../gramps/plugins/tool/tools.gpr.py:174
 msgid "Manages batch operations on media files"
-msgstr "Gerencia operações em lote nos arquivos multimídia"
+msgstr "Gerencia operações em lote nos arquivos de mídia"
 
 #: ../gramps/plugins/tool/tools.gpr.py:195
 msgid "Not Related"
@@ -26693,11 +26693,11 @@ msgstr "Encontra pessoas que não têm qualquer parentesco com a pessoa selecion
 
 #: ../gramps/plugins/tool/tools.gpr.py:218
 msgid "Edit Database Owner Information"
-msgstr "Editar informações do proprietário do banco de dados"
+msgstr "Editar informações do proprietário da base de dados"
 
 #: ../gramps/plugins/tool/tools.gpr.py:219
 msgid "Allow editing database owner information."
-msgstr "Permite editar as informações do proprietário do banco de dados."
+msgstr "Permite editar as informações do proprietário da base de dados."
 
 #: ../gramps/plugins/tool/tools.gpr.py:240
 msgid "Extract Information from Names"
@@ -26745,7 +26745,7 @@ msgstr "Remover objetos não utilizados"
 
 #: ../gramps/plugins/tool/tools.gpr.py:351
 msgid "Removes unused objects from the database"
-msgstr "Remove objetos não utilizados do banco de dados"
+msgstr "Remove objetos não utilizados da base de dados"
 
 #: ../gramps/plugins/tool/tools.gpr.py:373
 msgid "Reorders the Gramps IDs according to Gramps' default rules."
@@ -26765,7 +26765,7 @@ msgstr "Verifica os dados com os testes definidos pelo usuário"
 
 #: ../gramps/plugins/tool/tools.gpr.py:440
 msgid "Searches the entire database, looking for citations that have the same Volume/Page, Date and Confidence."
-msgstr "Verifica no banco de dados inteiro, procurando por citações que possam representar o mesmo volume/página, data e confiança."
+msgstr "Verifica na base de dados inteiro, procurando por citações que possam representar o mesmo volume/página, data e confiança."
 
 #: ../gramps/plugins/tool/tools.gpr.py:463
 msgid "Searches the entire database, looking for a possible loop."
@@ -27570,11 +27570,11 @@ msgstr "Visualização que mostra os locais visitados por duas pessoas durante a
 
 #: ../gramps/plugins/view/geography.gpr.py:171
 msgid "All known Places"
-msgstr "Todos os locais conhecidos"
+msgstr "Todos os lugares conhecidos"
 
 #: ../gramps/plugins/view/geography.gpr.py:172
 msgid "A view showing all places of the database."
-msgstr "Visualização que mostra todos os locais do banco de dados."
+msgstr "Visualização que mostra todos os lugares da base de dados."
 
 #: ../gramps/plugins/view/geography.gpr.py:187
 msgid "All places related to Events"
@@ -27582,7 +27582,7 @@ msgstr "Todos os locais relacionados aos eventos"
 
 #: ../gramps/plugins/view/geography.gpr.py:188
 msgid "A view showing all the event places of the database."
-msgstr "Visualização que mostra todos locais de eventos do banco de dados."
+msgstr "Visualização que mostra todos locais de eventos da base de dados."
 
 #: ../gramps/plugins/view/geomoves.py:142
 msgid "Descendance of the active person."
@@ -27705,19 +27705,19 @@ msgstr "Mostrar todos os locais"
 
 #: ../gramps/plugins/view/mediaview.py:113
 msgid "Edit the selected media object"
-msgstr "Editar o objeto multimídia selecionado"
+msgstr "Editar o objeto de mídia selecionado"
 
 #: ../gramps/plugins/view/mediaview.py:114
 msgid "Delete the selected media object"
-msgstr "Excluir o objeto multimídia selecionado"
+msgstr "Excluir o objeto de mídia selecionado"
 
 #: ../gramps/plugins/view/mediaview.py:115
 msgid "Merge the selected media objects"
-msgstr "Mesclar os objetos multimídia selecionados"
+msgstr "Mesclar os objetos de mídia selecionados"
 
 #: ../gramps/plugins/view/mediaview.py:208
 msgid "Media Filter Editor"
-msgstr "Editor de filtro multimídia"
+msgstr "Editor de filtro de mídia"
 
 #: ../gramps/plugins/view/mediaview.py:211
 msgid "View in the default viewer"
@@ -27725,35 +27725,35 @@ msgstr "Exibir no visualizador padrão"
 
 #: ../gramps/plugins/view/mediaview.py:215
 msgid "Open the folder containing the media file"
-msgstr "Abrir a pasta que contém o arquivo multimídia"
+msgstr "Abrir a pasta que contém o arquivo de mídia"
 
 #: ../gramps/plugins/view/mediaview.py:349
 msgid "Cannot merge media objects."
-msgstr "Não foi possível mesclar os objetos multimídia."
+msgstr "Não foi possível mesclar os objetos de mídia."
 
 #: ../gramps/plugins/view/mediaview.py:350
 msgid "Exactly two media objects must be selected to perform a merge. A second object can be selected by holding down the control key while clicking on the desired object."
-msgstr "Obrigatoriamente dois objetos multimídia precisam ser selecionadas para se realizar uma fusão. Um segundo objeto pode ser selecionado mantendo-se pressionada a tecla Ctrl e clicando sobre o objeto desejado."
+msgstr "Obrigatoriamente dois objetos de mídia precisam ser selecionadas para se realizar uma fusão. Um segundo objeto pode ser selecionado mantendo-se pressionada a tecla Ctrl e clicando sobre o objeto desejado."
 
 #: ../gramps/plugins/view/noteview.py:95
 msgid "Delete the selected note"
-msgstr "Excluir a nota selecionada"
+msgstr "Excluir a anotação selecionada"
 
 #: ../gramps/plugins/view/noteview.py:96
 msgid "Merge the selected notes"
-msgstr "Mesclar as notas selecionadas"
+msgstr "Mesclar as anotações selecionadas"
 
 #: ../gramps/plugins/view/noteview.py:199
 msgid "Note Filter Editor"
-msgstr "Editor de filtro de notas"
+msgstr "Editor de filtro de anotações"
 
 #: ../gramps/plugins/view/noteview.py:241
 msgid "Cannot merge notes."
-msgstr "Não foi possível mesclar as notas."
+msgstr "Não foi possível mesclar as anotações."
 
 #: ../gramps/plugins/view/noteview.py:242
 msgid "Exactly two notes must be selected to perform a merge. A second note can be selected by holding down the control key while clicking on the desired note."
-msgstr "Obrigatoriamente duas notas precisam ser selecionadas para se realizar uma fusão. Uma segunda nota pode ser selecionada mantendo-se pressionada a tecla Ctrl e clicando sobre a nota desejada."
+msgstr "Obrigatoriamente duas anotações precisam ser selecionadas para se realizar uma fusão. Uma segunda anotação pode ser selecionada mantendo-se pressionada a tecla Ctrl e clicando sobre a anotação desejada."
 
 #: ../gramps/plugins/view/pedigreeview.py:80
 msgid "short for born|b."
@@ -28013,7 +28013,7 @@ msgstr "Detectada família inconsistente"
 
 #: ../gramps/plugins/view/relview.py:1355
 msgid "Please run the Check and Repair Database tool"
-msgstr "Por favor, execute a ferramenta de verificação e reparação de banco de dados"
+msgstr "Por favor, execute a ferramenta de verificação e reparação da base de dados"
 
 #. translators: leave all/any {...} untranslated
 #: ../gramps/plugins/view/relview.py:1377 ../gramps/plugins/view/relview.py:1424
@@ -28117,11 +28117,11 @@ msgstr "Visualização que mostra os Gramplets"
 
 #: ../gramps/plugins/view/view.gpr.py:81
 msgid "The view showing all the media objects"
-msgstr "Visualização de todos os objetos multimídia"
+msgstr "Visualização de todos os objetos de mídia"
 
 #: ../gramps/plugins/view/view.gpr.py:96
 msgid "The view showing all the notes"
-msgstr "Visualização de todas as notas"
+msgstr "Visualização de todas as anotações"
 
 #: ../gramps/plugins/view/view.gpr.py:111
 msgid "The view showing all relationships of the selected person"
@@ -28304,7 +28304,7 @@ msgstr "Mapa da família"
 #: ../gramps/plugins/webreport/narrativeweb.py:3197
 #, python-format
 msgid "This page contains an index of all the individuals in the database with the surname of %s. Selecting the person&#8217;s name will take you to that person&#8217;s individual page."
-msgstr "Esta página contém um índice de todos os indivíduos no banco de dados cujo sobrenome é %s. Ao selecionar o nome da pessoa, você será levado à sua página individual."
+msgstr "Esta página contém um índice de todos os indivíduos na base de dados cujo sobrenome é %s. Ao selecionar o nome da pessoa, você será levado à sua página individual."
 
 #. Name Column
 #: ../gramps/plugins/webreport/narrativeweb.py:3214 ../gramps/plugins/webreport/narrativeweb.py:6049
@@ -28323,7 +28323,7 @@ msgstr "Criando páginas da família..."
 #. Families list page message
 #: ../gramps/plugins/webreport/narrativeweb.py:3423
 msgid "This page contains an index of all the families/ relationships in the database, sorted by their family name/ surname. Clicking on a person&#8217;s name will take you to their family/ relationship&#8217;s page."
-msgstr "Esta página contém um índice de todas as famílias/parentescos do banco de dados, ordenados por nome/sobrenome da família. Ao clicar no nome da pessoa&#8217;, você será levado à página da família/parentesco&#8217; dela."
+msgstr "Esta página contém um índice de todas as famílias/parentescos da base de dados, ordenados por nome/sobrenome da família. Ao clicar no nome da pessoa&#8217;, você será levado à página da família/parentesco&#8217; dela."
 
 #: ../gramps/plugins/webreport/narrativeweb.py:3469 ../gramps/plugins/webreport/narrativeweb.py:3782 ../gramps/plugins/webreport/narrativeweb.py:4131 ../gramps/plugins/webreport/narrativeweb.py:4476
 msgid "Letter"
@@ -28340,7 +28340,7 @@ msgstr "Criando páginas de locais"
 #. place list page message
 #: ../gramps/plugins/webreport/narrativeweb.py:3754
 msgid "This page contains an index of all the places in the database, sorted by their title. Clicking on a place&#8217;s title will take you to that place&#8217;s page."
-msgstr "Esta página contém um índice de todos os locais do banco de dados, ordenados por título. Ao clicar no título de um local, você será levado à sua página."
+msgstr "Esta página contém um índice de todos os lugares da base de dados, ordenados por título. Ao clicar no título de um lugar, você será levado à sua página."
 
 #: ../gramps/plugins/webreport/narrativeweb.py:3783
 msgid "Place Name | Name"
@@ -28362,7 +28362,7 @@ msgstr "Criando páginas de eventos"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:4104
 msgid "This page contains an index of all the events in the database, sorted by their type and date (if one is present). Clicking on an event&#8217;s Gramps ID will open a page for that event."
-msgstr "Esta página contém um índice de todos os eventos do banco de dados, ordenados por tipo e data (se um deles estiver presente). Ao clicar em um ID Gramps do evento, você será levado à página daquele local."
+msgstr "Esta página contém um índice de todos os eventos da base de dados, ordenados por tipo e data (se um deles estiver presente). Ao clicar em um ID Gramps do evento, você será levado à página daquele local."
 
 #: ../gramps/plugins/webreport/narrativeweb.py:4199
 #, python-format
@@ -28376,7 +28376,7 @@ msgstr "Contagem de sobrenomes por pessoa"
 #. page message
 #: ../gramps/plugins/webreport/narrativeweb.py:4445
 msgid "This page contains an index of all the surnames in the database. Selecting a link will lead to a list of individuals in the database with this same surname."
-msgstr "Esta página contém um índice de todos os sobrenomes do banco de dados. Ao selecionar um link, você será levado a uma lista de indivíduos do banco de dados que possuem este mesmo sobrenome."
+msgstr "Esta página contém um índice de todos os sobrenomes da base de dados. Ao selecionar um link, você será levado a uma lista de indivíduos da base de dados que possuem este mesmo sobrenome."
 
 #: ../gramps/plugins/webreport/narrativeweb.py:4490
 msgid "Number of People"
@@ -28397,7 +28397,7 @@ msgstr "Criando páginas de fontes de referência"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:4771
 msgid "This page contains an index of all the sources in the database, sorted by their title. Clicking on a source&#8217;s title will take you to that source&#8217;s page."
-msgstr "Esta página contém um índice de todas as fontes de referência no banco de dados, ordenadas por título. Ao clicar no o título de uma fonte de referência, você será levado à sua página."
+msgstr "Esta página contém um índice de todas as fontes de referência na base de dados, ordenadas por título. Ao clicar no o título de uma fonte de referência, você será levado à sua página."
 
 #: ../gramps/plugins/webreport/narrativeweb.py:4790
 msgid "Source Name|Name"
@@ -28409,11 +28409,11 @@ msgstr "Informações de publicação"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:4971
 msgid "Creating media pages"
-msgstr "Criando páginas de multimídia"
+msgstr "Criando páginas de de mídia"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:5019
 msgid "This page contains an index of all the media objects in the database, sorted by their title. Clicking on the title will take you to that media object&#8217;s page.  If you see media size dimensions above an image, click on the image to see the full sized version.  "
-msgstr "Esta página contém um índice de todos os objetos multimídia no banco de dados, ordenados por título. Ao clicar no título, você será levado à página daquele objeto multimídia. Se você ver as dimensões da imagem multimídia acima da miniatura, clique na imagem para vê-la no seu tamanho real.  "
+msgstr "Esta página contém um índice de todos os objetos de mídia na base de dados, ordenados por título. Ao clicar no título, você será levado à página daquele objeto de mídia. Se você ver as dimensões da imagem de mídia acima da miniatura, clique na imagem para vê-la no seu tamanho real.  "
 
 #: ../gramps/plugins/webreport/narrativeweb.py:5044
 msgid "Media | Name"
@@ -28451,11 +28451,11 @@ msgstr "Tipo de arquivo"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:5498
 msgid "Missing media object:"
-msgstr "Objeto multimídia ausente:"
+msgstr "Objeto de mídia ausente:"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:5561
 msgid "This page displays a indexed list of all the media objects in this database.  It is sorted by media title.  There is an index of all the media objects in this database.  Clicking on a thumbnail will take you to that image&#8217;s page."
-msgstr "Esta página apresenta uma lista indexada de todos os objetos multimídia do banco de dados. Ela é ordenada pelo título da mídia. Existe um índices de todos os objetos multimídia no banco de dados. Ao clicar em uma miniatura, você será levado à página da imagem."
+msgstr "Esta página apresenta uma lista indexada de todos os objetos de mídia da base de dados. Ela é ordenada pelo título da mídia. Existe um índices de todos os objetos de mídia na base de dados. Ao clicar em uma miniatura, você será levado à página da imagem."
 
 #: ../gramps/plugins/webreport/narrativeweb.py:5580
 msgid "Thumbnail Preview"
@@ -28480,7 +28480,7 @@ msgstr "Criando páginas individuais"
 #. Individual List page message
 #: ../gramps/plugins/webreport/narrativeweb.py:6022
 msgid "This page contains an index of all the individuals in the database, sorted by their last names. Selecting the person&#8217;s name will take you to that person&#8217;s individual page."
-msgstr "Esta página contém um índice de todos os indivíduos no banco de dados, ordenados pelos seus últimos nomes. Ao selecionar o nome da pessoa, você será levado à sua página individual."
+msgstr "Esta página contém um índice de todos os indivíduos na base de dados, ordenados pelos seus últimos nomes. Ao selecionar o nome da pessoa, você será levado à sua página individual."
 
 #: ../gramps/plugins/webreport/narrativeweb.py:6102
 #, python-format
@@ -28551,7 +28551,7 @@ msgstr "Criando páginas de repositórios"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:7644
 msgid "This page contains an index of all the repositories in the database, sorted by their title. Clicking on a repositories&#8217;s title will take you to that repositories&#8217;s page."
-msgstr "Esta página contém um índice de todos os repositórios no banco de dados, ordenados por título. Ao clicar no título de um repositório, você será levado à sua página."
+msgstr "Esta página contém um índice de todos os repositórios na base de dados, ordenados por título. Ao clicar no título de um repositório, você será levado à sua página."
 
 #: ../gramps/plugins/webreport/narrativeweb.py:7661
 msgid "Repository |Name"
@@ -28560,7 +28560,7 @@ msgstr "Nome"
 #. Address Book Page message
 #: ../gramps/plugins/webreport/narrativeweb.py:7810
 msgid "This page contains an index of all the individuals in the database, sorted by their surname, with one of the following: Address, Residence, or Web Links. Selecting the person&#8217;s name will take you to their individual Address Book page."
-msgstr "Esta página contém um índice de todos os indivíduos no banco de dados, ordenados pelos seus sobrenomes, juntamente com uma das seguintes informações: Endereço, residência ou links da Web. Ao selecionar o nome da pessoa, você será levado à página do livro de endereços daquela pessoa."
+msgstr "Esta página contém um índice de todos os indivíduos na base de dados, ordenados pelos seus sobrenomes, juntamente com uma das seguintes informações: Endereço, residência ou links da Web. Ao selecionar o nome da pessoa, você será levado à página do livro de endereços daquela pessoa."
 
 #: ../gramps/plugins/webreport/narrativeweb.py:7832
 msgid "Full Name"
@@ -28591,7 +28591,7 @@ msgstr "ID=%(grampsid)s, localização=%(dir)s"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:8265
 msgid "Missing media objects:"
-msgstr "Objetos multimídia ausentes:"
+msgstr "Objetos de mídia ausentes:"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:8295
 msgid "Applying Person Filter..."
@@ -28743,11 +28743,11 @@ msgstr "Geração de página"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:9438
 msgid "Home page note"
-msgstr "Nota da página inicial"
+msgstr "Anotação da página inicial"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:9439
 msgid "A note to be used on the home page"
-msgstr "Nota a ser usada na página inicial"
+msgstr "Anotação a ser usada na página inicial"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:9442
 msgid "Home page image"
@@ -28775,7 +28775,7 @@ msgstr "Uma imagem a ser usada como introdução"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:9454
 msgid "Publisher contact note"
-msgstr "Nota com os dados de contato do editor"
+msgstr "Anotação com os dados de contato do editor"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:9455
 msgid ""
@@ -28783,7 +28783,7 @@ msgid ""
 "If no publisher information is given,\n"
 "no contact page will be created"
 msgstr ""
-"Um nota a ser usada como contato do editor.\n"
+"Um anotação a ser usada como contato do editor.\n"
 "Se nenhuma informação do editor é fornecida,\n"
 "nenhuma página de contato será criada"
 
@@ -28807,7 +28807,7 @@ msgstr "Cabeçalho do usuário em HTML"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:9469
 msgid "A note to be used as the page header"
-msgstr "Nota a ser usada como cabeçalho da página"
+msgstr "Anotação a ser usada como cabeçalho da página"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:9472
 msgid "HTML user footer"
@@ -28815,15 +28815,15 @@ msgstr "Rodapé do usuário em HTML"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:9473
 msgid "A note to be used as the page footer"
-msgstr "Nota a ser usada como rodapé da página"
+msgstr "Anotação a ser usada como rodapé da página"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:9476
 msgid "Include images and media objects"
-msgstr "Incluir imagens e objetos multimídia"
+msgstr "Incluir imagens e objetos de mídia"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:9478
 msgid "Whether to include a gallery of media objects"
-msgstr "Se deve ser incluída uma galeria de objetos multimídia"
+msgstr "Se deve ser incluída uma galeria de objetos de mídia"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:9484
 msgid "Include unused images and media objects"
@@ -28847,7 +28847,7 @@ msgstr "Largura máxima da imagem inicial"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:9503
 msgid "This allows you to set the maximum width of the image shown on the media page. Set to 0 for no limit."
-msgstr "Permite-lhe definir a largura máxima da imagem mostrada na página de objetos multimídia. Defina como 0 para largura ilimitada."
+msgstr "Permite-lhe definir a largura máxima da imagem mostrada na página de objetos de mídia. Defina como 0 para largura ilimitada."
 
 #: ../gramps/plugins/webreport/narrativeweb.py:9508
 msgid "Max height of initial image"
@@ -28855,7 +28855,7 @@ msgstr "Altura máxima da imagem inicial"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:9510
 msgid "This allows you to set the maximum height of the image shown on the media page. Set to 0 for no limit."
-msgstr "Permite-lhe definir a altura máxima da imagem mostrada na página de objetos multimídia. Defina como 0 para altura ilimitada."
+msgstr "Permite-lhe definir a altura máxima da imagem mostrada na página de objetos de mídia. Defina como 0 para altura ilimitada."
 
 #: ../gramps/plugins/webreport/narrativeweb.py:9516
 msgid "Suppress Gramps ID"
@@ -28871,7 +28871,7 @@ msgstr "Incluir página de download"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:9540
 msgid "Whether to include a database download option"
-msgstr "Se deve ser incluída a opção de download do banco de dados"
+msgstr "Se deve ser incluída a opção de download da base de dados"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:9545 ../gramps/plugins/webreport/narrativeweb.py:9557
 msgid "Download Filename"
@@ -28879,7 +28879,7 @@ msgstr "Nome do arquivo de download"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:9548 ../gramps/plugins/webreport/narrativeweb.py:9560
 msgid "File to be used for downloading of database"
-msgstr "Arquivo a ser usado para download do banco de dados"
+msgstr "Arquivo a ser usado para download da base de dados"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:9551 ../gramps/plugins/webreport/narrativeweb.py:9563
 msgid "Description for download"
@@ -29209,107 +29209,107 @@ msgstr "A ligação a ser incluída para conduzir o usuário para a página prin
 
 #: ../gramps/plugins/webreport/webcal.py:1744
 msgid "Jan - Jun Notes"
-msgstr "Notas de jan - jun"
+msgstr "Aotações de jan - jun"
 
 #: ../gramps/plugins/webreport/webcal.py:1746
 msgid "January Note"
-msgstr "Nota de janeiro"
+msgstr "Anotação de janeiro"
 
 #: ../gramps/plugins/webreport/webcal.py:1747
 msgid "The note for the month of January"
-msgstr "Nota para o mês de janeiro"
+msgstr "Anotação para o mês de janeiro"
 
 #: ../gramps/plugins/webreport/webcal.py:1750
 msgid "February Note"
-msgstr "Nota de fevereiro"
+msgstr "Anotação de fevereiro"
 
 #: ../gramps/plugins/webreport/webcal.py:1751
 msgid "The note for the month of February"
-msgstr "Nota para o mês de fevereiro"
+msgstr "Anotação para o mês de fevereiro"
 
 #: ../gramps/plugins/webreport/webcal.py:1754
 msgid "March Note"
-msgstr "Nota de março"
+msgstr "Anotação de março"
 
 #: ../gramps/plugins/webreport/webcal.py:1755
 msgid "The note for the month of March"
-msgstr "Nota para o mês de março"
+msgstr "Anotação para o mês de março"
 
 #: ../gramps/plugins/webreport/webcal.py:1758
 msgid "April Note"
-msgstr "Nota de abril"
+msgstr "Anotação de abril"
 
 #: ../gramps/plugins/webreport/webcal.py:1759
 msgid "The note for the month of April"
-msgstr "Nota para o mês de abril"
+msgstr "Anotação para o mês de abril"
 
 #: ../gramps/plugins/webreport/webcal.py:1762
 msgid "May Note"
-msgstr "Nota de maio"
+msgstr "Anotação de maio"
 
 #: ../gramps/plugins/webreport/webcal.py:1763
 msgid "The note for the month of May"
-msgstr "Nota para o mês de maio"
+msgstr "Anotação para o mês de maio"
 
 #: ../gramps/plugins/webreport/webcal.py:1766
 msgid "June Note"
-msgstr "Nota de junho"
+msgstr "Anotação de junho"
 
 #: ../gramps/plugins/webreport/webcal.py:1767
 msgid "The note for the month of June"
-msgstr "Nota para o mês de junho"
+msgstr "Anotação para o mês de junho"
 
 #: ../gramps/plugins/webreport/webcal.py:1770
 msgid "Jul - Dec Notes"
-msgstr "Notas de jul -dez"
+msgstr "Anotações de jul a dez"
 
 #: ../gramps/plugins/webreport/webcal.py:1772
 msgid "July Note"
-msgstr "Nota de julho"
+msgstr "Anotação de julho"
 
 #: ../gramps/plugins/webreport/webcal.py:1773
 msgid "The note for the month of July"
-msgstr "Nota para o mês de julho"
+msgstr "Anotação para o mês de julho"
 
 #: ../gramps/plugins/webreport/webcal.py:1776
 msgid "August Note"
-msgstr "Nota de agosto"
+msgstr "Anotação de agosto"
 
 #: ../gramps/plugins/webreport/webcal.py:1777
 msgid "The note for the month of August"
-msgstr "Nota para o mês de agosto"
+msgstr "Anotação para o mês de agosto"
 
 #: ../gramps/plugins/webreport/webcal.py:1780
 msgid "September Note"
-msgstr "Nota de setembro"
+msgstr "Anotação de setembro"
 
 #: ../gramps/plugins/webreport/webcal.py:1781
 msgid "The note for the month of September"
-msgstr "Nota para o mês de setembro"
+msgstr "Anotação para o mês de setembro"
 
 #: ../gramps/plugins/webreport/webcal.py:1784
 msgid "October Note"
-msgstr "Nota de outubro"
+msgstr "Anotação de outubro"
 
 #: ../gramps/plugins/webreport/webcal.py:1785
 msgid "The note for the month of October"
-msgstr "Nota para o mês de outubro"
+msgstr "Anotação para o mês de outubro"
 
 #: ../gramps/plugins/webreport/webcal.py:1788
 msgid "November Note"
-msgstr "Nota de novembro"
+msgstr "Anotação de novembro"
 
 #: ../gramps/plugins/webreport/webcal.py:1789
 msgid "The note for the month of November"
-msgstr "Nota para o mês de novembro"
+msgstr "Anotação para o mês de novembro"
 
 #: ../gramps/plugins/webreport/webcal.py:1792
 msgid "December Note"
-msgstr "Nota de dezembro"
+msgstr "Anotação de dezembro"
 
 #: ../gramps/plugins/webreport/webcal.py:1793
 msgid "The note for the month of December"
-msgstr "Nota para o mês de dezembro"
+msgstr "Anotação para o mês de dezembro"
 
 #: ../gramps/plugins/webreport/webcal.py:1810
 msgid "Create one day event pages for Year At A Glance calendar"
