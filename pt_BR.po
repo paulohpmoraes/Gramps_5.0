@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: GRAMPS 4.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-29 23:03-0700\n"
-"PO-Revision-Date: 2016-08-22 20:33-0300\n"
+"PO-Revision-Date: 2016-08-24 20:18-0300\n"
 "Last-Translator: Paulo Henrique Paiva de Moraes <paulohpmoraes@gmail.com>\n"
 "Language-Team: \n"
 "Language: pt_BR\n"
@@ -24,15 +24,15 @@ msgstr ""
 
 #: ../data/gramps.appdata.xml.in.h:1
 msgid "Gramps is a genealogy program that is both intuitive for hobbyists and feature-complete for professional genealogists."
-msgstr "Gramps é um programa de genealogia que é intuitivo para os entusiastas e rico em recursos para os genealogistas profissionais."
+msgstr "Gramps é um programa de genealogia intuitivo para amadores e rico em recursos para os genealogistas profissionais."
 
 #: ../data/gramps.appdata.xml.in.h:2
 msgid "It gives you the ability to record the many details of the life of an individual as well as the complex relationships between various people, places and events."
-msgstr "Ele oferece-lhe a capacidade de registrar os diversos de talhes da vida de um indivíduo bem como as relações complexas entre várias pessoas, lugares e eventos."
+msgstr "Ele oferece a capacidade de registrar os diversos detalhes da vida de uma pessoa bem como as relações complexas entre várias pessoas, lugares e eventos."
 
 #: ../data/gramps.appdata.xml.in.h:3
 msgid "All of your research is kept organized, searchable and as precise as you need it to be."
-msgstr "Toda sua pesquisa é mantida organizada, pesquisável e tão preciso quanto você precisa que ele seja."
+msgstr "Sua pesquisa é mantida organizada, pesquisável e tão precisa quanto você precisa que ele seja."
 
 #: ../data/gramps.desktop.in.h:1 ../gramps/gui/glade/displaystate.glade:8
 msgid "Gramps"
@@ -76,7 +76,7 @@ msgstr "GeneWeb"
 
 #: ../data/gramps.xml.in.h:5
 msgid "GeneWeb source file"
-msgstr "Arquivo de origem GeneWeb"
+msgstr "Arquivo fonte GeneWeb"
 
 #: ../data/holidays.xml.in.h:1
 msgid "Bulgaria"
@@ -137,7 +137,7 @@ msgstr "Estados Unidos da América"
 
 #: ../data/holidays.xml.in.h:15
 msgid "Jewish Holidays"
-msgstr "FeriadosJudaicos"
+msgstr "Feriados judaicos"
 
 #: ../data/holidays.xml.in.h:16
 msgid "Purim"
@@ -221,35 +221,35 @@ msgstr "Simhat Tora"
 
 #: ../data/holidays.xml.in.h:36
 msgid "Hanuka"
-msgstr "Hanuka"
+msgstr "Hanucá"
 
 #: ../data/holidays.xml.in.h:37
 msgid "2 of Hanuka"
-msgstr "2 de Hanuka"
+msgstr "2 de Hanucá"
 
 #: ../data/holidays.xml.in.h:38
 msgid "3 of Hanuka"
-msgstr "3 de Hanuka"
+msgstr "3 de Hanucá"
 
 #: ../data/holidays.xml.in.h:39
 msgid "4 of Hanuka"
-msgstr "4 de Hanuka"
+msgstr "4 de Hanucá"
 
 #: ../data/holidays.xml.in.h:40
 msgid "5 of Hanuka"
-msgstr "5 de Hanuka"
+msgstr "5 de Hanucá"
 
 #: ../data/holidays.xml.in.h:41
 msgid "6 of Hanuka"
-msgstr "6 de Hanuka"
+msgstr "6 de Hanucá"
 
 #: ../data/holidays.xml.in.h:42
 msgid "7 of Hanuka"
-msgstr "7 de Hanuka"
+msgstr "7 de Hanucá"
 
 #: ../data/holidays.xml.in.h:43
 msgid "8 of Hanuka"
-msgstr "8 de Hanuka"
+msgstr "8 de Hanucá"
 
 #: ../data/holidays.xml.in.h:44
 msgid "New Zealand"
@@ -269,19 +269,19 @@ msgstr "Sérvia (Latim)"
 
 #: ../data/tips.xml.in.h:1
 msgid "<b>Working with Dates</b><br/>A range of dates can be given by using the format &quot;between January 4, 2000 and March 20, 2003&quot;. You can also indicate the level of confidence in a date and even choose between seven different calendars. Try the button next to the date field in the Events Editor."
-msgstr "<b>Trabalhando com datas</b><br/>Um intervalo de datas pode ser fornecido usando o formato &quot;entre 4 de janeiro de 2000 e 20 de março de 2003&quot;. Você também pode indicar o nível de confiança na data e até escolher entre sete diferentes calendários. Experimente o botão ao lado do campo de data no editor de eventos."
+msgstr "<b>Trabalhando com datas</b><br/>Um intervalo de datas pode ser fornecido usando o formato &quot;entre 4 de janeiro de 2000 e 20 de março de 2003&quot;. Você também pode indicar o nível de confiança da data e até escolher entre sete calendários diferentes. Experimente o botão ao lado do campo de data no editor de eventos."
 
 #: ../data/tips.xml.in.h:2
 msgid "<b>Editing Objects</b><br/>In most cases double clicking on a name, source, place or media entry will bring up a window to allow you to edit the object. Note that the result can be dependent on context. For example, in the Family View clicking on a parent or child will bring up the Relationship Editor."
-msgstr "<b>Edição de objetos</b><br/>Na maioria dos casos ao se clicar duas vezes em um item de nome, fonte de referência, lugar ou objeto de mídia será aberta uma janela que permitirá a edição do objeto. Observe que o resultado pode depender do contexto. Por exemplo, ao se clicar em um pai/mãe na exibição de famílias, o editor de parentesco será aberto."
+msgstr "<b>Edição de objetos</b><br/>Na maioria dos casos, ao se clicar duas vezes em um item de nome, fonte de referência, lugar ou objeto de mídia será aberta uma janela que permitirá a edição do objeto. Observe que o resultado pode depender do contexto. Por exemplo, ao se clicar em um pai/mãe na exibição de famílias, o editor de parentesco será aberto."
 
 #: ../data/tips.xml.in.h:3
 msgid "<b>Adding Images</b><br/>An image can be added to any gallery or the Media View by dragging and dropping it from a file manager or a web browser. Actually you can add any type of file like this, useful for scans of documents and other digital sources."
-msgstr "<b>Adição de imagens</b><br/>Uma imagem pode ser adicionada à qualquer galeria ou à visualização de mídia ao se arrastar e soltar a imagem de um gerenciador de arquivos ou navegador da Internet. Na verdade, você pode adicionar qualquer tipo de arquivo como este, útil para verificações de documentos e outras fontes digitais."
+msgstr "<b>Adição de imagens</b><br/>Uma imagem pode ser adicionada a qualquer galeria ou à visualização de mídia arrastando e soltando a imagem de um gerenciador de arquivos ou navegador da Internet. Na verdade, você pode adicionar qualquer tipo de arquivo como este, útil com documentos digitalizados e outras fontes digitais."
 
 #: ../data/tips.xml.in.h:4
 msgid "<b>Ordering Children in a Family</b><br/>The birth order of children in a family can be set by using drag and drop. This order is preserved even when they do not have birth dates."
-msgstr "<b>Ordenando filhos de uma família</b><br/>A ordem de nascimento de um filho(a) em uma família pode ser definida usando o recurso de arrastar e soltar. Esta ordem é sempre mantida quando eles não possuem data de nascimento definida."
+msgstr "<b>Ordenando filhos de uma família</b><br/>A ordem de nascimento dos um filhos em uma família pode ser definida usando o recurso de arrastar e soltar. Esta ordem é sempre mantida quando eles não possuem data de nascimento definida."
 
 #: ../data/tips.xml.in.h:5
 msgid "<b>Talk to Relatives Before It Is Too Late</b><br/>Your oldest relatives can be your most important source of information. They usually know things about the family that haven't been written down. They might tell you nuggets about people that may one day lead to a new avenue of research. At the very least, you will get to hear some great stories. Don't forget to record the conversations!"
@@ -289,7 +289,7 @@ msgstr "<b>Converse com seus familiares antes que seja tarde demais</b><br/>Seus
 
 #: ../data/tips.xml.in.h:6
 msgid "<b>Filtering People</b><br/>In the People View, you can 'filter' individuals based on many criteria. To define a new filter go to &quot;Edit &gt; Person Filter Editor&quot;. There you can name your filter and add and combine rules using the many preset rules. For example, you can define a filter to find all adopted people in the family tree. People without a birth date mentioned can also be filtered. To get the results save your filter and select it at the bottom of the Filter Sidebar, then click Apply. If the Filter Sidebar is not visible, select View &gt; Filter."
-msgstr "<b>Filtrando Pessoas</b><br/>Na exibição de pessoas, você pode 'filtrar' indivíduos baseando-se em muitos critérios. Para definir um novo filtro vá para &quot;Editar &gt; Editor de filtro de pessoas&quot;. Lá você pode dar um nome ao seu filtro e adicionar e combinar regras utilizando-se das várias regras predefinidas. Por exemplo, você pode definir um filtro para localizar todas as pessoas adotadas na árvore genealógica. Pessoas sem um data de nascimento indicada também podem ser filtradas. Para obter os resultados salve o seu filtro e selecione-o na parte inferior da barra lateral do filtro, clicando em seguida em Aplicar. Se a barra lateral de filtro não estiver visível, selecione Exibir &gt; Filtro."
+msgstr "<b>Filtrando pessoas</b><br/>No modo exibição Pessoas, você pode 'filtrar' indivíduos baseando-se em muitos critérios. Para definir um novo filtro vá para &quot;Editar &gt; Editor de filtro de pessoas&quot;. Lá você pode dar um nome ao seu filtro e adicionar e combinar regras utilizando-se de várias regras predefinidas. Por exemplo, você pode definir um filtro para localizar todas as pessoas adotadas na árvore genealógica. Pessoas sem a data de nascimento também podem ser filtradas. Para obter os resultados, salve o seu filtro e selecione-o na parte inferior da barra lateral do filtro, clicando em seguida em Aplicar. Se a barra lateral de filtro não estiver visível, selecione Exibir &gt; Filtro."
 
 #: ../data/tips.xml.in.h:7
 msgid "<b>Inverted Filtering</b><br/>Filters can easily be reversed by using the 'invert' option. For instance, by inverting the 'People with children' filter you can select all people without children."
@@ -297,23 +297,23 @@ msgstr "<b>Filtragem inversa</b><br/>Os filtros podem ser facilmente invertidos 
 
 #: ../data/tips.xml.in.h:8
 msgid "<b>Locating People</b><br/>By default, each surname in the People View is listed only once. By clicking on the arrow to the left of a name, the list will expand to show all individuals with that last name. To locate any Family Name from a long list, select a Family Name (not a person) and start typing. The view will jump to the first Family Name matching the letters you enter."
-msgstr "<b>Localizando pessoas</b><br/>Por padrão, cada sobrenome na exibição de pessoas é listado apenas uma vez. Ao se clicar na seta do lado esquerdo de um nome, a lista se expande a fim de mostrar todos os indivíduos que possuem aquele sobrenome. Para localizar qualquer nome de família a partir de uma longa lista, selecione m nome de família (não uma pessoa) e inicie a digitação. Dessa forma, será exibido o primeiro nome de família que corresponde às letras que você digitou."
+msgstr "<b>Localizando pessoas</b><br/>Por padrão, cada sobrenome na exibição de pessoas é listado apenas uma vez. Ao se clicar na seta do lado esquerdo de um nome, a lista se expande a fim de mostrar todos os indivíduos que possuem aquele sobrenome. Para localizar qualquer nome de família a partir de uma longa lista, selecione o nome de família (não uma pessoa) e inicie a digitação. Dessa forma, será exibido o primeiro nome de família que corresponde às letras que você digitou."
 
 #: ../data/tips.xml.in.h:9
 msgid "<b>The Family View</b><br/>The Family View is used to display a typical family unit as two parents and their children."
-msgstr "<b>A exibição de famílias</b><br/>A exibição de famílias é usada para mostrar uma unidade familiar típica, com os pais e seus filhos."
+msgstr "<b>Modo de exibição Famílias</b><br/>O modo de exibição Famílias é usado para mostrar uma unidade familiar típica, com os pais e seus filhos."
 
 #: ../data/tips.xml.in.h:10
 msgid "<b>Changing the Active Person</b><br/>Changing the Active Person in views is easy. In the Relationship view just click on anyone. In the Ancestry View doubleclick on the person or right click to select any of their spouses, siblings, children or parents."
-msgstr "<b>Alteração da pessoa ativa</b><br/>É muito fácil alterar a pessoa ativa nos modos de exibição. Na exibição de parentescos, apenas clique em alguma pessoa. Na exibição de ascendentes, clique duas vezes na pessoa ou clique com o botão direito do mouse para selecionar sua(s) esposa(s), irmão(s), filho(s) ou pais."
+msgstr "<b>Alterando a pessoa ativa</b><br/>É muito fácil alterar a pessoa ativa nos modos de exibição. Na exibição de parentescos, apenas clique em alguma pessoa. Na exibição de ascendentes, clique duas vezes na pessoa ou clique com o botão direito do mouse para selecionar suas esposas, irmãos, filhos ou pais."
 
 #: ../data/tips.xml.in.h:11
 msgid "<b>Who Was Born When?</b><br/>Under &quot;Tools &gt; Analysis and exploration &gt; Compare Individual Events...&quot; you can compare the data of individuals in your database. This is useful, say, if you wish to list the birth dates of everyone in your database. You can use a custom filter to narrow the results."
-msgstr "<b>Quem nasceu quando</b><br/>Em &quot;Ferramentas &gt; Análise e exploração &gt; Comparar eventos individuais...&quot; você pode comparar dados de todos os indivíduos em sua base de dados. Isto é útil, digamos, se você deseja listar todas as datas de nascimento de cada pessoa da sua base de dados. Você pode usar um filtro personalizado para limitar os resultados."
+msgstr "<b>Quem nasceu quando?</b><br/>Em &quot;Ferramentas &gt; Análise e exploração &gt; Comparar eventos individuais...&quot; você pode comparar dados de todos as pessoas em sua base de dados. Isso é útil, digamos, se você deseja listar todas as datas de nascimento de cada pessoa da sua base de dados. Você pode usar um filtro personalizado para limitar os resultados."
 
 #: ../data/tips.xml.in.h:12
 msgid "<b>Gramps Tools</b><br/>Gramps comes with a rich set of tools. These allow you to undertake operations such as checking the database for errors and consistency. There are research and analysis tools such as event comparison, finding duplicate people, interactive descendant browser, and many others. All tools can be accessed through the &quot;Tools&quot; menu."
-msgstr "<b>Ferramentas do Gramps</b><br/>O Gramps vem com um vasto conjunto de ferramentas. Algumas delas permitem-lhe executar operações de verificação de erros e consistência da base de dados, enquanto outras ferramentas auxiliam na pesquisa e análise de comparação de eventos, localização de pessoas com registro duplicado, navegador interativo de descendentes, e muitas outras. Todas as ferramentas podem ser acessadas através do menu &quot;Ferramentas&quot;."
+msgstr "<b>Ferramentas do Gramps</b><br/>O Gramps vem com um vasto conjunto de ferramentas. Algumas delas permitem que você execute operações como verificação de erros e consistência da base de dados. Outras servem para análise de comparação de eventos, localização de pessoas com registro duplicado, navegador interativo pelos descendentes, e muitas outras. Todas as ferramentas podem ser acessadas através do menu &quot;Ferramentas&quot;."
 
 #: ../data/tips.xml.in.h:13
 msgid "<b>Calculating Relationships</b><br/>To check if two people in the database are related (by blood, not marriage) try the tool under &quot;Tools &gt; Utilities &gt; Relationship Calculator...&quot;. The exact relationship as well as all common ancestors are reported."
@@ -321,15 +321,15 @@ msgstr "<b>Calculando parentescos</b><br/>Para verificar se duas pessoas na base
 
 #: ../data/tips.xml.in.h:14
 msgid "<b>SoundEx can help with family research</b><br/>SoundEx solves a long standing problem in genealogy, how to handle spelling variations. The SoundEx Gramplet takes a surname and generates a simplified form that is equivalent for similar sounding names. Knowing the SoundEx Code for a surname is very helpful for researching Census Data files (microfiche) at a library or other research facility. To view the SoundEx codes for surnames in your database, add the SoundEx Gramplet."
-msgstr "<b>O SoundEx pode ajudar com a pesquisa familiar</b><br/>O SoundEx resolve um problema de longa data em genealogia, como lidar com variações ortográficas. O Gramplet SoundEx pega um sobrenome e gera uma forma simplificada que é equivalente para nomes que soam semelhantes. Saber o código SoundEx para um sobrenome é muito útil para a pesquisa de arquivos de dados censitários (microfichas) em uma biblioteca ou outro centro de pesquisa. Para ver os códigos SoundEx para sobrenomes em sua base de dados, adicione o Gramplet Soundex."
+msgstr "<b>O SoundEx pode ajudar com a pesquisa familiar</b><br/>O SoundEx resolve um problema de longa data em genealogia: como lidar com variações ortográficas. O Gramplet SoundEx pega um sobrenome e gera uma forma simplificada que é equivalente para nomes que soam semelhantes. Saber o código SoundEx para um sobrenome é muito útil para a pesquisa de arquivos de dados censitários (microfichas) em uma biblioteca ou outro centro de pesquisa. Para ver os códigos SoundEx para os sobrenomes em sua base de dados, adicione o Gramplet SoundEx."
 
 #: ../data/tips.xml.in.h:15
 msgid "<b>Setting Your Preferences</b><br/>&quot;Edit &gt; Preferences...&quot; lets you modify a number of settings, such as the path to your media files, and allows you to adjust many aspects of the Gramps presentation to your needs. Each separate view can also be configured under &quot;View &gt; Configure View...&quot;"
-msgstr "<b>Definindo as suas preferências</b><br/>&quot;Editar &gt; Preferências...&quot; permite-lhe modificar uma grande quantidade de configurações, tais como a localização dos seus arquivos de mídia e permite-lhe ajustar muitos aspectos de apresentação do Gramps para as suas necessidades. Cada modo de exibição separado também pode ser configurado em &quot;Exibir &gt; Configurar exibição...&quot;"
+msgstr "<b>Definindo as suas preferências</b><br/>&quot;Editar &gt; Preferências...&quot; permite que você modifique uma grande quantidade de configurações, tais como a localização dos seus arquivos de mídia, e deixa você ajustar muitos aspectos da apresentação do Gramps de acordo com as suas necessidades. Cada modo de exibição separado também pode ser configurado em &quot;Exibir &gt; Configurar exibição...&quot;"
 
 #: ../data/tips.xml.in.h:16
 msgid "<b>Gramps Reports</b><br/>Gramps offers a wide variety of reports. The Graphical Reports and Graphs can present complex relationships easily and the Text Reports are particularly useful if you want to send the results of your family tree to members of the family via email. If you're ready to make a website for your family tree then there's a report for that as well."
-msgstr "<b>Relatórios do Gramps</b><br/>O Gramps oferece uma grande variedade de relatórios. Os grafos e relatórios gráficos podem apresentar relações complexas com facilidade e os relatórios de texto são particularmente úteis se você quiser enviar os resultados da sua árvore genealógica para os membros da família por e-mail. Se você está pronto para fazer um página Web para sua árvore genealógica, então também há um relatório para esta finalidade."
+msgstr "<b>Relatórios do Gramps</b><br/>O Gramps oferece uma grande variedade de relatórios. Os grafos e relatórios gráficos podem apresentar relações complexas com facilidade e os relatórios de texto são particularmente úteis se você quiser enviar os resultados da sua árvore genealógica para os membros da família por e-mail. Se você está pronto para fazer um página web para sua árvore genealógica, então também há um relatório para esta finalidade."
 
 #: ../data/tips.xml.in.h:17
 msgid "<b>Starting a New Family Tree</b><br/>A good way to start a new family tree is to enter all the members of the family into the database using the Person View (use &quot;Edit &gt; Add...&quot; or click on the Add a new person button from the People View). Then go to the Relationship View and create relationships between people."
@@ -341,11 +341,11 @@ msgstr "<b>O que é isso?</b><br/>Não sabe o que um botão faz? Simplesmente ma
 
 #: ../data/tips.xml.in.h:19
 msgid "<b>Unsure of a Date?</b><br/>If you're unsure about the date an event occurred, Gramps allows you to enter a wide range of date formats based on a guess or an estimate. For instance, &quot;about 1908&quot; is a valid entry for a birth date in Gramps. Click the Date button next to the date field and see the Gramps Manual to learn more."
-msgstr "<b>Não sabe a data?</b><br/>Se você não está certo a respeito da data em que um evento aconteceu, o Gramps permite-lhe usar uma grande variedade de formatos de datas baseados em adivinhação ou estimativa. Por exemplo, &quot;aproximadamente 1908&quot; é um item válido no Gramps para uma data de nascimento. Clique no botão ao lado do campo de data e consulte o Manual do Gramps para aprender mais."
+msgstr "<b>Não sabe a data?</b><br/>Se você não está certo a respeito da data em que um evento aconteceu, o Gramps permite introduzir uma grande variedade de formatos de datas com base em uma suposição ou estimativa. Por exemplo, &quot;aproximadamente 1908&quot; é um item válido no Gramps para uma data de nascimento. Clique no botão ao lado do campo de data e consulte o Manual do Gramps para saber mais."
 
 #: ../data/tips.xml.in.h:20
 msgid "<b>Duplicate Entries</b><br/>&quot;Tools &gt; Database Processing &gt; Find Possible Duplicate People...&quot; allows you to locate (and merge) entries of the same person entered more than once in the database."
-msgstr "<b>Itens duplicados</b><br/>&quot;Ferramentas &gt; Processando a base de dados &gt; Procura pessoas com possível registro duplicado...&quot; permite-lhe localizar (e mesclar) itens de uma mesma pessoa que foram adicionados mais de uma vez à base de dados."
+msgstr "<b>Itens duplicados</b><br/>&quot;Ferramentas &gt; Processamento da árvore genealógica &gt; Procurar pessoas com possível registro duplicado...&quot; permite que você localize (e mescle) itens de uma mesma pessoa que foram adicionados mais de uma vez à base de dados."
 
 #: ../data/tips.xml.in.h:21
 msgid "<b>Merging Entries</b><br/>The function &quot;Edit &gt; Compare and Merge...&quot; allows you to combine separately listed people into one. Select the second entry by holding the Control key as you click. This is very useful for combining two databases with overlapping people, or combining erroneously entered differing names for one individual. This also works for the Places, Sources and Repositories views."
@@ -365,87 +365,87 @@ msgstr "<b>Atalhos de teclado</b><br/>Cansado de ter que tirar sua mão do tecla
 
 #: ../data/tips.xml.in.h:25
 msgid "<b>Read the Manual</b><br/>Don't forget to read the Gramps manual, &quot;Help &gt; User Manual&quot;. The developers have worked hard to make most operations intuitive but the manual is full of information that will make your time spent on genealogy more productive."
-msgstr "<b>Leia o manual</b><br/>Não se esqueça de ler o manual do Gramps, &quot;Ajuda &gt; Manual do usuário&quot;. Os desenvolvedores trabalharam muito para que a maioria das operações fossem intuitivas, mas o manual está repleto de informações que farão com que o seu tempo gasto com genealogia seja mais produtivo."
+msgstr "<b>Leia o manual</b><br/>Não se esqueça de ler o manual do Gramps, &quot;Ajuda &gt; Manual do usuário&quot;. Os desenvolvedores trabalharam muito para tornar a maioria das operações intuitivas, mas o manual está repleto de informações que farão com que o seu tempo gasto com genealogia seja mais produtivo."
 
 #: ../data/tips.xml.in.h:26
 msgid "<b>Adding Children</b><br/>To add children in Gramps there are two options. You can find one of their parents in the Families View and open the family. Then choose to create a new person or add an existing person. You can also add children (or siblings) from inside the Family Editor."
-msgstr "<b>Adição de filhos</b><br/>Existem duas opções para adicionar filhos no Gramps. Você pode localizar um de seus pais na visualização de famílias e abrir a família. Então escolha criar uma nova pessoa ou adicione uma existente. Você pode também adicionar um filho (ou irmãos) dentro do editor de famílias."
+msgstr "<b>Adicionando filhos</b><br/>Existem duas opções para adicionar filhos no Gramps. Você pode localizar um de seus pais no modo de exibição Famílias e abrir a família, em seguida escolher criar uma nova pessoa ou adicionar uma existente. Você pode também adicionar um filho (ou irmãos) dentro do editor de famílias."
 
 #: ../data/tips.xml.in.h:27
 msgid "<b>Editing the Parent-Child Relationship</b><br/> You can edit the relationship of a child to its parents by double clicking the child in the Family Editor. Relationships can be any of Adopted, Birth, Foster, None, Sponsored, Stepchild and Unknown."
-msgstr "<b>Edição de relacionamento de pai/filho</b><br/> Você pode editar o relacionamento de um filho com seus pais clicando duas vezes no filho no editor de família. Os relacionamentos podem ser: Adoção, Nascimento, Tutelado(a), Nenhum, Patrocinado(a), Enteado(a) e Desconhecido."
+msgstr "<b>Editando a relação pai e filho</b><br/> Você pode editar o tipo de relacionamento de um filho com seus pais clicando duas vezes no filho no editor de família. Os relacionamentos podem ser: Adoção, Nascimento, Tutelado(a), Nenhum, Patrocinado(a), Enteado(a) e Desconhecido."
 
 #: ../data/tips.xml.in.h:28
 msgid "<b>Show All Checkbutton</b><br/>When adding an existing person as a spouse, the list of people shown is filtered to display only people who could realistically fit the role (based on dates in the database). In case Gramps is wrong in making this choice, you can override the filter by checking the Show All checkbutton."
-msgstr "<b>Seleção 'Mostrar todos'</b><br/>Ao se adicionar uma pessoa existente como cônjuge, a lista de pessoas mostradas é filtrada a fim de exibir somente as pessoas que poderiam na realidade se enquadrar naquela situação (baseando-se em datas da base de dados). No caso do Gramps estar errado ao fazer a escolha, você pode manualmente ignorar o filtro ao clicar na opção 'Mostrar todos'."
+msgstr "<b>Seleção 'Mostrar todos'</b><br/>Ao se adicionar uma pessoa existente como cônjuge, a lista de pessoas mostradas é filtrada a fim de exibir somente as pessoas que poderiam na realidade se enquadrar naquela situação (baseando-se em datas da base de dados). No caso do Gramps estar errado ao fazer a escolha, você pode manualmente ignorar o filtro clicando na opção 'Mostrar todos'."
 
 #: ../data/tips.xml.in.h:29
 msgid "<b>Improving Gramps</b><br/>Users are encouraged to request enhancements to Gramps. Requesting an enhancement can be done either through the gramps-users or gramps-devel mailing lists, or by going to http://bugs.gramps-project.org and creating a Feature Request. Filing a Feature Request is preferred but it can be good to discuss your ideas on the email lists."
-msgstr "<b>Melhorando o Gramps</b><br/>Os usuários são encorajados a solicitar melhorias para o Gramps. Tais melhorias podem ser solicitadas através da lista de discussão gramps-users ou gramps-devel, ou criando-se uma solicitação de melhorias em http://bugs.gramps-project.org. É preferível apresentar uma solicitação de melhoria, mas pode ser bom discutir suas ideias nas listas de discussão."
+msgstr "<b>Melhorando o Gramps</b><br/>Os usuários são encorajados a solicitar melhorias para o Gramps. Tais melhorias podem ser solicitadas através da lista de discussão gramps-users ou gramps-devel, ou criando-se uma solicitação de melhorias em http://bugs.gramps-project.org. É preferível fazer uma solicitação de melhoria, mas pode ser bom discutir suas ideias nas listas de discussão."
 
 #: ../data/tips.xml.in.h:30
 msgid "<b>Gramps Mailing Lists</b><br/>Want answers to your questions about Gramps? Check out the gramps-users email list. Many helpful people are on the list, so you're likely to get an answer quickly. If you have questions related to the development of Gramps, try the gramps-devel list. You can see the lists by selecting &quot;Help &gt; Gramps Mailing Lists&quot;."
-msgstr "<b>Listas de discussão do Gramps</b><br/>Precisa de respostas às suas dúvidas relacionadas ao Gramps? Verifique na lista gramps-users. Muitas pessoas fazem parte da lista e as chances de você obter uma resposta rapidamente são grandes. Se você possui dúvidas relacionadas ao desenvolvimento do Gramps, tente a lista gramps-devel. Informações sobre ambas as listas podem ser encontradas selecionando &quot;Ajuda &gt; Listas de discussão do Gramps&quot;."
+msgstr "<b>Listas de discussão do Gramps</b><br/>Quer respostas para as suas dúvidas relacionadas ao Gramps? Verifique na lista gramps-users. Muitas pessoas fazem parte da lista e as chances de você obter uma resposta rapidamente são grandes. Se você possui dúvidas relacionadas ao desenvolvimento do Gramps, tente a lista gramps-devel. Informações sobre ambas as listas podem ser encontradas selecionando &quot;Ajuda &gt; Listas de discussão do Gramps&quot;."
 
 #: ../data/tips.xml.in.h:31
 msgid "<b>Contributing to Gramps</b><br/>Want to help with Gramps but can't write programs? Not a problem! A project as large as Gramps requires people with a wide variety of skills. Contributions can be anything from writing documentation to testing development versions and helping with the web site. Start by subscribing to the Gramps developers mailing list, gramps-devel, and introducing yourself. Subscription information can be found at &quot;Help &gt; Gramps Mailing Lists&quot;"
-msgstr "<b>Contribuindo para o Gramps</b><br/>Deseja ajudar o Gramps mas não sabe programar? Sem problema! Um projeto tão grande quanto o Gramps precisa de pessoas com habilidades diversas. As contribuições variam entre escrever a documentação, testar versões em desenvolvimento e até mesmo ajudar com a página Web. Comece se inscrevendo na lista de discussão dos desenvolvedores do Gramps (gramps-devel) e se apresente. Informações sobre inscrição podem ser encontradas em &quot;Ajuda &gt; Listas de discussão do Gramps&quot;"
+msgstr "<b>Contribuindo para o Gramps</b><br/>Deseja ajudar o Gramps mas não sabe programar? Sem problema! Um projeto tão grande quanto o Gramps precisa de pessoas com habilidades diversas. As contribuições variam entre escrever a documentação, testar versões em desenvolvimento e até mesmo ajudar com a página web. Comece inscrevendo-se na lista de discussão dos desenvolvedores do Gramps (gramps-devel) e se apresente. Informações sobre inscrição podem ser encontradas em &quot;Ajuda &gt; Listas de discussão do Gramps&quot;."
 
 #: ../data/tips.xml.in.h:32
 msgid "<b>So What's in a Name?</b><br/>The name Gramps was suggested to the original developer, Don Allingham, by his father. It stands for <i>Genealogical Research and Analysis Management Program System</i>. It is a full-featured genealogy program letting you store, edit, and research genealogical data. The Gramps database back end is so robust that some users are managing genealogies containing hundreds of thousands of people."
-msgstr "<b>Então, o que está em um nome?</b><br/>O nome Gramps foi sugerido pelo desenvolvedor original, Don Allingham, por seu pai. Ele representa <i>Sistema de Programação e Gerenciamento de Pesquisa e Análise Genealógica (Genealogical Research and Analysis Management Program System)</i>. É um programa de genealogia muito abrangente que permite-lhe armazenar, editar, e pesquisar dados genealógicos. A infraestrutura da base de dados do Gramps é tão robusta que alguns usuários estão gerenciando árvores genealógicas que contém centenas de milhares de pessoas."
+msgstr "<b>Então, o que há em um nome?</b><br/>O nome Gramps foi sugerido pelo desenvolvedor original, Don Allingham, por seu pai. Ele significa <i>Sistema de Programação e Gerenciamento de Pesquisa e Análise Genealógica (Genealogical Research and Analysis Management Program System)</i>. É um programa de genealogia cheio de recursos que permite armazenar, editar, e pesquisar dados genealógicos. A infraestrutura da base de dados do Gramps é tão robusta que alguns usuários estão gerenciando árvores genealógicas que contém centenas de milhares de pessoas."
 
 #: ../data/tips.xml.in.h:33
 msgid "<b>Bookmarking Individuals</b><br/>The Bookmarks menu is a convenient place to store the names of frequently used individuals. Selecting a bookmark will make that person the Active Person. To bookmark someone make them the Active Person then go to &quot;Bookmarks &gt; Add Bookmark&quot; or press Ctrl+D. You can also bookmark most of the other objects."
-msgstr "<b>Marcação de indivíduos</b>: O menu Marcadores no topo da janela é um local conveniente para armazenar os nomes de indivíduos frequentemente usados. Ao selecionar um indivíduo marcado, o mesmo se tornará a pessoa ativa. Para criar um marcador para uma pessoa, torne-a a pessoa ativa e vá para &quot;Marcadores &gt; Adicionar marcador&quot;, ou pressione Ctrl+D. Você também pode marcar a maioria dos outros objetos."
+msgstr "<b>Marcação de pessoas</b>: O menu Marcadores no topo da janela é um local conveniente para armazenar os nomes de indivíduos frequentemente usados. Ao selecionar uma pessoa marcada, a mesma se tornará a pessoa ativa. Para criar um marcador para uma pessoa, torne-a a pessoa ativa e vá para &quot;Marcadores &gt; Adicionar marcador&quot;, ou pressione Ctrl+D. Você também pode marcar a maioria dos outros objetos."
 
 #: ../data/tips.xml.in.h:34
 msgid "<b>Incorrect Dates</b><br/>Everyone occasionally enters dates with an invalid format. Incorrect date formats will show up in Gramps with a either a reddish background or a red dot on the right edge of the field. You can fix the date using the Date Selection dialog which can be opened by clicking on the date button. The format of the date is set under &quot;Edit &gt; Preferences &gt; Display&quot;."
-msgstr "<b>Datas incorretas</b><br/>Eventualmente, todos inserem datas com um formato inválido. Formatos de data inválidos aparecerão no Gramps com um fundo vermelho. Você pode corrigir a data usando a janela de Seleção de Datas, que pode ser aberta clicando-se no botão Data. O formado da data é definido em &quot;Editar &gt; Preferências &gt; Exibir&quot;."
+msgstr "<b>Datas incorretas</b><br/>Eventualmente todos inserem datas com um formato inválido. Formatos de data inválidos aparecerão no Gramps com um fundo vermelho. Você pode corrigir a data usando a janela de Seleção de data, que pode ser aberta clicando-se no botão Data. O formado da data é definido em &quot;Editar &gt; Preferências &gt; Exibição&quot;."
 
 #: ../data/tips.xml.in.h:35
 msgid "<b>Listing Events</b><br/>Events are added using the editor opened with &quot;Person &gt; Edit Person &gt; Events&quot;. There is a long list of preset event types. You can add your own event types by typing in the text field, they will be added to the available events, but not translated."
-msgstr "<b>Listando events</b><br/>Os eventos são adicionados com o uso do editor aberto a partir de &quot;Pessoa &gt; Editar pessoa &gt; Eventos&quot;. Existe uma longa lista de tipos de eventos predefinidos. Você pode adicionar o seu próprio tipo de evento digitando no campo de texto, eles serão adicionados aos eventos disponíveis, mas não traduzidos."
+msgstr "<b>Listando eventos</b><br/>Os eventos são adicionados com o uso do editor aberto a partir de &quot;Pessoa &gt; Editar pessoa &gt; Eventos&quot;. Existe uma longa lista de tipos de eventos predefinidos. Você pode adicionar o seu próprio tipo de evento digitando no campo de texto, eles serão adicionados aos eventos disponíveis, mas não traduzidos."
 
 #: ../data/tips.xml.in.h:36
 msgid "<b>Managing Names</b><br/>It is easy to manage people with several names in Gramps. In the Person Editor select the Names tab. You can add names of different types and set the preferred name by dragging it to the Preferred Name section."
-msgstr "<b>Gerenciando Nomes</b><br/>É fácil gerenciar pessoas com diversos nomes no Gramps. Selecione a aba Nomes no Editor de Pessoas. Você pode adicionar diferentes tipos de nomes e definir o nome preferido arrastando-o para a seção Nome Preferido."
+msgstr "<b>Gerenciando nomes</b><br/>É fácil gerenciar pessoas com diversos nomes no Gramps. Selecione a aba Nomes no Editor de Pessoas. Você pode adicionar diferentes tipos de nomes e definir o nome preferido arrastando-o para a seção Nome preferido."
 
 #: ../data/tips.xml.in.h:37
 msgid "<b>Ancestor View</b><br/>The Ancestry View displays a traditional pedigree chart. Hold the mouse over an individual to see more information about them or right click on an individual to access other family members and settings. Play with the settings to see the different options."
-msgstr "<b>Visualização de ascendentes</b><br/>A visualização de ascendentes exibe um gráfico de linhagem tradicional. Posicione e mantenha o mouse sobre um indivíduo para ver mais informações sobre ele, ou clique com o botão direito sobre um indivíduo para acessar outros membros da família e configurações. Teste as configurações para conhecer as diferentes opções."
+msgstr "<b>Modo de exibição Ascendentes</b><br/>O modo de exibição Ascendentes exibe um gráfico de linhagem tradicional. Posicione e mantenha o mouse sobre um indivíduo para ver mais informações sobre ele, ou clique com o botão direito sobre um indivíduo para acessar outros membros da família e configurações. Teste as configurações para conhecer as diferentes opções."
 
 #: ../data/tips.xml.in.h:38
 msgid "<b>Managing Sources</b><br/>The Sources View shows a list of all sources in a single window. From here you can edit your sources, merge duplicates and see which individuals reference each source. You can use filters to group your sources."
-msgstr "<b>Gerenciando fontes de referência</b><br/>A exibição de fontes de referência mostra uma lista com todas as fontes em uma única janela. A partir daqui você pode editar suas fontes, mesclar os registros duplicados e ver qual  indivíduo está vinculado a cada fonte de referência. Você pode usar os filtros para agrupar as suas fontes."
+msgstr "<b>Gerenciando fontes</b><br/>O modo de exibição Fontes mostra uma lista com todas as fontes em uma única janela. A partir daqui você pode editar suas fontes, mesclar os registros duplicados e ver qual  indivíduo está vinculado a cada fonte de referência. Você pode usar os filtros para agrupar as suas fontes."
 
 #: ../data/tips.xml.in.h:39
 msgid "<b>Managing Places</b><br/>The Places View shows a list of all places in the database. The list can be sorted by a number of different criteria, such as City, County or State."
-msgstr "<b>Gerenciando lugares</b><br/>A exibição de lugares mostra uma lista de todos os lugares existentes na base de dados. A lista pode ser ordenada por critérios diferentes, tais como por Cidade, Condado ou Estado."
+msgstr "<b>Gerenciando lugares</b><br/>O modo de exibição Lugares mostra uma lista de todos os lugares existentes na base de dados. A lista pode ser ordenada por critérios diferentes, tais como por Cidade, Condado ou Estado."
 
 #: ../data/tips.xml.in.h:40
 msgid "<b>Media View</b><br/>The Media View shows a list of all media entered in the database. These can be graphic images, videos, sound clips, spreadsheets, documents, and more."
-msgstr "<b>Exibição de mídia</b><br/>A exibição de mídia mostra uma lista com todos os objetos de mídia existentes na base de dados. Estes podem ser imagens, vídeos, sons, planilhas, documentos, e outros mais."
+msgstr "<b>Modo de exibição Mídias</b><br/>O modo de exibição Mídias mostra uma lista com todos os objetos de mídia existentes na base de dados. Estes podem ser imagens, vídeos, sons, planilhas, documentos, e outros mais."
 
 #: ../data/tips.xml.in.h:41
 msgid "<b>Filters</b><br/>Filters allow you to limit the people seen in the People View. In addition to the many preset filters, Custom Filters can be created limited only by your imagination. Custom filters are created from &quot;Edit &gt; Person Filter Editor&quot;."
-msgstr "<b>Filtros</b><br/>Os filtros permitem-lhe limitar as pessoas que são mostradas na exibição de pessoas. Além dos diversos filtros disponíveis com o programa, outros filtros personalizados podem ser criados e estão limitados apenas à sua imaginação. Filtros personalizados são criados a partir de &quot;Editar &gt; Editor de filtro de pessoa&quot;."
+msgstr "<b>Filtros</b><br/>Os filtros permitem que você limite as pessoas que são mostradas no modo de exibição Pessoas. Além dos diversos filtros disponíveis, filtros personalizados podem ser criados, limitados apenas pela sua imaginação. Filtros personalizados são criados a partir de &quot;Editar &gt; Editor de filtro de pessoas&quot;."
 
 #: ../data/tips.xml.in.h:42
 msgid "<b>The GEDCOM File Format</b><br/>Gramps allows you to import from, and export to, the GEDCOM format. There is extensive support for the industry standard GEDCOM version 5.5, so you can exchange Gramps information to and from users of most other genealogy programs. Filters exist that make importing and exporting GEDCOM files trivial."
-msgstr "<b>O formato de arquivo GEDCOM</b><br/>O Gramps permite-lhe importar de, e exportar para, o formato GEDCOM. O suporte ao padrão GEDCOM versão 5.5 é bem extenso, de tal forma que você pode trocar informações do Gramps com usuários que utilizam outros programas de genealogia. Existem filtros que simplificam a importação e exportação de arquivos GEDCOM."
+msgstr "<b>O formato de arquivo GEDCOM</b><br/>O Gramps permite que você importe e exporte no formato GEDCOM. O suporte ao padrão GEDCOM versão 5.5 é bem extenso, de tal forma que você pode trocar informações do Gramps com usuários que utilizam outros programas de genealogia. Existem filtros que simplificam a importação e exportação de arquivos GEDCOM."
 
 #: ../data/tips.xml.in.h:43
 msgid "<b>The Gramps XML Package</b><br/>You can export your Family Tree as a Gramps XML Package. This is a compressed file containing your family tree data and all the media files connected to the database (images for example). This file is completely portable so is useful for backups or sharing with other Gramps users. This format has the key advantage over GEDCOM that no information is ever lost when exporting and importing."
-msgstr "<b>O pacote Gramps XML</b><br/>Você pode exportar os dados da sua árvore genealógica para um pacote Gramps XML. Ele é um arquivo compactado que contém os dados da sua árvore genealógica e todos os arquivos de mídia com vínculo com a base de dados (imagens, por exemplo). Este arquivo é totalmente portável e, dessa forma, é útil para se fazer cópias de segurança (backups) ou para compartilhar com outros usuários do Gramps. Este formato possui vantagens sobre o GEDCOM, no sentido de que nenhuma informação é perdida durante o processo de exportação e importação."
+msgstr "<b>O pacote Gramps XML</b><br/>Você pode exportar os dados da sua árvore genealógica para um pacote Gramps XML. Este é um arquivo compactado que contém os dados da sua árvore genealógica e todos os arquivos de mídia com vínculo com a base de dados (imagens, por exemplo). Este arquivo é totalmente portável e, dessa forma, é útil para se fazer cópias de segurança (backups) ou para compartilhar com outros usuários do Gramps. Este formato possui vantagens sobre o GEDCOM, no sentido de que nenhuma informação é perdida durante o processo de exportação e importação."
 
 #: ../data/tips.xml.in.h:44
 msgid "<b>Web Family Tree Format</b><br/>Gramps can export data to the Web Family Tree (WFT) format. This format allows a family tree to be displayed online using a single file, instead of many html files."
-msgstr "<b>O formato de Árvore Genealógica Web</b><br/>O Gramps é capaz de exportar os dados para uma Árvore Genealógica Web (Web Family Tree - WFT). Este formato permite que uma árvore genealógica seja mostrada on-line usando-se um único arquivo, em vez de diversos arquivos HTML."
+msgstr "<b>O formato Árvore Genealógica Web</b><br/>O Gramps é capaz de exportar os dados para uma Árvore Genealógica Web (Web Family Tree - WFT). Este formato permite que uma árvore genealógica seja mostrada on-line usando-se um único arquivo, em vez de diversos arquivos HTML."
 
 #: ../data/tips.xml.in.h:45
 msgid "<b>Making a Genealogy Website</b><br/>You can easily export your family tree to a web page. Select the entire database, family lines or selected individuals to a collection of web pages ready for upload to the World Wide Web."
-msgstr "<b>Criando um Site de Genealogia</b><br/>Você pode exportar facilmente sua árvore genealógica para um site. Selecione toda a base de dados, linhas familiares ou os indivíduos escolhidos para um conjunto de páginas web prontas para serem enviadas para a Internet."
+msgstr "<b>Criando uma página web de Genealogia</b><br/>Você pode exportar facilmente sua árvore genealógica para uma página web. Selecione toda a base de dados, linhagens familiares ou indivíduos escolhidos para um conjunto de páginas web prontas para serem enviadas para a Internet."
 
 #: ../data/tips.xml.in.h:46
 msgid "<b>Reporting Bugs in Gramps</b><br/>The best way to report a bug in Gramps is to use the Gramps bug tracking system at http://bugs.gramps-project.org"
@@ -453,31 +453,31 @@ msgstr "<b>Relatando erros no Gramps</b><br/>A melhor maneira de relatar um erro
 
 #: ../data/tips.xml.in.h:47
 msgid "<b>The Gramps Homepage</b><br/>The Gramps homepage is at http://gramps-project.org/"
-msgstr "<b>A página Web do Gramps</b><br/>A página Web do Gramps localiza-se em http://gramps-project.org/"
+msgstr "<b>A página web do Gramps</b><br/>A página web do Gramps localiza-se em http://gramps-project.org/"
 
 #: ../data/tips.xml.in.h:48
 msgid "<b>Privacy in Gramps</b><br/>Gramps helps you to keep personal information secure by allowing you to mark information as private. Data marked as private can be excluded from reports and data exports. Look for the padlock which toggles records between private and public."
-msgstr "<b>Privacidade no Gramps</b><br/>O Gramps ajuda você a manter as informações pessoais seguras ao permitir que sejam marcadas como privadas. Dados marcados como privados podem ser excluídos de relatórios e exportações de dados. Procure o cadeado que alterna registros entre público e privado."
+msgstr "<b>Privacidade no Gramps</b><br/>O Gramps ajuda você a manter as informações pessoais seguras permitindo que elas sejam marcadas como privadas. Dados marcados como privados podem ser excluídos de relatórios e exportações de dados. Procure o cadeado que alterna registros entre público e privado."
 
 #: ../data/tips.xml.in.h:49
 msgid "<b>Keeping Good Records</b><br/>Be accurate when recording genealogical information. Don't make assumptions while recording primary information; write it exactly as you see it. Use bracketed comments to indicate your additions, deletions or comments. Use of the Latin 'sic' is recommended to confirm the accurate transcription of what appears to be an error in a source."
-msgstr "<b>Manter bons registros</b><br/>Seja preciso quando for guardar informações genealógicas. Não faça suposições ao gravar informações primárias; escreva-as exatamente da mesma forma que você as vê. Use comentários entre parênteses para indicar suas adições, exclusões ou comentários. O uso da expressão latina 'sic' é recomendado para confirmar a transcrição exata daquilo que parece ser um erro na fonte de referência."
+msgstr "<b>Mantendo bons registros</b><br/>Seja preciso quando for guardar informações genealógicas. Não faça suposições ao gravar informações primárias; escreva-as exatamente como as vê. Use comentários entre parênteses para indicar suas adições, exclusões ou comentários. O uso da expressão latina 'sic' é recomendado para confirmar a transcrição exata daquilo que parece ser um erro na fonte."
 
 #: ../data/tips.xml.in.h:50
 msgid "<b>Extra Reports and Tools</b><br/>Extra tools and reports can be added to Gramps with the &quot;Addon&quot; system. See them under &quot;Help &gt; Extra Reports/Tools&quot;. This is the best way for advanced users to experiment and create new functionality."
-msgstr "<b>Ferramentas e relatórios adicionais</b><br/>Ferramentas e relatórios adicionais podem ser adicionados ao Gramps com o sistema de &quot;Extensões&quot;. Veja em &quot;Ajuda &gt; Ferramentas/Relatórios adicionais&quot;. Esta é a melhor maneira de usuários avançados experimentarem e criarem novas funcionalidades."
+msgstr "<b>Ferramentas e relatórios adicionais</b><br/>Ferramentas e relatórios adicionais podem ser adicionados ao Gramps com o sistema de &quot;extensões&quot;. Veja em &quot;Ajuda &gt; Relatórios/Ferramentas adicionais&quot;. Esta é a melhor maneira de usuários avançados experimentarem e criarem novas funcionalidades."
 
 #: ../data/tips.xml.in.h:51
 msgid "<b>Book Reports</b><br/>The Book report under &quot;Reports &gt; Books &gt; Book Report...&quot;, allows you to collect a variety of reports into a single document. This single report is easier to distribute than multiple reports, especially when printed."
-msgstr "<b>Relatórios de livro</b><br/>O relatório de livro, &quot;Relatórios &quot; Livros &quot; Relatório de livro...&quot;, permite-lhe agrupar uma variedade de relatórios em um único documento. Este relatório único é mais fácil de distribuir do que vários relatórios individuais, principalmente quando estão impressos."
+msgstr "<b>Livros relatórios</b><br/>Os livros relatórios, &quot;Relatórios &quot; Livros &quot; Livros relatórios...&quot;, permitem que você agrupe uma variedade de relatórios em um único documento. Este relatório único é mais fácil de distribuir do que vários relatórios individuais, principalmente quando são impressos."
 
 #: ../data/tips.xml.in.h:52
 msgid "<b>Gramps Announcements</b><br/>Interested in getting notified when a new version of Gramps is released? Join the Gramps-announce mailing list at &quot;Help &gt; Gramps Mailing Lists&quot;"
-msgstr "<b>Anúncios do Gramps</b><br/>Está interessado em saber quando uma versão nova do Gramps for liberada? Junte-se à lista de discussão Gramps-announce em &quot;Ajuda &gt; Listas de discussão do Gramps&quot;"
+msgstr "<b>Avisos do Gramps</b><br/>Está interessado em saber quando uma versão nova do Gramps for liberada? Junte-se à lista de discussão Gramps-announce em &quot;Ajuda &gt; Listas de discussão do Gramps&quot;"
 
 #: ../data/tips.xml.in.h:53
 msgid "<b>Record Your Sources</b><br/>Information collected about your family is only as good as the source it came from. Take the time and trouble to record all the details of where the information came from. Whenever possible get a copy of original documents."
-msgstr "<b>Registre as suas fontes de referência</b><br/>Informações colhidas sobre a sua família são boas de acordo com as fontes de referência de onde vieram. Certifique-se de gravar todos os detalhes de onde as informações vieram. Sempre que possível, obtenha uma cópia dos documentos originais."
+msgstr "<b>Registre as suas fontes</b><br/>A qualidade das informações colhidas sobre a sua família depende das fontes de referência de onde vieram. Certifique-se de gravar todos os detalhes de onde as informações vieram. Sempre que possível, obtenha uma cópia dos documentos originais."
 
 #: ../data/tips.xml.in.h:54
 msgid "<b>Directing Your Research</b><br/>Go from what you know to what you do not. Always record everything that is known before making conjectures. Often the facts at hand suggest plenty of direction for more research. Don't waste time looking through thousands of records hoping for a trail when you have other unexplored leads."
@@ -485,7 +485,7 @@ msgstr "<b>Direcionando sua pesquisa</b><br/>Comece de onde você sabe e vá par
 
 #: ../data/tips.xml.in.h:55
 msgid "<b>The 'How and Why' of Your Genealogy</b><br/> Genealogy isn't only about dates and names. It is about people. Be descriptive. Include why things happened, and how descendants might have been shaped by the events they went through. Narratives go a long way in making your family history come alive."
-msgstr "<b>O 'Como e por que' de sua genealogia</b><br/>Genealogia não se resume apenas a datas e nomes. Ela se refere a pessoas. Seja descritivo. Inclua o <b>por que</b> de como as coisas aconteceram, e como os descendentes podem ter  sido moldados em decorrência dos eventos pelos quais eles passaram. Narrativas são uma ótima maneira de tornar a história de sua família mais viva."
+msgstr "<b>O 'como e por quê' da sua genealogia</b><br/>Genealogia não se resume apenas a datas e nomes. Ela se refere a pessoas. Seja descritivo. Inclua o por quê de como as coisas aconteceram, e como os descendentes podem ter sido moldados em decorrência dos eventos pelos quais eles passaram. Narrativas são uma ótima maneira de tornar a história de sua família mais viva."
 
 #: ../data/tips.xml.in.h:56
 msgid "<b>Don't speak English?</b><br/>Volunteers have translated Gramps into more than 40 languages. If Gramps supports your language and it is not being displayed, set the default language in your operating system and restart Gramps."
@@ -501,23 +501,23 @@ msgstr "<b>Olá, привет ou 喂</b><br/>O Gramps oferece total suporte ao U
 
 #: ../data/tips.xml.in.h:59
 msgid "<b>The Home Person</b><br/>Anyone can be chosen as the Home Person in Gramps. Use &quot;Edit &gt; Set Home Person&quot; in the Person View. The home person is the person who is selected when the database is opened or when the home button is pressed."
-msgstr "<b>A pessoa inicial</b><br/>Qualquer um pode ser escolhido como a 'pessoa inicial' no Gramps. Use &quot;Editar &gt; Definir pessoa inicial&quot; na exibição de pessoas. A pessoa inicial é aquela selecionada quando a base de dados é aberto ou quando o botão Início é pressionado."
+msgstr "<b>A pessoa inicial</b><br/>Qualquer um pode ser escolhido como a pessoa inicial no Gramps. Use &quot;Editar &gt; Definir pessoa inicial&quot; na exibição de pessoas. A pessoa inicial é aquela selecionada quando a base de dados é aberta ou quando o botão Início é pressionado."
 
 #: ../data/tips.xml.in.h:60
 msgid "<b>The Gramps Code</b><br/>Gramps is written in a computer language called Python using the GTK and GNOME libraries for the graphical interface. Gramps is supported on any computer system where these programs have been ported. Gramps is known to be run on Linux, BSD, Solaris, Windows and Mac OS X."
-msgstr "<b>O código do Gramps</b><br/>O Gramps é escrito em uma linguagem de computador chamada Python, com uso do GTK e bibliotecas do GNOME para a interface gráfica. O Gramps é suportado em qualquer computador para o qual estes programas foram portados. O Gramps é conhecido por ser executado no Linux, BSD, Solaris, Windows e Mac OS X."
+msgstr "<b>O código do Gramps</b><br/>O Gramps é escrito em uma linguagem de computador chamada Python, com uso das bibliotecas GTK e GNOME para a interface gráfica. O Gramps é suportado em qualquer computador para o qual estes programas foram portados. Sabe-se que o Gramps pde ser executado no Linux, BSD, Solaris, Windows e Mac OS X."
 
 #: ../data/tips.xml.in.h:61
 msgid "<b>Open Source Software</b><br/>The Free/Libre and Open Source Software (FLOSS) development model means Gramps can be extended by any programmer since all of the source code is freely available under its license. So it's not just about free beer, it's also about freedom to study and change the tool. For more about Open Source software lookup the Free Software Foundation and the Open Source Initiative."
-msgstr "<b>Software de código aberto</b><br/>O modelo de desenvolvimento de software livre/código aberto permite que o Gramps seja aperfeiçoado por qualquer programador, uma vez que todo o código-fonte esta disponível por este licenciamento. Portanto, não se trata apenas de cerveja de graça, é também sobre liberdade de estudar e alterar a ferramenta. Para saber mais sobre software de código aberto, pesquise na Free Software Foundation (FSF) e Open Source Initiative (OSI)."
+msgstr "<b>Software de código aberto</b><br/>O modelo de desenvolvimento de software livre/código aberto (free/libre and open source software - FLOSS) permite que o Gramps seja aperfeiçoado por qualquer programador, uma vez que todo o código-fonte esta disponível por este licenciamento. Portanto, não se trata apenas de cerveja de graça, é também sobre liberdade de estudar e alterar a ferramenta. Para saber mais sobre software de código aberto, pesquise na Free Software Foundation (FSF) e Open Source Initiative (OSI)."
 
 #: ../data/tips.xml.in.h:62
 msgid "<b>The Gramps Software License</b><br/>You are free to use and share Gramps with others. Gramps is freely distributable under the GNU General Public License, see http://www.gnu.org/licenses/licenses.html#GPL to read about the rights and restrictions of this license."
-msgstr "<b>A licença do aplicativo Gramps</b><br/>Você é livre para usar e compartilhar o Gramps com outras pessoas. O Gramps é livremente distribuído sob a licença GNU/GPL. Veja em http://www.gnu.org/licenses/licenses.html#GPL para ler sobre os direitos e restrições desta licença."
+msgstr "<b>A licença do aplicativo Gramps</b><br/>Você é livre para usar e compartilhar o Gramps com outras pessoas. O Gramps é livremente distribuído sob a Licença Pública Geral GNU. Veja em http://www.gnu.org/licenses/licenses.html#GPL para ler sobre os direitos e restrições desta licença."
 
 #: ../data/tips.xml.in.h:63
 msgid "<b>Gramps for Gnome or KDE?</b><br/>For Linux users Gramps works with whichever desktop environment you prefer. As long as the required GTK libraries are installed it will run fine."
-msgstr "<b>Gramps para Gnome ou KDE?</b><br/>Para usuários Linux o Gramps funciona com o ambiente de trabalho de sua preferência. Enquanto as bibliotecas GTK necessárias estiverem instalada ele funcionará bem."
+msgstr "<b>Gramps para Gnome ou KDE?</b><br/>Para usuários Linux o Gramps funciona com o ambiente de trabalho de sua preferência. Ele funcionará corretamente desde que as bibliotecas GTK necessárias estivejam instaladas."
 
 #: ../gramps/cli/arghandler.py:226
 #, python-format
@@ -540,12 +540,12 @@ msgstr ""
 #: ../gramps/cli/arghandler.py:252
 #, python-format
 msgid "Error: Import file %s not found."
-msgstr "Erro: Arquivo de importação %s não encontrado."
+msgstr "Erro: Arquivo para importação %s não encontrado."
 
 #: ../gramps/cli/arghandler.py:270
 #, python-format
 msgid "Error: Unrecognized type: \"%(format)s\" for import file: %(filename)s"
-msgstr "Erro: Formato \"%(format)s\" do arquivo de importação %(filename)s não reconhecido"
+msgstr "Erro: Formato \"%(format)s\" do arquivo para importação %(filename)s não foi reconhecido"
 
 #: ../gramps/cli/arghandler.py:290
 #, python-format
@@ -554,13 +554,13 @@ msgid ""
 "WARNING: It will be overwritten:\n"
 "   %s"
 msgstr ""
-"AVISO: Já existe o arquivo de saída!\n"
+"AVISO: O arquivo de saída já existe!\n"
 "AVISO: Ele será sobrescrito:\n"
 "   %s"
 
 #: ../gramps/cli/arghandler.py:293
 msgid "OK to overwrite?"
-msgstr "Deseja sobrescrever? (sim/não) "
+msgstr "Deseja sobrescrever?"
 
 #: ../gramps/cli/arghandler.py:294 ../gramps/cli/clidbman.py:433
 msgid "no"
@@ -573,7 +573,7 @@ msgstr "sim"
 #: ../gramps/cli/arghandler.py:297
 #, python-format
 msgid "Will overwrite the existing file: %s"
-msgstr "Irá substituir o arquivo %s existente"
+msgstr "Irá substituir o arquivo existente: %s"
 
 #: ../gramps/cli/arghandler.py:317
 #, python-format
@@ -591,7 +591,7 @@ msgstr "%(full_DB_path)s com o nome \"%(f_t_name)s\""
 
 #: ../gramps/cli/arghandler.py:428 ../gramps/cli/clidbman.py:183
 msgid "Gramps Family Trees:"
-msgstr "Árvores genealógicas do Gramps:"
+msgstr "Árvores genealógicas no Gramps:"
 
 #. We have to construct the line elements together, to avoid
 #. insertion of blank spaces when print on the same line is used
@@ -631,7 +631,7 @@ msgstr "Limpando."
 
 #: ../gramps/cli/arghandler.py:509
 msgid "Created empty Family Tree successfully"
-msgstr "Uma árvore genealógica vazia foi criada com sucesso"
+msgstr "Árvore genealógica vazia criada com sucesso"
 
 #: ../gramps/cli/arghandler.py:512 ../gramps/cli/arghandler.py:538
 msgid "Error opening the file."
@@ -648,34 +648,34 @@ msgstr "Importando: arquivo %(filename)s, formato %(format)s."
 
 #: ../gramps/cli/arghandler.py:536
 msgid "Opened successfully!"
-msgstr "Aberta com sucesso!"
+msgstr "Aberto com sucesso!"
 
 #: ../gramps/cli/arghandler.py:550
 msgid "Database is locked, cannot open it!"
-msgstr "A base de dados não pode ser aberta porque está bloqueada!"
+msgstr "A base de dados não pôde ser aberta porque está bloqueada!"
 
 #: ../gramps/cli/arghandler.py:551
 #, python-format
 msgid "  Info: %s"
-msgstr "  Informação: %s"
+msgstr "  Informações: %s"
 
 #: ../gramps/cli/arghandler.py:554
 msgid "Database needs recovery, cannot open it!"
-msgstr "A base de dados não pode ser aberta porque necessita de recuperação!"
+msgstr "A base de dados não pôde ser aberta porque necessita de recuperação!"
 
 #: ../gramps/cli/arghandler.py:605 ../gramps/cli/arghandler.py:654 ../gramps/cli/arghandler.py:701
 msgid "Ignoring invalid options string."
-msgstr "Ignorando uma string de opções inválida."
+msgstr "Ignorando opções inválidas na string de opções."
 
 #. name exists, but is not in the list of valid report names
 #: ../gramps/cli/arghandler.py:629
 msgid "Unknown report name."
-msgstr "O nome do relatório não é conhecido."
+msgstr "O nome do relatório desconhecido."
 
 #: ../gramps/cli/arghandler.py:631
 #, python-format
 msgid "Report name not given. Please use one of %(donottranslate)s=reportname"
-msgstr "Nome do relatório não fornecido. Por favor use uma das opções %(donottranslate)s=nome_do_relatório"
+msgstr "Nnão foi fornecido o nome do relatório. Use uma das opções %(donottranslate)s=nome_do_relatório"
 
 #: ../gramps/cli/arghandler.py:635 ../gramps/cli/arghandler.py:683 ../gramps/cli/arghandler.py:717
 #, python-format
@@ -688,21 +688,21 @@ msgstr ""
 
 #: ../gramps/cli/arghandler.py:677
 msgid "Unknown tool name."
-msgstr "O nome da ferramenta não é conhecido."
+msgstr "O nome de ferramenta desconhecido."
 
 #: ../gramps/cli/arghandler.py:679
 #, python-format
 msgid "Tool name not given. Please use one of %(donottranslate)s=toolname."
-msgstr "Nome da ferramenta não fornecido. Por favor use uma das opções %(donottranslate)s=nome_da_ferramenta."
+msgstr "Não foi fornecido o nome da ferramenta. Uma das opções %(donottranslate)s=nome_da_ferramenta."
 
 #: ../gramps/cli/arghandler.py:711
 msgid "Unknown book name."
-msgstr "O nome do livro não é conhecido."
+msgstr "O nome de livro desconhecido."
 
 #: ../gramps/cli/arghandler.py:713
 #, python-format
 msgid "Book name not given. Please use one of %(donottranslate)s=bookname."
-msgstr "Nome do livro não fornecido. Por favor use uma das opções %(donottranslate)s=nome_livro."
+msgstr "Não foi fornecido o nome do livro. Use uma das opções %(donottranslate)s=nome_livro."
 
 #: ../gramps/cli/arghandler.py:722
 #, python-format
@@ -766,7 +766,7 @@ msgstr ""
 "  -y, --yes                                               Não pede confirmação em ações arriscadas (somente no modo texto)\n"
 "  -q, --quiet                                          Suprime o indicador de progresso (somente no modo texto)\n"
 "  -v, --version                                     Mostra a versão\n"
-"  -b, --databases                              Mostra os backends de bancos de dados disponíveis\n"
+"  -b, --databases                              Mostra as infraestruturas de bancos de dados disponíveis\n"
 "\n"
 
 #: ../gramps/cli/argparser.py:83
@@ -870,7 +870,7 @@ msgid ""
 "Type gramps --help for an overview of commands, or read the manual pages."
 msgstr ""
 "Erro ao analisar os argumentos: %s \n"
-"Digite 'gramps --help' para uma visão geral dos comandos ou leia o manual."
+"Digite gramps --help para uma visão geral dos comandos ou leia o manual."
 
 #: ../gramps/cli/argparser.py:262
 #, python-format
@@ -916,7 +916,7 @@ msgstr "    Nova opção de configuração do Gramps: %(name)s:%(value)s"
 #: ../gramps/cli/argparser.py:376
 #, python-format
 msgid "Gramps: no such config setting: '%s'"
-msgstr "Gramps: a opção de configuração não foi encontrada: '%s'"
+msgstr "Gramps: opção de configuração não existe: '%s'"
 
 #: ../gramps/cli/argparser.py:414
 #, python-format
@@ -938,7 +938,7 @@ msgstr ""
 
 #: ../gramps/cli/clidbman.py:168 ../gramps/cli/clidbman.py:170 ../gramps/gui/clipboard.py:186 ../gramps/gui/clipboard.py:187 ../gramps/gui/plug/_windows.py:483
 msgid "Unavailable"
-msgstr "Não disponível"
+msgstr "Indisponível"
 
 #: ../gramps/cli/clidbman.py:172 ../gramps/gen/lib/media.py:195 ../gramps/gui/editors/displaytabs/webembedlist.py:66 ../gramps/gui/filters/sidebar/_mediasidebarfilter.py:90 ../gramps/gui/glade/editmedia.glade:289 ../gramps/gui/glade/editmediaref.glade:670 ../gramps/plugins/view/mediaview.py:97
 msgid "Path"
@@ -1057,7 +1057,7 @@ msgstr "Foi detectada uma corrupção de baixo nível na base de dados"
 
 #: ../gramps/cli/grampscli.py:106 ../gramps/cli/user.py:197 ../gramps/gui/dialog.py:215
 msgid "Gramps has detected a problem in the underlying Berkeley database. This can be repaired from the Family Tree Manager. Select the database and click on the Repair button"
-msgstr "O Gramps detectou um problema na base de dados Berkeley subjacente. Isto pode ser reparado a partir do gerenciador de árvore genealógica. Selecione a base de dados e clique no botão 'Reparar'"
+msgstr "O Gramps detectou um problema na base de dados Berkeley. Isto pode ser reparado a partir do gerenciador de árvore genealógica. Selecione a base de dados e clique no botão 'Reparar'"
 
 #: ../gramps/cli/grampscli.py:151 ../gramps/gui/dbloader.py:301
 msgid "Read only database"
@@ -1310,17 +1310,17 @@ msgstr ""
 #. Abbreviated month name, day, year
 #: ../gramps/gen/datehandler/_datedisplay.py:76
 msgid "MON DAY, YEAR"
-msgstr ""
+msgstr "Mês dia, ano"
 
 #. Day, full month name, year
 #: ../gramps/gen/datehandler/_datedisplay.py:79
 msgid "Day Month Year"
-msgstr "Dia Mês Ano"
+msgstr "Dia mês ano"
 
 #. Day, abbreviated month name, year
 #: ../gramps/gen/datehandler/_datedisplay.py:82
 msgid "DAY MON YEAR"
-msgstr ""
+msgstr "Dia mês ano"
 
 #. TRANSLATORS: see
 #. http://gramps-project.org/wiki/index.php?title=Translating_Gramps#Translating_dates
@@ -1418,7 +1418,7 @@ msgstr ""
 #: ../gramps/gen/datehandler/_datedisplay.py:232
 #, python-brace-format
 msgid "{short_month} {year}"
-msgstr "{short_month} {year}"
+msgstr ""
 
 #. first date in a span
 #. If "from <Month>" needs a special inflection in your
@@ -1669,7 +1669,7 @@ msgstr "Dezembro"
 #. DateDisplayer code!
 #: ../gramps/gen/datehandler/_datestrings.py:97
 msgid "localized lexeme inflections - short month form||Jan"
-msgstr "janv."
+msgstr "Jan"
 
 #: ../gramps/gen/datehandler/_datestrings.py:98
 msgid "localized lexeme inflections - short month form||Feb"
@@ -1677,7 +1677,7 @@ msgstr "Fev"
 
 #: ../gramps/gen/datehandler/_datestrings.py:99
 msgid "localized lexeme inflections - short month form||Mar"
-msgstr "mars"
+msgstr "Mar"
 
 #: ../gramps/gen/datehandler/_datestrings.py:100
 msgid "localized lexeme inflections - short month form||Apr"
@@ -1689,11 +1689,11 @@ msgstr "Mai"
 
 #: ../gramps/gen/datehandler/_datestrings.py:102
 msgid "localized lexeme inflections - short month form||Jun"
-msgstr "juin"
+msgstr "Jun"
 
 #: ../gramps/gen/datehandler/_datestrings.py:103
 msgid "localized lexeme inflections - short month form||Jul"
-msgstr "juil."
+msgstr "Jul"
 
 #: ../gramps/gen/datehandler/_datestrings.py:104
 msgid "localized lexeme inflections - short month form||Aug"
@@ -1709,7 +1709,7 @@ msgstr "Out"
 
 #: ../gramps/gen/datehandler/_datestrings.py:107
 msgid "localized lexeme inflections - short month form||Nov"
-msgstr "nov."
+msgstr "Nov"
 
 #: ../gramps/gen/datehandler/_datestrings.py:108
 msgid "localized lexeme inflections - short month form||Dec"
@@ -1721,51 +1721,51 @@ msgstr "Dez"
 #. DateParser code!
 #: ../gramps/gen/datehandler/_datestrings.py:116
 msgid "alternative month names for January||"
-msgstr ""
+msgstr "Janeiro"
 
 #: ../gramps/gen/datehandler/_datestrings.py:117
 msgid "alternative month names for February||"
-msgstr ""
+msgstr "Fevereiro"
 
 #: ../gramps/gen/datehandler/_datestrings.py:118
 msgid "alternative month names for March||"
-msgstr ""
+msgstr "Março"
 
 #: ../gramps/gen/datehandler/_datestrings.py:119
 msgid "alternative month names for April||"
-msgstr ""
+msgstr "Abril"
 
 #: ../gramps/gen/datehandler/_datestrings.py:120
 msgid "alternative month names for May||"
-msgstr ""
+msgstr "Maio"
 
 #: ../gramps/gen/datehandler/_datestrings.py:121
 msgid "alternative month names for June||"
-msgstr ""
+msgstr "Junho"
 
 #: ../gramps/gen/datehandler/_datestrings.py:122
 msgid "alternative month names for July||"
-msgstr ""
+msgstr "Julho"
 
 #: ../gramps/gen/datehandler/_datestrings.py:123
 msgid "alternative month names for August||"
-msgstr ""
+msgstr "Agosto"
 
 #: ../gramps/gen/datehandler/_datestrings.py:124
 msgid "alternative month names for September||"
-msgstr ""
+msgstr "Setembro"
 
 #: ../gramps/gen/datehandler/_datestrings.py:125
 msgid "alternative month names for October||"
-msgstr ""
+msgstr "Outubro"
 
 #: ../gramps/gen/datehandler/_datestrings.py:126
 msgid "alternative month names for November||"
-msgstr ""
+msgstr "Novembro"
 
 #: ../gramps/gen/datehandler/_datestrings.py:127
 msgid "alternative month names for December||"
-msgstr ""
+msgstr "Dezembro"
 
 #. Must appear in the order indexed by Date.CAL_... numeric constants
 #: ../gramps/gen/datehandler/_datestrings.py:131 ../gramps/gen/lib/date.py:602
@@ -5435,7 +5435,7 @@ msgstr "A fazer"
 #: ../gramps/gen/lib/media.py:192 ../gramps/gen/lib/media.py:193 ../gramps/gen/lib/person.py:255 ../gramps/gui/clipboard.py:659 ../gramps/gui/editors/editlink.py:92 ../gramps/gui/editors/filtereditor.py:298 ../gramps/plugins/gramplet/quickviewgramplet.py:110 ../gramps/plugins/quickview/filterbyname.py:109 ../gramps/plugins/quickview/filterbyname.py:134 ../gramps/plugins/quickview/filterbyname.py:215 ../gramps/plugins/quickview/filterbyname.py:270 ../gramps/plugins/quickview/filterbyname.py:398 ../gramps/plugins/quickview/quickview.gpr.py:204 ../gramps/plugins/quickview/references.py:93 ../gramps/plugins/textreport/tagreport.py:553 ../gramps/plugins/view/mediaview.py:129 ../gramps/plugins/view/view.gpr.py:80
 #: ../gramps/plugins/view/view.gpr.py:88 ../gramps/plugins/webreport/narrativeweb.py:1864 ../gramps/plugins/webreport/narrativeweb.py:1928 ../gramps/plugins/webreport/narrativeweb.py:1989 ../gramps/plugins/webreport/narrativeweb.py:2036 ../gramps/plugins/webreport/narrativeweb.py:2336 ../gramps/plugins/webreport/narrativeweb.py:5012 ../gramps/plugins/webreport/narrativeweb.py:5209
 msgid "Media"
-msgstr "Mídia"
+msgstr "Mídias"
 
 #. #########################
 #: ../gramps/gen/lib/media.py:194 ../gramps/gen/lib/person.py:246 ../gramps/plugins/importer/importcsv.py:215 ../gramps/plugins/quickview/filterbyname.py:154 ../gramps/plugins/quickview/filterbyname.py:165 ../gramps/plugins/quickview/filterbyname.py:175 ../gramps/plugins/quickview/filterbyname.py:185 ../gramps/plugins/quickview/filterbyname.py:195 ../gramps/plugins/quickview/filterbyname.py:205 ../gramps/plugins/quickview/filterbyname.py:215 ../gramps/plugins/quickview/filterbyname.py:225 ../gramps/plugins/quickview/filterbyname.py:234 ../gramps/plugins/quickview/filterbyname.py:240 ../gramps/plugins/quickview/filterbyname.py:246 ../gramps/plugins/quickview/filterbyname.py:252
@@ -6522,7 +6522,7 @@ msgstr "Geradores de código"
 
 #: ../gramps/gen/plug/report/_constants.py:48
 msgid "Web Pages"
-msgstr "Páginas Web"
+msgstr "Páginas web"
 
 #: ../gramps/gen/plug/report/_constants.py:49
 msgid "Books"
@@ -10632,9 +10632,10 @@ msgstr "_Título:"
 msgid "Convert to a relative path"
 msgstr "Converter para um caminho relativo"
 
+# Caixa de seleção na janela para escolha de parceiro em um relacionamento.
 #: ../gramps/gui/glade/baseselector.glade:120
 msgid "Show all"
-msgstr "Mostrar tudo"
+msgstr "Mostrar todos"
 
 #: ../gramps/gui/glade/book.glade:54
 msgid "Book _name:"
@@ -14293,7 +14294,7 @@ msgstr "%(title)s..."
 
 #: ../gramps/gui/views/navigationview.py:293
 msgid "Go to the next object in the history"
-msgstr "Ir para o próximo objeto na história"
+msgstr "Ir para o próximo objeto no histórico"
 
 #: ../gramps/gui/views/navigationview.py:300
 msgid "_Back"
@@ -14301,7 +14302,7 @@ msgstr "_Voltar"
 
 #: ../gramps/gui/views/navigationview.py:301
 msgid "Go to the previous object in the history"
-msgstr "Ir para o objeto anterior na história"
+msgstr "Ir para o objeto anterior no histórico"
 
 #: ../gramps/gui/views/navigationview.py:305 ../gramps/plugins/view/pedigreeview.py:1545
 msgid "_Home"
@@ -14309,11 +14310,11 @@ msgstr "_Página inicial"
 
 #: ../gramps/gui/views/navigationview.py:307
 msgid "Go to the default person"
-msgstr "Ir para a pessoa predefinida"
+msgstr "Ir para a pessoa inicial"
 
 #: ../gramps/gui/views/navigationview.py:311
 msgid "Set _Home Person"
-msgstr "_Estabelecer a pessoa inicial"
+msgstr "_Definir a pessoa inicial"
 
 #: ../gramps/gui/views/navigationview.py:336
 msgid "No Home Person"
@@ -18017,11 +18018,11 @@ msgstr ": %s\n"
 
 #: ../gramps/plugins/graph/graphplugins.gpr.py:33
 msgid "Family Lines Graph"
-msgstr "Grafo de linhas familiares"
+msgstr "Grafo de linhagens"
 
 #: ../gramps/plugins/graph/graphplugins.gpr.py:34
 msgid "Produces family line graphs using Graphviz."
-msgstr "Gera grafos de linhas familiares utilizando o Graphviz."
+msgstr "Gera grafos de linhagens utilizando o Graphviz."
 
 #: ../gramps/plugins/graph/graphplugins.gpr.py:56
 msgid "Hourglass Graph"
@@ -18058,19 +18059,19 @@ msgstr "Preenchimento de cor"
 
 #: ../gramps/plugins/graph/gvfamilylines.py:116
 msgid "Follow parents to determine \"family lines\""
-msgstr "Seguir os pais para determinar \"linhas familiares\""
+msgstr "Seguir os pais para determinar \"linhagens\""
 
 #: ../gramps/plugins/graph/gvfamilylines.py:118
 msgid "Parents and their ancestors will be considered when determining \"family lines\"."
-msgstr "Serão considerados os pais e os seus ascendentes para determinar as \"linhas familiares\"."
+msgstr "Serão considerados os pais e os seus ascendentes para determinar as \"linhagens\"."
 
 #: ../gramps/plugins/graph/gvfamilylines.py:122
 msgid "Follow children to determine \"family lines\""
-msgstr "Seguir filhos para determinar \"linhas familiares\""
+msgstr "Seguir filhos para determinar \"linhagens\""
 
 #: ../gramps/plugins/graph/gvfamilylines.py:124
 msgid "Children will be considered when determining \"family lines\"."
-msgstr "Serão considerados os filhos para determinar as \"linhas familiares\"."
+msgstr "Serão considerados os filhos para determinar as \"linhagens\"."
 
 #: ../gramps/plugins/graph/gvfamilylines.py:128
 msgid "Try to remove extra people and families"
@@ -18078,7 +18079,7 @@ msgstr "Tentar remover pessoas e famílias distantes"
 
 #: ../gramps/plugins/graph/gvfamilylines.py:130
 msgid "People and families not directly related to people of interest will be removed when determining \"family lines\"."
-msgstr "As pessoas e famílias que não sejam diretamente relacionadas com as pessoas de interesse serão removidas ao determinar as \"linhas familiares\"."
+msgstr "As pessoas e famílias que não sejam diretamente relacionadas com as pessoas de interesse serão removidas ao determinar as \"linhagens\"."
 
 #. see bug report #2180
 #: ../gramps/plugins/graph/gvfamilylines.py:136 ../gramps/plugins/graph/gvhourglass.py:349 ../gramps/plugins/graph/gvrelgraph.py:805
@@ -18110,7 +18111,7 @@ msgstr "Pessoas de interesse"
 
 #: ../gramps/plugins/graph/gvfamilylines.py:157
 msgid "People of interest are used as a starting point when determining \"family lines\"."
-msgstr "As pessoas de interesse são usadas como um ponto de partida para determinar as \"linhas familiares\"."
+msgstr "As pessoas de interesse são usadas como um ponto de partida para determinar as \"linhagens\"."
 
 #: ../gramps/plugins/graph/gvfamilylines.py:161
 msgid "Limit the number of ancestors"
@@ -18220,7 +18221,7 @@ msgstr "Cores da família"
 
 #: ../gramps/plugins/graph/gvfamilylines.py:244
 msgid "Colors to use for various family lines."
-msgstr "Cores a serem utilizadas nas diversas linhas familiares."
+msgstr "Cores a serem utilizadas nas diversas linhagens."
 
 #: ../gramps/plugins/graph/gvfamilylines.py:252 ../gramps/plugins/graph/gvrelgraph.py:781
 msgid "The color to use to display men."
@@ -27326,7 +27327,7 @@ msgstr "Mostrar anel de filhos"
 
 #: ../gramps/plugins/view/geoclose.py:143 ../gramps/plugins/view/geography.gpr.py:153
 msgid "Have they been able to meet?"
-msgstr "Eles têm sido capazes de atender?"
+msgstr "Eles têm sido capazes de se encontrar?"
 
 #: ../gramps/plugins/view/geoclose.py:177
 msgid "GeoClose"
@@ -27425,7 +27426,7 @@ msgstr "Centralizar neste lugar"
 
 #: ../gramps/plugins/view/geofamclose.py:143 ../gramps/plugins/view/geography.gpr.py:135
 msgid "Have these two families been able to meet?"
-msgstr "Será que essas duas famílias conseguiram cumprir?"
+msgstr "Essts duas famílias foram capazes de se encontrar?"
 
 #: ../gramps/plugins/view/geofamclose.py:174
 msgid "GeoFamClose"
@@ -28284,7 +28285,7 @@ msgstr "Contato"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:1869 ../gramps/plugins/webreport/webplugins.gpr.py:55
 msgid "Web Calendar"
-msgstr "Calendário Web"
+msgstr "Calendário web"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:2418 ../gramps/plugins/webreport/narrativeweb.py:7835
 msgid "Web Links"
@@ -29096,7 +29097,7 @@ msgstr "Menu alfabético: %s"
 #. generate progress pass for "Year At A Glance"
 #: ../gramps/plugins/webreport/webcal.py:324 ../gramps/plugins/webreport/webcal.py:955 ../gramps/plugins/webreport/webcal.py:1040 ../gramps/plugins/webreport/webcal.py:1256 ../gramps/plugins/webreport/webcal.py:1261
 msgid "Web Calendar Report"
-msgstr "Relatório de calendário Web"
+msgstr "Relatório de calendário web"
 
 #: ../gramps/plugins/webreport/webcal.py:325
 #, python-format
@@ -29323,11 +29324,11 @@ msgstr "Se devem ser criadas páginas para cada dia"
 
 #: ../gramps/plugins/webreport/webcal.py:1815
 msgid "Link to Narrated Web Report"
-msgstr "Criar link para o relatório Web narrativo"
+msgstr "Criar link para o relatório web narrativo"
 
 #: ../gramps/plugins/webreport/webcal.py:1816
 msgid "Whether to link data to web report or not"
-msgstr "Se devem ser criadas ligações com os dados do relatório Web"
+msgstr "Se devem ser criadas ligações com os dados do relatório web"
 
 #: ../gramps/plugins/webreport/webcal.py:1822
 msgid "Link prefix"
@@ -29335,7 +29336,7 @@ msgstr "Prefixo da ligação"
 
 #: ../gramps/plugins/webreport/webcal.py:1823
 msgid "A Prefix on the links to take you to Narrated Web Report"
-msgstr "Prefixo a colocar nas ligações com o relatório Web narrativo"
+msgstr "Prefixo a colocar nas ligações com o relatório web narrativo"
 
 #: ../gramps/plugins/webreport/webcal.py:1990
 #, python-format
@@ -29361,7 +29362,7 @@ msgstr[1] "Aniversário de {years} anos de casamento de {couple}"
 
 #: ../gramps/plugins/webreport/webplugins.gpr.py:31
 msgid "Narrated Web Site"
-msgstr "Relatório Web narrativo"
+msgstr "Relatório web narrativo"
 
 #: ../gramps/plugins/webreport/webplugins.gpr.py:32
 msgid "Produces web (HTML) pages for individuals, or a set of individuals"
@@ -29374,7 +29375,7 @@ msgstr "Gera calendários Web (HTML)."
 # VERIFICAR
 #: ../gramps/plugins/webstuff/webstuff.gpr.py:34
 msgid "Webstuff"
-msgstr "Webstuff"
+msgstr "Coisas para a web"
 
 #: ../gramps/plugins/webstuff/webstuff.gpr.py:35
 msgid "Provides a collection of resources for the web"
