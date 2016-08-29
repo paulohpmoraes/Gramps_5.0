@@ -9,11 +9,11 @@
 # Paulo Henrique Paiva de Moraes <paulohpmoraes@gmail.com>, 2016.
 msgid ""
 msgstr ""
-"Project-Id-Version: GRAMPS 4.0\n"
+"Project-Id-Version: GRAMPS 5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-29 23:03-0700\n"
-"PO-Revision-Date: 2016-08-24 20:18-0300\n"
-"Last-Translator: Paulo Henrique Paiva de Moraes <paulohpmoraes@gmail.com>\n"
+"PO-Revision-Date: 2016-08-29 15:53-0300\n"
+"Last-Translator: Paulo Henrique Paiva de Moraes <paulohpmnoraes@gmail.com>\n"
 "Language-Team: \n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -6603,7 +6603,7 @@ msgstr "Nomes completos, porém dados removidos"
 
 #: ../gramps/gen/plug/report/stdoptions.py:175
 msgid "'living people'|Given names replaced, and data removed"
-msgstr "Nomes de batismo substituídos, e dados removidos"
+msgstr "Nomes próprios substituídos, e dados removidos"
 
 #: ../gramps/gen/plug/report/stdoptions.py:177
 msgid "'living people'|Complete names replaced, and data removed"
@@ -7523,7 +7523,12 @@ msgstr "Contribuições de"
 #. TRANSLATORS: Translate this to your name in your native language
 #: ../gramps/gui/aboutdialog.py:119
 msgid "translator-credits"
-msgstr "Paulo Henrique Paiva de Moraes"
+msgstr ""
+"Marcos Bedinelli, 2002 a 2006.\n"
+"Luiz Gonzaga dos Santos Filho, 2007.\n"
+"lcc, 2009.\n"
+"André Marcelo Alvarenga, 2011 a 2014.\n"
+"Paulo Henrique Paiva de Moraes, 2016."
 
 #: ../gramps/gui/clipboard.py:69
 msgid "manual|Using_the_Clipboard"
@@ -7717,7 +7722,7 @@ msgid ""
 "     <i>Dr.</i>: Title, <i>Sr</i>: Suffix, <i>Ed</i>: Nickname, <i>Underhills</i>: Familynick, <i>Jose</i>: Call.\n"
 msgstr ""
 "As palavras-chave a seguir são substituídas pelas partes do nome apropriadas:<tt>\n"
-"  <b>Given</b>   - nome de batismo (primeiro nome)     <b>Surname</b>  - sobrenomes (com prefixos e conectores)\n"
+"  <b>Given</b>   - nome próprio (primeiro nome)     <b>Surname</b>  - sobrenomes (com prefixos e conectores)\n"
 "  <b>Title</b>   - título (Dr., Sr.)           <b>Suffix</b>   - sufixo (Jr., Sr.)\n"
 "  <b>Call</b>    - vocativo                   <b>Nickname</b> - apelido\n"
 "  <b>Initials</b>- primeiras letras do nome de batismo      <b>Common</b>   - apelido, vocativo, primeiro dos nomes de batismo\n"
@@ -16791,11 +16796,11 @@ msgstr "Processando..."
 
 #: ../gramps/plugins/gramplet/givennamegramplet.py:150
 msgid "Total unique given names"
-msgstr "Total de primeiros nomes únicos"
+msgstr "Total de nomes próprios únicos"
 
 #: ../gramps/plugins/gramplet/givennamegramplet.py:152
 msgid "Total given names showing"
-msgstr "Total de primeiros nomes exibidos"
+msgstr "Total de nomes próprios exibidos"
 
 #: ../gramps/plugins/gramplet/givennamegramplet.py:153 ../gramps/plugins/gramplet/surnamecloudgramplet.py:177 ../gramps/plugins/gramplet/topsurnamesgramplet.py:112
 msgid "Total people"
@@ -16867,7 +16872,7 @@ msgstr "Nuvem de nomes"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:166
 msgid "Gramplet showing all given names as a text cloud"
-msgstr "Gramplet que mostra todos os primeiros nomes como uma nuvem de texto"
+msgstr "Gramplet que mostra todos os nomes próprios como uma nuvem de texto"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:179 ../gramps/plugins/gramplet/gramplet.gpr.py:185 ../gramps/plugins/view/pedigreeview.py:516 ../gramps/plugins/view/view.gpr.py:125 ../gramps/plugins/webreport/narrativeweb.py:7068
 msgid "Pedigree"
@@ -17838,7 +17843,7 @@ msgstr "Página inicial"
 
 #: ../gramps/plugins/gramplet/welcomegramplet.py:107
 msgid "Start with Genealogy and Gramps"
-msgstr "Introdução à  genealogia e ao Gramps"
+msgstr "Introdução à genealogia e ao Gramps"
 
 #: ../gramps/plugins/gramplet/welcomegramplet.py:110
 msgid "Gramps online manual"
@@ -17861,7 +17866,7 @@ msgid ""
 "Gramps is created by genealogists for genealogists, organized in the Gramps Project. Gramps is an Open Source Software package, which means you are free to make copies and distribute it to anyone you like. It's developed and maintained by a worldwide team of volunteers whose goal is to make Gramps powerful, yet easy to use.\n"
 "\n"
 msgstr ""
-"O Gramps é criado por genealogistas para genealogistas e organizado no projeto Gramps. Ele é um programa de código aberto, o que significa que você pode fazer cópias e distribuí-lo como preferir. Ele é desenvolvido e mantido por equipes de voluntários distribuídas pelo mundo, com objetivo de tornar o Gramps poderoso e fácil de usar.\n"
+"O Gramps é desenvolvido por genealogistas para genealogistas e organizado no projeto Gramps. Ele é um programa de código aberto, o que significa que você pode fazer cópias e distribuí-lo como preferir. Ele é desenvolvido e mantido por equipes de voluntários distribuídas pelo mundo, com objetivo de tornar o Gramps poderoso e fácil de usar.\n"
 "\n"
 
 #: ../gramps/plugins/gramplet/welcomegramplet.py:124
@@ -23558,7 +23563,7 @@ msgstr "Exibe pessoas com o mesmo sobrenome de uma determinada pessoa."
 
 #: ../gramps/plugins/quickview/quickview.gpr.py:283
 msgid "Same Given Names"
-msgstr "Mesmos primeiros nomes"
+msgstr "Mesmos nomes próprios"
 
 #: ../gramps/plugins/quickview/quickview.gpr.py:284 ../gramps/plugins/quickview/quickview.gpr.py:298
 msgid "Display people with the same given name as a person."
@@ -23566,7 +23571,7 @@ msgstr "Exibe pessoas com o mesmo nome próprio de uma determinada pessoa."
 
 #: ../gramps/plugins/quickview/quickview.gpr.py:297
 msgid "Same Given Names - stand-alone"
-msgstr "Mesmos primeiros nomes - independente"
+msgstr "Mesmos nomes próprios - independente"
 
 #: ../gramps/plugins/quickview/quickview.gpr.py:317
 msgid "Display a person's siblings."
