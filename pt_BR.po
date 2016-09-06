@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: GRAMPS 5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-01 18:01+0200\n"
-"PO-Revision-Date: 2016-09-06 10:40-0300\n"
+"PO-Revision-Date: 2016-09-06 11:27-0300\n"
 "Last-Translator: Paulo Henrique Paiva de Moraes <paulohpmoraes@gmail.com>\n"
 "Language-Team: \n"
 "Language: pt_BR\n"
@@ -4751,7 +4751,7 @@ msgstr "Número de filhos"
 
 #: ../gramps/gen/lib/attrtype.py:69
 msgid "Social Security Number"
-msgstr "Cadastro de Pessoas Físicas - CPF"
+msgstr "Cadastro de Pessoa Física (CPF)"
 
 #: ../gramps/gen/lib/attrtype.py:70 ../gramps/gen/utils/keyword.py:72 ../gramps/gui/configure.py:646 ../gramps/gui/configure.py:648 ../gramps/gui/configure.py:653 ../gramps/gui/configure.py:660 ../gramps/plugins/tool/patchnames.py:430
 msgid "Nickname"
@@ -6401,7 +6401,7 @@ msgstr ""
 
 #: ../gramps/gen/plug/docgen/graphdoc.py:213
 msgid "DPI"
-msgstr "Resolução (PPP)"
+msgstr "PPP"
 
 #: ../gramps/gen/plug/docgen/graphdoc.py:214
 msgid "Dots per inch.  When creating images such as .gif or .png files for the web, try numbers such as 100 or 300 DPI.  PostScript and PDF files always use 72 DPI."
@@ -6717,7 +6717,7 @@ msgstr "Atualizado"
 
 #: ../gramps/gen/plug/utils.py:262
 msgid "updates|New"
-msgstr "Atualizar"
+msgstr "Nova"
 
 #: ../gramps/gen/plug/utils.py:291 ../gramps/gen/plug/utils.py:298
 #, python-format
@@ -7599,15 +7599,15 @@ msgstr "Volume/Página: %(pag)s -- %(sourcetext)s"
 
 #: ../gramps/gui/clipboard.py:535
 msgid "Repository ref"
-msgstr "Repositório de referência"
+msgstr "Ref. de repositório"
 
 #: ../gramps/gui/clipboard.py:553
 msgid "Event ref"
-msgstr "Evento de referência"
+msgstr "Ref. de evento"
 
 #: ../gramps/gui/clipboard.py:571
 msgid "Place ref"
-msgstr "Ref de lugar"
+msgstr "Ref. de lugar"
 
 #: ../gramps/gui/clipboard.py:605 ../gramps/gui/editors/editplacename.py:134
 msgid "Place Name"
@@ -7615,15 +7615,15 @@ msgstr "Nome do lugar"
 
 #: ../gramps/gui/clipboard.py:686
 msgid "Media ref"
-msgstr "Mídia de referência"
+msgstr "Ref. de mídia"
 
 #: ../gramps/gui/clipboard.py:704
 msgid "Person ref"
-msgstr "Pessoa de referência"
+msgstr "Ref. de pessoa"
 
 #: ../gramps/gui/clipboard.py:722
 msgid "Child ref"
-msgstr "Filho de referência"
+msgstr "Ref. de filho"
 
 #: ../gramps/gui/clipboard.py:731
 #, python-format
@@ -7899,7 +7899,7 @@ msgstr "Chamado"
 
 #: ../gramps/gui/configure.py:656
 msgid "NotPatronymic"
-msgstr "Sem patronímico"
+msgstr "Não patronímico"
 
 #: ../gramps/gui/configure.py:733
 msgid "Enter to save, Esc to cancel editing"
@@ -11086,7 +11086,7 @@ msgstr "Calendá_rio:"
 
 #: ../gramps/gui/glade/editdate.glade:195
 msgid "Dua_l dated"
-msgstr "Duas datas"
+msgstr "Data dup_la"
 
 #: ../gramps/gui/glade/editdate.glade:200
 msgid "Old Style/New Style"
