@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: GRAMPS 5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-23 15:45+0200\n"
-"PO-Revision-Date: 2016-11-14 07:04-0200\n"
+"PO-Revision-Date: 2016-11-14 07:36-0200\n"
 "Last-Translator: Paulo Henrique Paiva de Moraes <paulohpmoraes@gmail.com>\n"
 "Language-Team: \n"
 "Language: pt_BR\n"
@@ -4359,7 +4359,7 @@ msgstr "País:"
 
 #: ../gramps/gen/filters/rules/place/_hasplace.py:55
 msgid "ZIP/Postal Code:"
-msgstr "CEP/Código Postal:"
+msgstr "CEP/Código postal:"
 
 #: ../gramps/gen/filters/rules/place/_hasplace.py:56
 msgid "Church Parish:"
@@ -4431,11 +4431,11 @@ msgstr "Localiza os lugares com latitude ou longitude posicionados entre a largu
 
 #: ../gramps/gen/filters/rules/place/_isenclosedby.py:49
 msgid "Places enclosed by another place"
-msgstr "Lugares circundados por outros lugares"
+msgstr "Lugares englobado por outros lugares"
 
 #: ../gramps/gen/filters/rules/place/_isenclosedby.py:50
 msgid "Matches a place enclosed by a particular place"
-msgstr "Encontra lugares circundados por um lugar específico"
+msgstr "Encontra lugares englobado por um lugar específico"
 
 #: ../gramps/gen/filters/rules/place/_matcheseventfilter.py:50
 msgid "Places of events matching the <event filter>"
@@ -5361,11 +5361,11 @@ msgstr "União civil"
 
 #: ../gramps/gen/lib/familyreltype.py:50
 msgid "Unmarried"
-msgstr "Solteiro(a)"
+msgstr "Solteiros"
 
 #: ../gramps/gen/lib/familyreltype.py:51 ../gramps/plugins/webreport/webcal.py:2025
 msgid "Married"
-msgstr "Casado(a)"
+msgstr "Casados"
 
 #: ../gramps/gen/lib/grampstype.py:213 ../gramps/gen/lib/grampstype.py:214 ../gramps/gen/lib/grampstype.py:215
 msgid "Family Relationship"
@@ -7455,7 +7455,7 @@ msgstr "Muito alto"
 
 #: ../gramps/gen/utils/string.py:56 ../gramps/gui/editors/editcitation.py:215 ../gramps/plugins/tool/finddupes.py:62
 msgid "High"
-msgstr "Alta"
+msgstr "Alto"
 
 #: ../gramps/gen/utils/string.py:57 ../gramps/gui/editors/editcitation.py:214 ../gramps/plugins/graph/gvfamilylines.py:242
 msgid "Normal"
@@ -7463,7 +7463,7 @@ msgstr "Normal"
 
 #: ../gramps/gen/utils/string.py:58 ../gramps/gui/editors/editcitation.py:213 ../gramps/plugins/tool/finddupes.py:60
 msgid "Low"
-msgstr "Baixa"
+msgstr "Baixo"
 
 #: ../gramps/gen/utils/string.py:59 ../gramps/gui/editors/editcitation.py:212
 msgid "Very Low"
@@ -7800,7 +7800,7 @@ msgstr "Estado/Província"
 
 #: ../gramps/gui/configure.py:519 ../gramps/plugins/view/repoview.py:94
 msgid "ZIP/Postal Code"
-msgstr "CEP/Código Postal"
+msgstr "CEP/Código postal"
 
 #: ../gramps/gui/configure.py:520 ../gramps/plugins/export/exportgedcom.py:755 ../gramps/plugins/export/exportgedcom.py:1123 ../gramps/plugins/gramplet/repositorydetails.py:121 ../gramps/plugins/lib/libgedcom.py:3973 ../gramps/plugins/lib/libgedcom.py:5684 ../gramps/plugins/webreport/narrativeweb.py:1482
 msgid "Phone"
@@ -8173,7 +8173,7 @@ msgstr ""
 
 #: ../gramps/gui/configure.py:1334
 msgid "Display Tip of the Day"
-msgstr "Exibir 'Dica do Dia'"
+msgstr "Exibir 'Dica do dia'"
 
 #: ../gramps/gui/configure.py:1339
 msgid "Remember last view displayed"
@@ -9223,7 +9223,7 @@ msgstr "Nomes Alternativos"
 
 #: ../gramps/gui/editors/displaytabs/placerefembedlist.py:69 ../gramps/gui/filters/sidebar/_placesidebarfilter.py:108 ../gramps/plugins/gramplet/gramplet.gpr.py:1282
 msgid "Enclosed By"
-msgstr "Circundado Por"
+msgstr "Englobado por"
 
 #: ../gramps/gui/editors/displaytabs/placerefembedlist.py:141
 msgid "Place cycle detected"
@@ -9231,7 +9231,7 @@ msgstr "Referência circular de lugares detectado"
 
 #: ../gramps/gui/editors/displaytabs/placerefembedlist.py:142
 msgid "The place you are adding is already enclosed by this place"
-msgstr "O lugar que você está adicionando já é circundado por este lugar"
+msgstr "O lugar que você está adicionando já é englobado por este lugar"
 
 #: ../gramps/gui/editors/displaytabs/repoembedlist.py:55
 msgid "Create and add a new repository"
@@ -10904,7 +10904,7 @@ msgstr "_Estado/Condado:"
 
 #: ../gramps/gui/glade/editaddress.glade:166 ../gramps/gui/glade/editlocation.glade:249
 msgid "_ZIP/Postal code:"
-msgstr "_CEP/Código Postal:"
+msgstr "_CEP/Código postal:"
 
 #: ../gramps/gui/glade/editaddress.glade:180
 msgid "Postal code"
@@ -11661,7 +11661,7 @@ msgstr "Idioma em que o nome está escrito. Os valores válidos são códigos IS
 
 #: ../gramps/gui/glade/editplaceref.glade:280
 msgid "<b>Note:</b> Any changes in the enclosing place information will be reflected in the place itself, for places that it encloses."
-msgstr "<b>Observação:</b> Quaisquer alterações nas informações do lugar circundante será refletido no próprio lugar, para os lugares que ele circunda."
+msgstr "<b>Observação:</b> Quaisquer alterações nas informações do lugar que engloba será refletido no próprio lugar, para os lugares que ele engloba."
 
 #: ../gramps/gui/glade/editreporef.glade:127
 msgid "_Media Type:"
@@ -16421,7 +16421,7 @@ msgstr "Longitude"
 
 #: ../gramps/plugins/export/exportcsv.py:287
 msgid "Enclosed_by"
-msgstr "Circundado_por"
+msgstr "Englobado_por"
 
 #: ../gramps/plugins/export/exportcsv.py:339
 #, python-brace-format
@@ -17516,23 +17516,23 @@ msgstr "Gramplet para gerar códigos SoundEx"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:1274
 msgid "Place Enclosed By"
-msgstr "Lugar Circundado Por"
+msgstr "Lugar englobado por"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:1275
 msgid "Gramplet showing the places enclosed by the active place"
-msgstr "Gramplet que mostra os lugares circundados pelo lugar atual"
+msgstr "Gramplet que mostra os lugares englobados pelo lugar atual"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:1288
 msgid "Place Encloses"
-msgstr "Lugar Circunda"
+msgstr "Lugar engloba"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:1289
 msgid "Gramplet showing the places that the active place encloses"
-msgstr "Gramplet que mostra os lugares que o lugar ativo circunda"
+msgstr "Gramplet que mostra os lugares que o lugar ativo engloba"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:1296
 msgid "Encloses"
-msgstr "Circunda"
+msgstr "Engloba"
 
 #: ../gramps/plugins/gramplet/gramplet.gpr.py:1302
 msgid "Geography coordinates for Person Events"
@@ -18741,11 +18741,11 @@ msgstr "código"
 
 #: ../gramps/plugins/importer/importcsv.py:227
 msgid "enclosed by"
-msgstr "circundado por"
+msgstr "englobado por"
 
 #: ../gramps/plugins/importer/importcsv.py:228
 msgid "enclosed_by"
-msgstr "circundado_por"
+msgstr "englobado_por"
 
 #: ../gramps/plugins/importer/importcsv.py:255
 #, python-format
@@ -26350,7 +26350,7 @@ msgstr "_País:"
 
 #: ../gramps/plugins/tool/ownereditor.glade:222
 msgid "_ZIP/Postal Code:"
-msgstr "_CEP/Código Postal:"
+msgstr "_CEP/Código postal:"
 
 #: ../gramps/plugins/tool/ownereditor.glade:236
 msgid "_Phone:"
@@ -28120,7 +28120,7 @@ msgstr " (1 irmã)"
 
 #: ../gramps/plugins/view/relview.py:874 ../gramps/plugins/view/relview.py:930
 msgid " (1 sibling)"
-msgstr "(1 irmão)"
+msgstr " (1 irmão)"
 
 #: ../gramps/plugins/view/relview.py:876 ../gramps/plugins/view/relview.py:932
 msgid " (only child)"
@@ -28360,7 +28360,7 @@ msgstr "Estado/Província"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:1480 ../gramps/plugins/webreport/narrativeweb.py:2940 ../gramps/plugins/webreport/narrativeweb.py:2966
 msgid "Postal Code"
-msgstr "CEP/Código Postal"
+msgstr "CEP/Código postal"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:1675
 #, python-format
@@ -28439,7 +28439,7 @@ msgstr " [Clique para ir]"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:2517
 msgid "Latter-Day Saints/ LDS Ordinance"
-msgstr "Ordenação SUD"
+msgstr "Santos dos Últimos Dias/Ordenação SUD"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:2704 ../gramps/plugins/webreport/narrativeweb.py:2705 ../gramps/plugins/webreport/narrativeweb.py:6528 ../gramps/plugins/webreport/narrativeweb.py:6831
 msgid "Family Map"
@@ -28475,7 +28475,7 @@ msgstr "Nome próprio"
 #. set progress bar pass for Repositories
 #: ../gramps/plugins/webreport/narrativeweb.py:3429 ../gramps/plugins/webreport/narrativeweb.py:3763 ../gramps/plugins/webreport/narrativeweb.py:4136 ../gramps/plugins/webreport/narrativeweb.py:4801 ../gramps/plugins/webreport/narrativeweb.py:5042 ../gramps/plugins/webreport/narrativeweb.py:6057 ../gramps/plugins/webreport/narrativeweb.py:7692 ../gramps/plugins/webreport/narrativeweb.py:8576 ../gramps/plugins/webreport/narrativeweb.py:8581 ../gramps/plugins/webreport/narrativeweb.py:9112 ../gramps/plugins/webreport/narrativeweb.py:9165 ../gramps/plugins/webreport/narrativeweb.py:9185 ../gramps/plugins/webreport/narrativeweb.py:9194 ../gramps/plugins/webreport/narrativeweb.py:9236
 msgid "Narrated Web Site Report"
-msgstr "Relatório de Página Web Narrativa"
+msgstr "Relatório de Página Web narrativa"
 
 #: ../gramps/plugins/webreport/narrativeweb.py:3430
 msgid "Creating family pages..."
